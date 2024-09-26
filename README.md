@@ -13,8 +13,8 @@
 | 有効 | Enabled | addServer.resourcePack.enabled |
 | 毎回確認 | Prompt | addServer.resourcePack.prompt |
 | サーバー情報の編集 | Edit Server Info | addServer.title |
-| 「@e」ですべてのエンティティを対象にします | Use \@e\" to target all entities" | advMode.allEntities |
-| 「@a」ですべてのプレイヤーを対象にします | Use \@a\" to target all players" | advMode.allPlayers |
+| 「@e」ですべてのエンティティを対象にします | Use \"@e\" to target all entities | advMode.allEntities |
+| 「@a」ですべてのプレイヤーを対象にします | Use \"@a\" to target all players | advMode.allPlayers |
 | コンソールコマンド | Console Command | advMode.command |
 | モード | Mode | advMode.mode |
 | リピート | Repeat | advMode.mode.auto |
@@ -24,18 +24,18 @@
 | 動力が必要 | Needs Redstone | advMode.mode.redstoneTriggered |
 | チェーン | Chain | advMode.mode.sequence |
 | 無条件 | Unconditional | advMode.mode.unconditional |
-| 「@p」で最寄りのプレイヤーを対象にします | Use \@p\" to target nearest player" | advMode.nearestPlayer |
+| 「@p」で最寄りのプレイヤーを対象にします | Use \"@p\" to target nearest player | advMode.nearestPlayer |
 | オペレーター権限のあるクリエイティブモードのプレイヤーでなくてはなりません | Must be an opped player in creative mode | advMode.notAllowed |
 | このサーバーではコマンドブロックが有効ではありません | Command blocks are not enabled on this server | advMode.notEnabled |
 | 前回の実行結果 | Previous Output | advMode.previousOutput |
-| 「@r」でランダムなプレイヤーを対象にします | Use \@r\" to target random player" | advMode.randomPlayer |
-| 「@s」で実行されているエンティティを対象にします | Use \@s\" to target the executing entity" | advMode.self |
+| 「@r」でランダムなプレイヤーを対象にします | Use \"@r\" to target random player | advMode.randomPlayer |
+| 「@s」で実行されているエンティティを対象にします | Use \"@s\" to target the executing entity | advMode.self |
 | コマンドブロックが実行するコンソールコマンド | Set Console Command for Block | advMode.setCommand |
-| コマンドを設定しました：%s | "Command set |  %s," | advMode.setCommand.success |
+| コマンドを設定しました：%s | Command set: %s | advMode.setCommand.success |
 | トラックの出力 | Track output | advMode.trackOutput |
 | トリガー | Triggering | advMode.triggering |
 | タイプ | Type | advMode.type |
-| 不明な進捗です：%s | "Unknown advancement |  %s," | advancement.advancementNotFound |
+| 不明な進捗です：%s | Unknown advancement: %s | advancement.advancementNotFound |
 | すべての種類のバイオームを発見する | Discover every biome | advancements.adventure.adventuring_time.description |
 | 冒険の時間 | Adventuring Time | advancements.adventure.adventuring_time.title |
 | 5種類のMobをクロスボウを使って一度に倒す | Kill five unique mobs with one crossbow shot | advancements.adventure.arbalistic.description |
@@ -69,7 +69,7 @@
 | 火事を起こすことなく不意な落雷から村人を守る | Protect a Villager from an undesired shock without starting a fire | advancements.adventure.lightning_rod_with_villager_no_fire.description |
 | 危機一髪 | Surge Protector | advancements.adventure.lightning_rod_with_villager_no_fire.title |
 | 試練の間に足を踏み入れる | Step foot in a Trial Chamber | advancements.adventure.minecraft_trials_edition.description |
-| "Minecraft |  トライアル版," | "Minecraft |  Trial(s) Edition," | advancements.adventure.minecraft_trials_edition.title |
+| Minecraft: トライアル版 | Minecraft: Trial(s) Edition | advancements.adventure.minecraft_trials_edition.title |
 | クロスボウを撃つ | Shoot a Crossbow | advancements.adventure.ol_betsy.description |
 | おてんば | Ol' Betsy | advancements.adventure.ol_betsy.title |
 | メイスを使って一撃でハート50個分のダメージを与える | Deal 50 hearts of damage in a single hit using the Mace | advancements.adventure.overoverkill.description |
@@ -98,7 +98,7 @@
 | あれは鳥？ | Is It a Bird? | advancements.adventure.spyglass_at_parrot.title |
 | 村を守ってもらうためにアイアンゴーレムを召喚する | Summon an Iron Golem to help defend a village | advancements.adventure.summon_iron_golem.description |
 | お手伝いさん | Hired Help | advancements.adventure.summon_iron_golem.title |
-| トライデントを投げつける。\n注意：唯一の武器を捨てることは良い考えではありません。 | "Throw a Trident at something.\nNote |  Throwing away your only weapon is not a good idea.," | advancements.adventure.throw_trident.description |
+| トライデントを投げつける。\n注意：唯一の武器を捨てることは良い考えではありません。 | Throw a Trident at something.\nNote: Throwing away your only weapon is not a good idea. | advancements.adventure.throw_trident.description |
 | もったいぶった一言 | A Throwaway Joke | advancements.adventure.throw_trident.title |
 | 不死のトーテムを使用して死を免れる | Use a Totem of Undying to cheat death | advancements.adventure.totem_of_undying.description |
 | 死を超えて | Postmortal | advancements.adventure.totem_of_undying.title |
@@ -106,7 +106,7 @@
 | 良い取引だ！ | What a Deal! | advancements.adventure.trade.title |
 | 建築限界高度で村人と取引をする | Trade with a Villager at the build height limit | advancements.adventure.trade_at_world_height.description |
 | 星の商人 | Star Trader | advancements.adventure.trade_at_world_height.title |
-| 尖塔風、ブタの鼻風、あばら模様、監獄風、静寂、ヴェックス風、潮流風、先駆者風の防具装飾を、それぞれ最低一回以上施す | "Apply these smithing templates at least once |  Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder," | advancements.adventure.trim_with_all_exclusive_armor_patterns.description |
+| 尖塔風、ブタの鼻風、あばら模様、監獄風、静寂、ヴェックス風、潮流風、先駆者風の防具装飾を、それぞれ最低一回以上施す | Apply these smithing templates at least once: Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder | advancements.adventure.trim_with_all_exclusive_armor_patterns.description |
 | オシャレな鍛冶職人 | Smithing with Style | advancements.adventure.trim_with_all_exclusive_armor_patterns.title |
 | 鍛冶台で防具に装飾を施す | Craft a trimmed armor at a Smithing Table | advancements.adventure.trim_with_any_armor_pattern.description |
 | おニューの衣装 | Crafting a New Look | advancements.adventure.trim_with_any_armor_pattern.title |
@@ -208,7 +208,7 @@
 | ポーションを醸造する | Brew a Potion | advancements.nether.brew_potion.description |
 | 町のお薬屋さん | Local Brewery | advancements.nether.brew_potion.title |
 | リスポーンアンカーを最大までチャージする | Charge a Respawn Anchor to the maximum | advancements.nether.charge_respawn_anchor.description |
-| 人に九生なし | Not Quite \Nine\" Lives" | advancements.nether.charge_respawn_anchor.title |
+| 人に九生なし | Not Quite \"Nine\" Lives | advancements.nether.charge_respawn_anchor.title |
 | ビーコンを組み立てて起動させる | Construct and place a Beacon | advancements.nether.create_beacon.description |
 | 生活のビーコン | Bring Home the Beacon | advancements.nether.create_beacon.title |
 | 最大パワーのビーコンを作る | Bring a Beacon to full power | advancements.nether.create_full_beacon.description |
@@ -250,7 +250,7 @@
 | ロードストーンにコンパスを使用する | Use a Compass on a Lodestone | advancements.nether.use_lodestone.description |
 | この道をずっとゆけば | Country Lode, Take Me Home | advancements.nether.use_lodestone.title |
 | %s／%s | %s/%s | advancements.progress |
-| (´･ω･`) | " | (," | advancements.sad_label |
+| (´･ω･`) | :( | advancements.sad_label |
 | 村人ゾンビを弱らせてから治療する | Weaken and then cure a Zombie Villager | advancements.story.cure_zombie_villager.description |
 | ゾンビドクター | Zombie Doctor | advancements.story.cure_zombie_villager.title |
 | 盾で飛び道具を跳ね返す | Deflect a projectile with a Shield | advancements.story.deflect_arrow.description |
@@ -297,7 +297,7 @@
 | ブロック%sにはプロパティ「%s」がありません | Block %s does not have property '%s' | argument.block.property.unknown |
 | タグは許容されません、ブロックを指定してください | Tags aren't allowed here, only actual blocks | argument.block.tag.disallowed |
 | 「%s」は不明な色です | Unknown color '%s' | argument.color.invalid |
-| 無効なチャットのコンポーネントです：%s | "Invalid chat component |  %s," | argument.component.invalid |
+| 無効なチャットのコンポーネントです：%s | Invalid chat component: %s | argument.component.invalid |
 | 「%s」は不明な条件です | Unknown criterion '%s' | argument.criteria.invalid |
 | 「%s」は不明なディメンションです | Unknown dimension '%s' | argument.dimension.invalid |
 | この倍精度浮動小数点数は%s以下でなくてはならないため、%sは適しません | Double must not be more than %s, found %s | argument.double.big |
@@ -346,12 +346,12 @@
 | 実行したエンティティ | Current entity | argument.entity.selector.self |
 | 「%s」は不明なセレクタの種類です | Unknown selector type '%s' | argument.entity.selector.unknown |
 | 単体のエンティティを指定してください、そのセレクタは複数体指定しています | Only one entity is allowed, but the provided selector allows more than one | argument.entity.toomany |
-| 「%s」は無効な値です | Invalid value \%s\"" | argument.enum.invalid |
+| 「%s」は無効な値です | Invalid value \"%s\" | argument.enum.invalid |
 | この浮動小数点数は%s以下でなくてはならないため、%sは適しません | Float must not be more than %s, found %s | argument.float.big |
 | この浮動小数点数は%s以上でなくてはならないため、%sは適しません | Float must not be less than %s, found %s | argument.float.low |
-| 不明なゲームモードです：%s | "Unknown game mode |  %s," | argument.gamemode.invalid |
+| 不明なゲームモードです：%s | Unknown game mode: %s | argument.gamemode.invalid |
 | 無効なIDです | Invalid ID | argument.id.invalid |
-| 不明なIDです：%s | "Unknown ID |  %s," | argument.id.unknown |
+| 不明なIDです：%s | Unknown ID: %s | argument.id.unknown |
 | この整数は%s以下でなくてはならないため、%sは適しません | Integer must not be more than %s, found %s | argument.integer.big |
 | この整数は%s以上でなくてはならないため、%sは適しません | Integer must not be less than %s, found %s | argument.integer.low |
 | 「%s」は不明なアイテムです | Unknown item '%s' | argument.item.id.invalid |
@@ -382,14 +382,14 @@
 | 最小値を最大値より大きくできません | Min cannot be bigger than max | argument.range.swapped |
 | 要素「%s」は不正な種類「%s」を持っています（もしかして：「%s」） | Element '%s' has wrong type '%s' (expected '%s') | argument.resource.invalid_type |
 | タイプ「%2$s」の要素「%1$s」が見つかりませんでした | Can't find element '%s' of type '%s' | argument.resource.not_found |
-| 構造の解析に失敗しました：%s | "Failed to parse structure |  %s," | argument.resource_or_id.failed_to_parse |
+| 構造の解析に失敗しました：%s | Failed to parse structure: %s | argument.resource_or_id.failed_to_parse |
 | 不正なIDあるいはタグです | Invalid id or tag | argument.resource_or_id.invalid |
 | タグ「%s」は不正な種類「%s」を持っています（もしかして：「%s」） | Tag '%s' has wrong type '%s' (expected '%s') | argument.resource_tag.invalid_type |
 | タイプ「%2$s」のタグ「%1$s」が見つかりませんでした | Can't find tag '%s' of type '%s' | argument.resource_tag.not_found |
 | 値が不足しています（座標は2つ必要です） | Incomplete (expected 2 coordinates) | argument.rotation.incomplete |
 | 関連するスコア保持者は見つかりませんでした | No relevant score holders could be found | argument.scoreHolder.empty |
 | 「%s」は不明な表示スロットです | Unknown display slot '%s' | argument.scoreboardDisplaySlot.invalid |
-| 無効なスタイルです：%s | "Invalid style |  %s," | argument.style.invalid |
+| 無効なスタイルです：%s | Invalid style: %s | argument.style.invalid |
 | ティック値は正の値である必要があります | The tick count must be non-negative | argument.time.invalid_tick_count |
 | 無効な単位です | Invalid unit | argument.time.invalid_unit |
 | ティック数は%1$s以上でなければいけませんが、%2$sが入力されています。 | The tick count must not be less than %s, found %s | argument.time.tick_count_too_low |
@@ -398,12 +398,12 @@
 | 「%s」は不明な関数タグです | Unknown function tag '%s' | arguments.function.tag.unknown |
 | 「%s」は不明な関数です | Unknown function %s | arguments.function.unknown |
 | アイテムコンポーネントが必要です | Expected item component | arguments.item.component.expected |
-| 不正な「%s」のコンポーネントの形式です：%s | "Malformed '%s' component |  '%s'," | arguments.item.component.malformed |
+| 不正な「%s」のコンポーネントの形式です：%s | Malformed '%s' component: '%s' | arguments.item.component.malformed |
 | アイテムコンポーネント「%s」は一つしか指定できませんが、複数回指定されています | Item component '%s' was repeated, but only one value can be specified | arguments.item.component.repeated |
 | 「%s」は不明なアイテムコンポーネントです | Unknown item component '%s' | arguments.item.component.unknown |
-| 不正なアイテムの形式です：%s | "Malformed item |  '%s'," | arguments.item.malformed |
+| 不正なアイテムの形式です：%s | Malformed item: '%s' | arguments.item.malformed |
 | %sは%sまでしかスタックができません | %s can only stack up to %s | arguments.item.overstacked |
-| 不正な「%s」の条件の形式です：%s | "Malformed '%s' predicate |  '%s'," | arguments.item.predicate.malformed |
+| 不正な「%s」の条件の形式です：%s | Malformed '%s' predicate: '%s' | arguments.item.predicate.malformed |
 | 「%s」は不明なアイテム条件です | Unknown item predicate '%s' | arguments.item.predicate.unknown |
 | 「%s」は不明なアイテムタグです | Unknown item tag '%s' | arguments.item.tag.unknown |
 | 無効なNBTパスの要素です | Invalid NBT path element | arguments.nbtpath.node.invalid |
@@ -418,9 +418,9 @@
 | %s %s | %s %s | attribute.modifier.equals.0 |
 | %2$s %1$s%% | %s%% %s | attribute.modifier.equals.1 |
 | %s%% %s | %s%% %s | attribute.modifier.equals.2 |
-| %2$s +%1$s | #ERROR! | attribute.modifier.plus.0 |
-| %2$s +%1$s%% | #ERROR! | attribute.modifier.plus.1 |
-| #ERROR! | #ERROR! | attribute.modifier.plus.2 |
+| %2$s +%1$s | =+%s %s | attribute.modifier.plus.0 |
+| %2$s +%1$s%% | =+%s%% %s | attribute.modifier.plus.1 |
+| =+%s%% %s | =+%s%% %s | attribute.modifier.plus.2 |
 | %2$s -%1$s | -%s %s | attribute.modifier.take.0 |
 | %2$s -%1$s%% | -%s%% %s | attribute.modifier.take.1 |
 | -%s%% %s | -%s%% %s | attribute.modifier.take.2 |
@@ -2073,7 +2073,7 @@
 | 壁に付けられた魂の松明 | Soul Wall Torch | block.minecraft.soul_wall_torch |
 | ベッドもしくはチャージされたリスポーンアンカーが存在しないか、あるいは塞がれています。 | You have no home bed or charged respawn anchor, or it was obstructed | block.minecraft.spawn.not_valid |
 | モンスタースポナー | Monster Spawner | block.minecraft.spawner |
-| スポーンエッグを使用： | "Interact with Spawn Egg | ," | block.minecraft.spawner.desc1 |
+| スポーンエッグを使用： | Interact with Spawn Egg: | block.minecraft.spawner.desc1 |
 | Mobの種類を設定 | Sets Mob Type | block.minecraft.spawner.desc2 |
 | スポンジ | Sponge | block.minecraft.sponge |
 | 胞子の花 | Spore Blossom | block.minecraft.spore_blossom |
@@ -2269,7 +2269,7 @@
 | ゾンビの頭 | Zombie Head | block.minecraft.zombie_head |
 | 壁に付けられたゾンビの頭 | Zombie Wall Head | block.minecraft.zombie_wall_head |
 | 著者：%1$s | by %1$s | book.byAuthor |
-| 本のタイトルを入力してください： | "Enter Book Title | ," | book.editTitle |
+| 本のタイトルを入力してください： | Enter Book Title: | book.editTitle |
 | 署名して閉じる | Sign and Close | book.finalizeButton |
 | 注意！署名をすると、二度と編集ができなくなります。 | Note! When you sign the book, it will no longer be editable. | book.finalizeWarning |
 | オリジナル | Original | book.generation.0 |
@@ -2306,11 +2306,11 @@
 | ［%s行のチャットを保留中］ | [+%s pending lines] | chat.queue |
 | [%s] | [%s] | chat.square_brackets |
 | サーバーが無効なメッセージを送信しました。 | Server sent invalid message. | chat.tag.error |
-| このメッセージはサーバーによって変更されています。原文： | "Message modified by the server. Original | ," | chat.tag.modified |
+| このメッセージはサーバーによって変更されています。原文： | Message modified by the server. Original: | chat.tag.modified |
 | 安全性が確認されていないメッセージです。このメッセージを報告することはできません。 | Unverified message. Cannot be reported. | chat.tag.not_secure |
 | これはサーバーからのメッセージです。このメッセージを通報することはできません。 | Server message. Cannot be reported. | chat.tag.system |
 | これはサーバーからのメッセージです。 | Server message. | chat.tag.system_single_player |
-| ［%s：%s］ | "[%s |  %s]," | chat.type.admin |
+| ［%s：%s］ | [%s: %s] | chat.type.admin |
 | %sが挑戦%sを完了しました | %s has completed the challenge %s | chat.type.advancement.challenge |
 | %sが目標%sを達成しました | %s has reached the goal %s | chat.type.advancement.goal |
 | %sが進捗%sを達成しました | %s has made the advancement %s | chat.type.advancement.task |
@@ -2322,7 +2322,7 @@
 | <%s> %s | <%s> %s | chat.type.text |
 | %sが%sと言いました | %s says %s | chat.type.text.narrate |
 | チャットの検証エラー | Chat validation error | chat.validation_error |
-| メッセージ送信内容：%s | "Message to send |  %s," | chat_screen.message |
+| メッセージ送信内容：%s | Message to send: %s | chat_screen.message |
 | チャット画面 | Chat screen | chat_screen.title |
 | メッセージを入力し、Enterキーを押して送信 | Input message and press Enter to send | chat_screen.usage |
 | 詳細はログをご確認ください | See log for more details | chunk.toast.checkLog |
@@ -2349,8 +2349,8 @@
 | 白色 | White | color.minecraft.white |
 | 黄色 | Yellow | color.minecraft.yellow |
 | ←［問題箇所］ | <--[HERE] | command.context.here |
-| %2$s文字目の%1$s：%3$s | "%s at position %s |  %s," | command.context.parse_error |
-| コマンドを解釈できませんでした：%s | "Could not parse command |  %s," | command.exception |
+| %2$s文字目の%1$s：%3$s | %s at position %s: %s | command.context.parse_error |
+| コマンドを解釈できませんでした：%s | Could not parse command: %s | command.exception |
 | 引数の区切りに空白が必要ですが、つながっています | Expected whitespace to end one argument, but found trailing data | command.expected.separator |
 | コマンドの実行中に予期せぬエラーが発生しました | An unexpected error occurred trying to execute that command | command.failed |
 | 実行文脈数の上限（%s）に達しました | Maximum number of contexts (%s) reached | command.forkLimit |
@@ -2393,25 +2393,25 @@
 | エンティティ「%3$s」の属性「%2$s」の補正値「%1$s」の値は%4$sです | Value of modifier %s on attribute %s for entity %s is %s | commands.attribute.modifier.value.get.success |
 | エンティティ「%2$s」の属性「%1$s」の値は%3$sです | Value of attribute %s for entity %s is %s | commands.attribute.value.get.success |
 | 指定したプレイヤーは既にアクセスが禁止されているため、変更されませんでした | Nothing changed. The player is already banned | commands.ban.failed |
-| %sのアクセスを禁止しました：%s | "Banned %s |  %s," | commands.ban.success |
+| %sのアクセスを禁止しました：%s | Banned %s: %s | commands.ban.success |
 | 指定したIPアドレスは既にアクセスが禁止されているため、変更されませんでした | Nothing changed. That IP is already banned | commands.banip.failed |
-| このアクセスの禁止は以下の%s人のプレイヤーに影響を及ぼします：%s | "This ban affects %s player(s) |  %s," | commands.banip.info |
+| このアクセスの禁止は以下の%s人のプレイヤーに影響を及ぼします：%s | This ban affects %s player(s): %s | commands.banip.info |
 | 無効なIPアドレスまたは不明なプレイヤーです | Invalid IP address or unknown player | commands.banip.invalid |
-| IPアドレス%sからのアクセスを禁止しました：%s | "Banned IP %s |  %s," | commands.banip.success |
-| %sが%sにアクセスを禁止されました：%s | "%s was banned by %s |  %s," | commands.banlist.entry |
+| IPアドレス%sからのアクセスを禁止しました：%s | Banned IP %s: %s | commands.banip.success |
+| %sが%sにアクセスを禁止されました：%s | %s was banned by %s: %s | commands.banlist.entry |
 | （不明） | (Unknown) | commands.banlist.entry.unknown |
-| %s人のプレイヤーのアクセスが禁止されています： | "There are %s ban(s) | ," | commands.banlist.list |
+| %s人のプレイヤーのアクセスが禁止されています： | There are %s ban(s): | commands.banlist.list |
 | 現在アクセスが禁止されているプレイヤーはいません | There are no bans | commands.banlist.none |
 | ID「%s」を持っているボスバーは既に存在します | A bossbar already exists with the ID '%s' | commands.bossbar.create.failed |
 | カスタムボスバー%sを作成しました | Created custom bossbar %s | commands.bossbar.create.success |
 | カスタムボスバー%sの最大値は%sです | Custom bossbar %s has a maximum of %s | commands.bossbar.get.max |
 | カスタムボスバー%sに登録された現在オンラインのプレイヤーはいません | Custom bossbar %s has no players currently online | commands.bossbar.get.players.none |
-| カスタムボスバー%sを表示するように設定された現在オンラインのプレイヤーが以下の%s人います：%s | "Custom bossbar %s has %s player(s) currently online |  %s," | commands.bossbar.get.players.some |
+| カスタムボスバー%sを表示するように設定された現在オンラインのプレイヤーが以下の%s人います：%s | Custom bossbar %s has %s player(s) currently online: %s | commands.bossbar.get.players.some |
 | カスタムボスバー%sの値は%sです | Custom bossbar %s has a value of %s | commands.bossbar.get.value |
 | カスタムボスバー%sは現在非表示になっています | Custom bossbar %s is currently hidden | commands.bossbar.get.visible.hidden |
 | カスタムボスバー%sは現在表示されています | Custom bossbar %s is currently shown | commands.bossbar.get.visible.visible |
 | アクティブなカスタムボスバーがありません | There are no custom bossbars active | commands.bossbar.list.bars.none |
-| アクティブなカスタムボスバーが%s個あります：%s | "There are %s custom bossbar(s) active |  %s," | commands.bossbar.list.bars.some |
+| アクティブなカスタムボスバーが%s個あります：%s | There are %s custom bossbar(s) active: %s | commands.bossbar.list.bars.some |
 | カスタムボスバー%sを削除しました | Removed custom bossbar %s | commands.bossbar.remove.success |
 | カスタムボスバー%sの色が変更されました | Custom bossbar %s has changed color | commands.bossbar.set.color.success |
 | 指定したボスバーは既にその色であるため、変更されませんでした | Nothing changed. That's already the color of this bossbar | commands.bossbar.set.color.unchanged |
@@ -2420,7 +2420,7 @@
 | カスタムボスバー%sの名前が変更されました | Custom bossbar %s has been renamed | commands.bossbar.set.name.success |
 | 指定したボスバーは既にその名前であるため、変更されませんでした | Nothing changed. That's already the name of this bossbar | commands.bossbar.set.name.unchanged |
 | カスタムボスバー%sに登録されたプレイヤーがいなくなりました | Custom bossbar %s no longer has any players | commands.bossbar.set.players.success.none |
-| カスタムボスバー%sが表示されるプレイヤーが以下の%s人になりました：%s | "Custom bossbar %s now has %s player(s) |  %s," | commands.bossbar.set.players.success.some |
+| カスタムボスバー%sが表示されるプレイヤーが以下の%s人になりました：%s | Custom bossbar %s now has %s player(s): %s | commands.bossbar.set.players.success.some |
 | 指定したプレイヤーは既にボスバーに登録されているため、変更されませんでした | Nothing changed. Those players are already on the bossbar with nobody to add or remove | commands.bossbar.set.players.unchanged |
 | カスタムボスバー%sのスタイルが変更されました | Custom bossbar %s has changed style | commands.bossbar.set.style.success |
 | 指定したボスバーは既にそのスタイルであるため、変更されませんでした | Nothing changed. That's already the style of this bossbar | commands.bossbar.set.style.unchanged |
@@ -2444,31 +2444,31 @@
 | ブロック%2$s, %3$s, %4$sの%1$sを%5$s倍した値は%6$sです | %s on block %s, %s, %s after scale factor of %s is %s | commands.data.block.get |
 | 対象のブロックはブロックエンティティではありません | The target block is not a block entity | commands.data.block.invalid |
 | %s, %s, %sのブロックデータを変更しました | Modified block data of %s, %s, %s | commands.data.block.modified |
-| %s, %s, %sは以下のブロックデータを持っています：%s | "%s, %s, %s has the following block data |  %s," | commands.data.block.query |
+| %s, %s, %sは以下のブロックデータを持っています：%s | %s, %s, %s has the following block data: %s | commands.data.block.query |
 | %2$sの%1$sを%3$s倍した値は%4$sです | %s on %s after scale factor of %s is %s | commands.data.entity.get |
 | プレイヤーのデータは変更できません | Unable to modify player data | commands.data.entity.invalid |
 | %sのエンティティデータを変更しました | Modified entity data of %s | commands.data.entity.modified |
-| %sは以下のエンティティデータを持っています：%s | "%s has the following entity data |  %s," | commands.data.entity.query |
+| %sは以下のエンティティデータを持っています：%s | %s has the following entity data: %s | commands.data.entity.query |
 | %sは数値タグでないため、値を取得できません | Can't get %s; only numeric tags are allowed | commands.data.get.invalid |
 | この引数には単一のNBT値を渡すことができます。 | This argument accepts a single NBT value | commands.data.get.multiple |
 | 対象は%sを持っていないため、値を取得できませんでした | Can't get %s; tag doesn't exist | commands.data.get.unknown |
 | 指定されたプロパティは既にタグを持っていたため、変更されませんでした | Nothing changed. The specified properties already have these values | commands.data.merge.failed |
-| リストが必要ですが、%sが渡されました | "Expected list, got |  %s," | commands.data.modify.expected_list |
-| オブジェクトが必要ですが、%sが渡されました | "Expected object, got |  %s," | commands.data.modify.expected_object |
-| 値が必要ですが、%sが渡されました | "Expected value, got |  %s," | commands.data.modify.expected_value |
-| 無効なリストインデックスです：%s | "Invalid list index |  %s," | commands.data.modify.invalid_index |
-| 無効な部分文字列インデックスです：%s文字目から%s文字目 | "Invalid substring indices |  %s to %s," | commands.data.modify.invalid_substring |
+| リストが必要ですが、%sが渡されました | Expected list, got: %s | commands.data.modify.expected_list |
+| オブジェクトが必要ですが、%sが渡されました | Expected object, got: %s | commands.data.modify.expected_object |
+| 値が必要ですが、%sが渡されました | Expected value, got: %s | commands.data.modify.expected_value |
+| 無効なリストインデックスです：%s | Invalid list index: %s | commands.data.modify.invalid_index |
+| 無効な部分文字列インデックスです：%s文字目から%s文字目 | Invalid substring indices: %s to %s | commands.data.modify.invalid_substring |
 | ストレージ変数%2$sの%1$sを%3$s倍した値は%4$sです | %s in storage %s after scale factor of %s is %s | commands.data.storage.get |
 | ストレージ変数%sを変更しました | Modified storage %s | commands.data.storage.modified |
-| ストレージ変数%sは以下の内容を持っています：%s | "Storage %s has the following contents |  %s," | commands.data.storage.query |
+| ストレージ変数%sは以下の内容を持っています：%s | Storage %s has the following contents: %s | commands.data.storage.query |
 | データパック「%s」は有効ではありません | Pack '%s' is not enabled! | commands.datapack.disable.failed |
 | 有効化されたフラグの一部であるため、パック「%s」は無効化できません！ | Pack '%s' cannot be disabled, since it is part of an enabled flag! | commands.datapack.disable.failed.feature |
 | データパック「%s」は既に有効です | Pack '%s' is already enabled! | commands.datapack.enable.failed |
-| 要求されたフラグ%2$sをこのワールドで有効化出来ないため、データパック「%1$s」を有効化することができません。 | "Pack '%s' cannot be enabled, since required flags are not enabled in this world |  %s!," | commands.datapack.enable.failed.no_flags |
+| 要求されたフラグ%2$sをこのワールドで有効化出来ないため、データパック「%1$s」を有効化することができません。 | Pack '%s' cannot be enabled, since required flags are not enabled in this world: %s! | commands.datapack.enable.failed.no_flags |
 | 利用可能なデータパックがありません | There are no more data packs available | commands.datapack.list.available.none |
-| 利用可能なデータパックが%s個あります：%s | "There are %s data pack(s) available |  %s," | commands.datapack.list.available.success |
+| 利用可能なデータパックが%s個あります：%s | There are %s data pack(s) available: %s | commands.datapack.list.available.success |
 | 有効になっているデータパックがありません | There are no data packs enabled | commands.datapack.list.enabled.none |
-| %s個のデータパックが有効になっています：%s | "There are %s data pack(s) enabled |  %s," | commands.datapack.list.enabled.success |
+| %s個のデータパックが有効になっています：%s | There are %s data pack(s) enabled: %s | commands.datapack.list.enabled.success |
 | データパック%sを無効にしました | Disabling data pack %s | commands.datapack.modify.disable |
 | データパック%sを有効にしました | Enabling data pack %s | commands.datapack.modify.enable |
 | 「%s」は不明なデータパックです | Unknown data pack '%s' | commands.datapack.unknown |
@@ -2511,10 +2511,10 @@
 | %2$sの持っているアイテムに%1$sのエンチャントを適用しました | Applied enchantment %s to %s's item | commands.enchant.success.single |
 | 指定した領域にあるブロックが多すぎます（最大%s、指定%s） | Too many blocks in the specified area (maximum %s, specified %s) | commands.execute.blocks.toobig |
 | テストに失敗しました | Test failed | commands.execute.conditional.fail |
-| テストに失敗しました。回数：%s | "Test failed, count |  %s," | commands.execute.conditional.fail_count |
+| テストに失敗しました。回数：%s | Test failed, count: %s | commands.execute.conditional.fail_count |
 | テストに成功しました | Test passed | commands.execute.conditional.pass |
-| テストに成功しました。回数：%s | "Test passed, count |  %s," | commands.execute.conditional.pass_count |
-| 関数「%s」への変数の代入に失敗しました：%s | "Failed to instantiate function %s |  %s," | commands.execute.function.instantiationFailure |
+| テストに成功しました。回数：%s | Test passed, count: %s | commands.execute.conditional.pass_count |
+| 関数「%s」への変数の代入に失敗しました：%s | Failed to instantiate function %s: %s | commands.execute.function.instantiationFailure |
 | %2$s人のプレイヤーに経験値レベルを%1$s与えました | Gave %s experience levels to %s players | commands.experience.add.levels.success.multiple |
 | %2$sに経験値レベルを%1$s与えました | Gave %s experience levels to %s | commands.experience.add.levels.success.single |
 | %2$s人のプレイヤーに%1$s経験値ポイントを与えました | Gave %s experience points to %s players | commands.experience.add.points.success.multiple |
@@ -2536,8 +2536,8 @@
 | %2$s内の%3$sから%4$sの範囲にある%1$sチャンクの読み込みを強制にしました | Marked %s chunks in %s from %s to %s to be force loaded | commands.forceload.added.multiple |
 | %s内に強制的に読み込まれるチャンクは見つかりませんでした | No force loaded chunks were found in %s | commands.forceload.added.none |
 | %2$s内のチャンク%1$sの読み込みを強制にしました | Marked chunk %s in %s to be force loaded | commands.forceload.added.single |
-| %2$s内に強制的に読み込まれるチャンクが%1$s個見つかりました：%3$s | "%s force loaded chunks were found in %s at |  %s," | commands.forceload.list.multiple |
-| %s内に強制的に読み込まれるチャンクが見つかりました：%s | "A force loaded chunk was found in %s at |  %s," | commands.forceload.list.single |
+| %2$s内に強制的に読み込まれるチャンクが%1$s個見つかりました：%3$s | %s force loaded chunks were found in %s at: %s | commands.forceload.list.multiple |
+| %s内に強制的に読み込まれるチャンクが見つかりました：%s | A force loaded chunk was found in %s at: %s | commands.forceload.list.single |
 | %2$s内のチャンク%1$sは強制で読み込まれません | Chunk at %s in %s is not marked for force loading | commands.forceload.query.failure |
 | %2$s内のチャンク%1$sは強制で読み込まれます | Chunk at %s in %s is marked for force loading | commands.forceload.query.success |
 | %s内のすべてのチャンクの読み込みを非強制にしました | Unmarked all force loaded chunks in %s | commands.forceload.removed.all |
@@ -2545,11 +2545,11 @@
 | %2$s内の%3$sから%4$sの範囲にある%1$sチャンクの読み込みを非強制にしました | Unmarked %s chunks in %s from %s to %s for force loading | commands.forceload.removed.multiple |
 | %2$s内のチャンク%1$sの読み込みを非強制にしました | Unmarked chunk %s in %s for force loading | commands.forceload.removed.single |
 | 指定した領域にあるチャンクが多すぎます（最大%s、指定%s） | Too many chunks in the specified area (maximum %s, specified %s) | commands.forceload.toobig |
-| %sは無効な引数のタイプです。ここにはCompoundが必要です。 | "Invalid argument type |  %s, expected Compound," | commands.function.error.argument_not_compound |
+| %sは無効な引数のタイプです。ここにはCompoundが必要です。 | Invalid argument type: %s, expected Compound | commands.function.error.argument_not_compound |
 | 関数「%1$s」に引数%2$sが不足しています | Missing argument %2$s to function %1$s | commands.function.error.missing_argument |
 | 関数「%s」に引数が不足しています | Missing arguments to function %s | commands.function.error.missing_arguments |
-| マクロ「%1$s」の変数に値を代入する過程でコマンド「%2$s」にエラーが発生しました：%3$s | "While instantiating macro %s |  Command '%s' caused error |  %s," | commands.function.error.parse |
-| 関数「%s」への変数の代入に失敗しました：%s | "Failed to instantiate function %s |  %s," | commands.function.instantiationFailure |
+| マクロ「%1$s」の変数に値を代入する過程でコマンド「%2$s」にエラーが発生しました：%3$s | While instantiating macro %s: Command '%s' caused error: %s | commands.function.error.parse |
+| 関数「%s」への変数の代入に失敗しました：%s | Failed to instantiate function %s: %s | commands.function.instantiationFailure |
 | 関数「%s」が戻り値%sを返しました | Function %s returned %s | commands.function.result |
 | 関数「%s」を実行中です | Running functions %s | commands.function.scheduled.multiple |
 | 「%s」という名前の関数が見つかりませんでした | Can't find any functions for name %s | commands.function.scheduled.no_functions |
@@ -2560,8 +2560,8 @@
 | 関数「%2$s」が戻り値%1$sを返しました | Function '%2$s' returned %1$s | commands.function.success.single.result |
 | %sのゲームモードを%sに変更しました | Set %s's game mode to %s | commands.gamemode.success.other |
 | ゲームモードを%sに変更しました | Set own game mode to %s | commands.gamemode.success.self |
-| ゲームルール%sは%sに設定されています | "Gamerule %s is currently set to |  %s," | commands.gamerule.query |
-| ゲームルール%sが%sに設定されました | "Gamerule %s is now set to |  %s," | commands.gamerule.set |
+| ゲームルール%sは%sに設定されています | Gamerule %s is currently set to: %s | commands.gamerule.query |
+| ゲームルール%sが%sに設定されました | Gamerule %s is now set to: %s | commands.gamerule.set |
 | %2$sを%1$s個以上与えることは出来ません | Can't give more than %s of %s | commands.give.failed.toomanyitems |
 | %3$s人のプレイヤーに%2$sを%1$s個与えました | Gave %s %s to %s players | commands.give.success.multiple |
 | %3$sに%2$sを%1$s個与えました | Gave %s %s to %s | commands.give.success.single |
@@ -2575,26 +2575,26 @@
 | スロット%sにアイテムを入れられません | No targets accepted item into slot %s | commands.item.target.no_changes |
 | その対象はスロット%sを持っていません | The target does not have slot %s | commands.item.target.no_such_slot |
 | ターゲット位置%s, %s, %sはコンテナではありません | Target position %s, %s, %s is not a container | commands.item.target.not_a_container |
-| JFRのレコーディング結果を%sに保存できませんでした | "Failed to dump JFR recording |  %s," | commands.jfr.dump.failed |
+| JFRのレコーディング結果を%sに保存できませんでした | Failed to dump JFR recording: %s | commands.jfr.dump.failed |
 | JFRによるプロファイリングの開始に失敗しました | Failed to start JFR profiling | commands.jfr.start.failed |
 | JFRによるプロファイリングを開始しました | JFR profiling started | commands.jfr.started |
 | JFRによるプロファイリングを終了し、結果を%sに保存しました | JFR profiling stopped and dumped to %s | commands.jfr.stopped |
 | LANゲームではサーバーの所有者を退出させることはできません | Cannot kick server owner in LAN game | commands.kick.owner.failed |
 | オフラインのシングルプレイではプレイヤーを退出させることはできません | Cannot kick in an offline singleplayer game | commands.kick.singleplayer.failed |
-| %sをゲームから退出させました：%s | "Kicked %s |  %s," | commands.kick.success |
+| %sをゲームから退出させました：%s | Kicked %s: %s | commands.kick.success |
 | %s体のエンティティをキルしました | Killed %s entities | commands.kill.success.multiple |
 | %sをキルしました | Killed %s | commands.kill.success.single |
 | %s（%s） | %s (%s) | commands.list.nameAndId |
-| %s人のプレイヤーがオンラインです（最大%s人）：%s | "There are %s of a max of %s players online |  %s," | commands.list.players |
-| 所定の距離内に「%s」という種類のバイオームは見つかりませんでした | Could not find a biome of type \%s\" within reasonable distance" | commands.locate.biome.not_found |
+| %s人のプレイヤーがオンラインです（最大%s人）：%s | There are %s of a max of %s players online: %s | commands.list.players |
+| 所定の距離内に「%s」という種類のバイオームは見つかりませんでした | Could not find a biome of type \"%s\" within reasonable distance | commands.locate.biome.not_found |
 | 最寄りの%sは%s（直線距離で%sブロック）にあります | The nearest %s is at %s (%s blocks away) | commands.locate.biome.success |
-| 所定の距離内に「%s」という種類の関心地点は見つかりませんでした | Could not find a point of interest of type \%s\" within reasonable distance" | commands.locate.poi.not_found |
+| 所定の距離内に「%s」という種類の関心地点は見つかりませんでした | Could not find a point of interest of type \"%s\" within reasonable distance | commands.locate.poi.not_found |
 | 最寄りの%sは%s（直線距離で%sブロック）にあります | The nearest %s is at %s (%s blocks away) | commands.locate.poi.success |
-| 「%s」という種類の構造物は存在しません | There is no structure with type \%s\"" | commands.locate.structure.invalid |
-| 近くに「%s」という種類の構造物は見つかりませんでした | Could not find a structure of type \%s\" nearby" | commands.locate.structure.not_found |
+| 「%s」という種類の構造物は存在しません | There is no structure with type \"%s\" | commands.locate.structure.invalid |
+| 近くに「%s」という種類の構造物は見つかりませんでした | Could not find a structure of type \"%s\" nearby | commands.locate.structure.not_found |
 | 最寄りの%sは%s（直線距離で%sブロック）にあります | The nearest %s is at %s (%s blocks away) | commands.locate.structure.success |
-| %sにささやかれました：%s | "%s whispers to you |  %s," | commands.message.display.incoming |
-| %sにささやきました：%s | "You whisper to %s |  %s," | commands.message.display.outgoing |
+| %sにささやかれました：%s | %s whispers to you: %s | commands.message.display.incoming |
+| %sにささやきました：%s | You whisper to %s: %s | commands.message.display.outgoing |
 | そのプレイヤーには既に管理者権限があるため、変更できません | Nothing changed. The player already is an operator | commands.op.failed |
 | %sにサーバー管理者権限を付与しました | Made %s a server operator | commands.op.success |
 | そのプレイヤーはアクセスが禁止されていないため、変更されませんでした | Nothing changed. The player isn't banned | commands.pardon.failed |
@@ -2611,17 +2611,17 @@
 | 10秒間のパフォーマンスプロファイリングを開始しました（「/perf stop」で中断します） | Started 10 second performance profiling run (use '/perf stop' to stop early) | commands.perf.started |
 | パフォーマンスプロファイリングを開始から%s秒と%sティック（毎秒%sティック）で停止しました | Stopped performance profiling after %s second(s) and %s tick(s) (%s tick(s) per second) | commands.perf.stopped |
 | 生成物の配置に失敗しました | Failed to place feature | commands.place.feature.failed |
-| 「%s」という名前の生成物は存在しません | There is no feature with type \%s\"" | commands.place.feature.invalid |
-| 「%s」を%s, %s, %sに生成しました | Placed \%s\" at %s, %s, %s" | commands.place.feature.success |
+| 「%s」という名前の生成物は存在しません | There is no feature with type \"%s\" | commands.place.feature.invalid |
+| 「%s」を%s, %s, %sに生成しました | Placed \"%s\" at %s, %s, %s | commands.place.feature.success |
 | ジグソーの生成に失敗しました | Failed to generate jigsaw | commands.place.jigsaw.failed |
-| 「%s」というテンプレートプールは存在しません | There is no template pool with type \%s\"" | commands.place.jigsaw.invalid |
+| 「%s」というテンプレートプールは存在しません | There is no template pool with type \"%s\" | commands.place.jigsaw.invalid |
 | ジグソーを%s, %s, %sに生成しました | Generated jigsaw at %s, %s, %s | commands.place.jigsaw.success |
 | 構造物の配置に失敗しました | Failed to place structure | commands.place.structure.failed |
-| 「%s」という種類の構造物は存在しません | There is no structure with type \%s\"" | commands.place.structure.invalid |
-| 構造物「%s」を%s, %s, %sに生成しました | Generated structure \%s\" at %s, %s, %s" | commands.place.structure.success |
+| 「%s」という種類の構造物は存在しません | There is no structure with type \"%s\" | commands.place.structure.invalid |
+| 構造物「%s」を%s, %s, %sに生成しました | Generated structure \"%s\" at %s, %s, %s | commands.place.structure.success |
 | テンプレートの配置に失敗しました | Failed to place template | commands.place.template.failed |
-| 「%s」というIDのテンプレートは存在しません | There is no template with id \%s\"" | commands.place.template.invalid |
-| テンプレート「%s」を%s, %s, %sに読み込みました | Loaded template \%s\" at %s, %s, %s" | commands.place.template.success |
+| 「%s」というIDのテンプレートは存在しません | There is no template with id \"%s\" | commands.place.template.invalid |
+| テンプレート「%s」を%s, %s, %sに読み込みました | Loaded template \"%s\" at %s, %s, %s | commands.place.template.success |
 | サウンドから遠すぎるため聞こえません | The sound is too far away to be heard | commands.playsound.failed |
 | %2$s人のプレイヤーにサウンド%1$sを再生しました | Played sound %s to %s players | commands.playsound.success.multiple |
 | %2$sにサウンド%1$sを再生しました | Played sound %s to %s | commands.playsound.success.single |
@@ -2634,7 +2634,7 @@
 | %s個の乱数列をリセットしました | Reset %s random sequence(s) | commands.random.reset.all.success |
 | 乱数列%sをリセットしました | Reset random sequence %s | commands.random.reset.success |
 | %sは%sを引きました（値の範囲は%sから%s） | %s rolled %s (from %s to %s) | commands.random.roll |
-| 乱数：%s | "Randomized value |  %s," | commands.random.sample.success |
+| 乱数：%s | Randomized value: %s | commands.random.sample.success |
 | 新しいレシピは解除されませんでした | No new recipes were learned | commands.recipe.give.failed |
 | %2$s人のプレイヤーのレシピを%1$s個解禁しました | Unlocked %s recipes for %s players | commands.recipe.give.success.multiple |
 | %2$sのレシピを%1$s個解禁しました | Unlocked %s recipes for %s | commands.recipe.give.success.single |
@@ -2670,7 +2670,7 @@
 | 表示スロット%sにあるオブジェクトを消去しました | Cleared any objectives in display slot %s | commands.scoreboard.objectives.display.cleared |
 | 表示スロット%sにオブジェクト%sを表示するように設定しました | Set display slot %s to show objective %s | commands.scoreboard.objectives.display.set |
 | オブジェクトがありません | There are no objectives | commands.scoreboard.objectives.list.empty |
-| オブジェクトが%s個あります：%s | "There are %s objective(s) |  %s," | commands.scoreboard.objectives.list.success |
+| オブジェクトが%s個あります：%s | There are %s objective(s): %s | commands.scoreboard.objectives.list.success |
 | オブジェクト%sの表示の自動更新を無効化しました | Disabled display auto-update for objective %s | commands.scoreboard.objectives.modify.displayAutoUpdate.disable |
 | オブジェクト%sの表示の自動更新を有効化しました | Enabled display auto-update for objective %s | commands.scoreboard.objectives.modify.displayAutoUpdate.enable |
 | オブジェクト%sの表示名を%sに変更しました | Changed the display name of %s to %s | commands.scoreboard.objectives.modify.displayname |
@@ -2696,9 +2696,9 @@
 | %1$sの%3$sの値は%2$sです | %s has %s %s | commands.scoreboard.players.get.success |
 | 追跡されているエンティティが存在しません | There are no tracked entities | commands.scoreboard.players.list.empty |
 | %sは表示するスコアがありません | %s has no scores to show | commands.scoreboard.players.list.entity.empty |
-| %s：%s | "%s |  %s," | commands.scoreboard.players.list.entity.entry |
-| %sは%s個のスコアを持っています： | "%s has %s score(s) | ," | commands.scoreboard.players.list.entity.success |
-| 追跡されているエンティティが%s体います：%s | "There are %s tracked entity/entities |  %s," | commands.scoreboard.players.list.success |
+| %s：%s | %s: %s | commands.scoreboard.players.list.entity.entry |
+| %sは%s個のスコアを持っています： | %s has %s score(s): | commands.scoreboard.players.list.entity.success |
+| 追跡されているエンティティが%s体います：%s | There are %s tracked entity/entities: %s | commands.scoreboard.players.list.success |
 | %2$s体のエンティティの%1$sを更新しました | Updated %s for %s entities | commands.scoreboard.players.operation.success.multiple |
 | %2$sの%1$sを%3$sに設定しました | Set %s for %s to %s | commands.scoreboard.players.operation.success.single |
 | %3$s体のエンティティの%2$sを%1$s減算しました | Removed %s from %s for %s entities | commands.scoreboard.players.remove.success.multiple |
@@ -2709,7 +2709,7 @@
 | %2$sの%1$sをリセットしました | Reset %s for %s | commands.scoreboard.players.reset.specific.single |
 | %2$s体のエンティティの%1$sを%3$sに設定しました | Set %s for %s entities to %s | commands.scoreboard.players.set.success.multiple |
 | %2$sの%1$sを%3$sに設定しました | Set %s for %s to %s | commands.scoreboard.players.set.success.single |
-| シード値：%s | "Seed |  %s," | commands.seed.success |
+| シード値：%s | Seed: %s | commands.seed.success |
 | ブロックを設置できませんでした | Could not set the block | commands.setblock.failed |
 | %s, %s, %sにおけるブロックを変更しました | Changed the block at %s, %s, %s | commands.setblock.success |
 | 無操作時のタイムアウトが%s分に設定されました | The player idle timeout is now %s minute(s) | commands.setidletimeout.success |
@@ -2739,9 +2739,9 @@
 | %2$s体のエンティティにタグ「%1$s」を追加しました | Added tag '%s' to %s entities | commands.tag.add.success.multiple |
 | %2$sにタグ「%1$s」を追加しました | Added tag '%s' to %s | commands.tag.add.success.single |
 | %s体のエンティティはタグを持っていません | There are no tags on the %s entities | commands.tag.list.multiple.empty |
-| %s体のエンティティは合計%s個のタグを持っています：%s | "The %s entities have %s total tags |  %s," | commands.tag.list.multiple.success |
+| %s体のエンティティは合計%s個のタグを持っています：%s | The %s entities have %s total tags: %s | commands.tag.list.multiple.success |
 | %sはタグを持っていません | %s has no tags | commands.tag.list.single.empty |
-| %sは%s個のタグを持っています：%s | "%s has %s tags |  %s," | commands.tag.list.single.success |
+| %sは%s個のタグを持っています：%s | %s has %s tags: %s | commands.tag.list.single.success |
 | 対象はそのタグを持っていません | Target does not have this tag | commands.tag.remove.failed |
 | %2$s体のエンティティからタグ「%1$s」を削除しました | Removed tag '%s' from %s entities | commands.tag.remove.success.multiple |
 | %2$sからタグ「%1$s」を削除しました | Removed tag '%s' from %s | commands.tag.remove.success.single |
@@ -2754,14 +2754,14 @@
 | %s人のメンバーをそれぞれのチームから削除しました | Removed %s members from any team | commands.team.leave.success.multiple |
 | %sをそれぞれのチームから削除しました | Removed %s from any team | commands.team.leave.success.single |
 | チーム%sにはメンバーがいません | There are no members on team %s | commands.team.list.members.empty |
-| チーム%sには%s人のメンバーがいます：%s | "Team %s has %s member(s) |  %s," | commands.team.list.members.success |
+| チーム%sには%s人のメンバーがいます：%s | Team %s has %s member(s): %s | commands.team.list.members.success |
 | チームが存在しません | There are no teams | commands.team.list.teams.empty |
-| %s個のチームが存在しています：%s | "There are %s team(s) |  %s," | commands.team.list.teams.success |
-| チーム%sの衝突判定が「%s」になりました | Collision rule for team %s is now \%s\"" | commands.team.option.collisionRule.success |
+| %s個のチームが存在しています：%s | There are %s team(s): %s | commands.team.list.teams.success |
+| チーム%sの衝突判定が「%s」になりました | Collision rule for team %s is now \"%s\" | commands.team.option.collisionRule.success |
 | チームの衝突判定は既にその設定のため、変更されませんでした | Nothing changed. Collision rule is already that value | commands.team.option.collisionRule.unchanged |
 | チーム%sの色を%sに更新しました | Updated the color for team %s to %s | commands.team.option.color.success |
 | そのチームは既にそのチームカラーであるため、変更されませんでした | Nothing changed. That team already has that color | commands.team.option.color.unchanged |
-| チーム%sの死亡メッセージ表示設定が「%s」になりました | Death message visibility for team %s is now \%s\"" | commands.team.option.deathMessageVisibility.success |
+| チーム%sの死亡メッセージ表示設定が「%s」になりました | Death message visibility for team %s is now \"%s\" | commands.team.option.deathMessageVisibility.success |
 | チームの死亡メッセージ表示設定は既にその設定のため、変更されませんでした | Nothing changed. Death message visibility is already that value | commands.team.option.deathMessageVisibility.unchanged |
 | そのチームでは既にフレンドリーファイアが無効のため、変更されませんでした | Nothing changed. Friendly fire is already disabled for that team | commands.team.option.friendlyfire.alreadyDisabled |
 | そのチームでは既にフレンドリーファイアが有効のため、変更されませんでした | Nothing changed. Friendly fire is already enabled for that team | commands.team.option.friendlyfire.alreadyEnabled |
@@ -2769,7 +2769,7 @@
 | チーム%sのフレンドリーファイアを有効にしました | Enabled friendly fire for team %s | commands.team.option.friendlyfire.enabled |
 | チーム%sの名前を更新しました | Updated the name of team %s | commands.team.option.name.success |
 | そのチームは既にその名前のため、変更されませんでした | Nothing changed. That team already has that name | commands.team.option.name.unchanged |
-| チーム%sの名札表示設定が「%s」になりました | Nametag visibility for team %s is now \%s\"" | commands.team.option.nametagVisibility.success |
+| チーム%sの名札表示設定が「%s」になりました | Nametag visibility for team %s is now \"%s\" | commands.team.option.nametagVisibility.success |
 | チームのネームタグの表示設定は既にその設定のため、変更されませんでした | Nothing changed. Nametag visibility is already that value | commands.team.option.nametagVisibility.unchanged |
 | チームの接頭辞を%sに設定しました | Team prefix set to %s | commands.team.option.prefix.success |
 | そのチームでは既に透明化したチームメイトが見えないため、変更されませんでした | Nothing changed. That team already can't see invisible teammates | commands.team.option.seeFriendlyInvisibles.alreadyDisabled |
@@ -2784,9 +2784,9 @@
 | %sを%sにテレポートさせました | Teleported %s to %s | commands.teleport.success.entity.single |
 | %s体のエンティティを%s, %s, %sにテレポートさせました | Teleported %s entities to %s, %s, %s | commands.teleport.success.location.multiple |
 | %sを%s, %s, %sにテレポートさせました | Teleported %s to %s, %s, %s | commands.teleport.success.location.single |
-| パーセンタイル：P50：%sミリ秒、P95：%sミリ秒、P99：%sミリ秒、サンプル数：%s | "Percentiles |  P50 |  %sms P95 |  %sms P99 |  %sms, sample |  %s," | commands.tick.query.percentiles |
-| 対象のティック速度：%sティック／秒\n1ティックの平均所要時間：%sミリ秒（対象：%sミリ秒） | "Target tick rate |  %s per second.\nAverage time per tick |  %sms (Target |  %sms)," | commands.tick.query.rate.running |
-| 対象のティック速度：%sティック／秒（無視、参照のみ）\n1ティックの平均所要時間：%sミリ秒 | "Target tick rate |  %s per second (ignored, reference only).\nAverage time per tick |  %sms," | commands.tick.query.rate.sprinting |
+| パーセンタイル：P50：%sミリ秒、P95：%sミリ秒、P99：%sミリ秒、サンプル数：%s | Percentiles: P50: %sms P95: %sms P99: %sms, sample: %s | commands.tick.query.percentiles |
+| 対象のティック速度：%sティック／秒\n1ティックの平均所要時間：%sミリ秒（対象：%sミリ秒） | Target tick rate: %s per second.\nAverage time per tick: %sms (Target: %sms) | commands.tick.query.rate.running |
+| 対象のティック速度：%sティック／秒（無視、参照のみ）\n1ティックの平均所要時間：%sミリ秒 | Target tick rate: %s per second (ignored, reference only).\nAverage time per tick: %sms | commands.tick.query.rate.sprinting |
 | 対象のティック速度を%sティック毎秒に設定しました | Set the target tick rate to %s per second | commands.tick.rate.success |
 | ティック速度無制限での処理は、%sティック毎秒、または1ティック当たり%sミリ秒で完了しました | Sprint completed with %s ticks per second, or %s ms per tick | commands.tick.sprint.report |
 | ティック速度無制限での処理が行われていません | No tick sprint in progress | commands.tick.sprint.stop.fail |
@@ -2814,8 +2814,8 @@
 | %s人のプレイヤーのタイトル表示時間を変更しました | Changed title display times for %s players | commands.title.times.multiple |
 | %sのタイトル表示時間を変更しました | Changed title display times for %s | commands.title.times.single |
 | 転送するプレイヤーを一人以上指定する必要があります | Must specify at least one player to transfer | commands.transfer.error.no_players |
-| %s人のプレイヤーを%sへ転送しています：%s | "Transferring %s players to %s | %s," | commands.transfer.success.multiple |
-| %sを%sへ転送しています：%s | "Transferring %s to %s | %s," | commands.transfer.success.single |
+| %s人のプレイヤーを%sへ転送しています：%s | Transferring %s players to %s:%s | commands.transfer.success.multiple |
+| %sを%sへ転送しています：%s | Transferring %s to %s:%s | commands.transfer.success.single |
 | %sをトリガーしました（値に%sを加算しました） | Triggered %s (added %s to value) | commands.trigger.add.success |
 | 「trigger」タイプのオブジェクトのみトリガーできます | You can only trigger objectives that are 'trigger' type | commands.trigger.failed.invalid |
 | まだオブジェクトをトリガーできません | You cannot trigger this objective yet | commands.trigger.failed.unprimed |
@@ -2830,7 +2830,7 @@
 | ホワイトリストは既に有効です | Whitelist is already turned on | commands.whitelist.alreadyOn |
 | ホワイトリストが無効になりました | Whitelist is now turned off | commands.whitelist.disabled |
 | ホワイトリストが有効になりました | Whitelist is now turned on | commands.whitelist.enabled |
-| %s人のプレイヤーがホワイトリストに追加されています：%s | "There are %s whitelisted player(s) |  %s," | commands.whitelist.list |
+| %s人のプレイヤーがホワイトリストに追加されています：%s | There are %s whitelisted player(s): %s | commands.whitelist.list |
 | ホワイトリストに追加されているプレイヤーはいません | There are no whitelisted players | commands.whitelist.none |
 | ホワイトリストを再読み込みしました | Reloaded the whitelist | commands.whitelist.reloaded |
 | プレイヤーはホワイトリストに含まれていません | Player is not whitelisted | commands.whitelist.remove.failed |
@@ -2885,7 +2885,7 @@
 | ラピスラズリ1個 | 1 Lapis Lazuli | container.enchant.lapis.one |
 | %sエンチャントレベル | %s Enchantment Levels | container.enchant.level.many |
 | 1エンチャントレベル | 1 Enchantment Level | container.enchant.level.one |
-| 必要なコスト：%sレベル | "Level Requirement |  %s," | container.enchant.level.requirement |
+| 必要なコスト：%sレベル | Level Requirement: %s | container.enchant.level.requirement |
 | エンダーチェスト | Ender Chest | container.enderchest |
 | かまど | Furnace | container.furnace |
 | 修繕・エンチャント除去 | Repair & Disenchant | container.grindstone_title |
@@ -2895,7 +2895,7 @@
 | 書見台 | Lectern | container.lectern |
 | 機織り機 | Loom | container.loom |
 | 修繕・名付け | Repair & Name | container.repair |
-| エンチャントのコスト：%1$sレベル | "Enchantment Cost |  %1$s," | container.repair.cost |
+| エンチャントのコスト：%1$sレベル | Enchantment Cost: %1$s | container.repair.cost |
 | コストが高すぎます！ | Too Expensive! | container.repair.expensive |
 | シュルカーボックス | Shulker Box | container.shulkerBox |
 | %s %s個 | %s x%s | container.shulkerBox.itemCount |
@@ -2908,7 +2908,7 @@
 | この方法ではアイテムを強化できません | Item can't be upgraded this way | container.upgrade.error_tooltip |
 | 鍛冶型を置いてください | Add Smithing Template | container.upgrade.missing_template_tooltip |
 | キー割り当て… | Key Binds... | controls.keybinds |
-| このキーは既に以下の項目で使用されています：\n%s | "This key is also used for | \n%s," | controls.keybinds.duplicateKeybinds |
+| このキーは既に以下の項目で使用されています：\n%s | This key is also used for:\n%s | controls.keybinds.duplicateKeybinds |
 | キー割り当て | Key Binds | controls.keybinds.title |
 | リセット | Reset | controls.reset |
 | 操作設定をリセット | Reset Keys | controls.resetAll |
@@ -3015,7 +3015,7 @@
 | セーフモード | Safe Mode | datapackFailure.safeMode |
 | このワールドには無効または破損したセーブデータが含まれています。 | This world contains invalid or corrupted save data. | datapackFailure.safeMode.failed.description |
 | セーフモードでのワールドの読み込みに失敗しました。 | Failed to load world in Safe Mode. | datapackFailure.safeMode.failed.title |
-| 現在選択されているデータパックのエラーにより、ワールドをロードできませんでした。\nバニラデータパックのみロードを試みる（「セーフモード」）か、タイトル画面に戻って手動で修正することができます。 | Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\safe mode\"), or go back to the title screen and fix it manually." | datapackFailure.title |
+| 現在選択されているデータパックのエラーにより、ワールドをロードできませんでした。\nバニラデータパックのみロードを試みる（「セーフモード」）か、タイトル画面に戻って手動で修正することができます。 | Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually. | datapackFailure.title |
 | %1$sは落下してきた金床に押しつぶされた | %1$s was squashed by a falling anvil | death.attack.anvil |
 | %1$sは%2$sと戦いながら落ちてきた金床に押しつぶされた | %1$s was squashed by a falling anvil while fighting %2$s | death.attack.anvil.player |
 | %1$sは%2$sに射抜かれた | %1$s was shot by %2$s | death.attack.arrow |
@@ -3069,7 +3069,7 @@
 | %1$sは%2$sと戦いながら雷に打たれた | %1$s was struck by lightning while fighting %2$s | death.attack.lightningBolt.player |
 | %1$sは魔法で殺された | %1$s was killed by magic | death.attack.magic |
 | %1$sは%2$sから逃れようとして魔法で殺された | %1$s was killed by magic while trying to escape %2$s | death.attack.magic.player |
-| メッセージが長過ぎるため、全てを表示することができませんでした。以下はその一部です：%s | "Actually, the message was too long to deliver fully. Sorry! Here's a stripped version |  %s," | death.attack.message_too_long |
+| メッセージが長過ぎるため、全てを表示することができませんでした。以下はその一部です：%s | Actually, the message was too long to deliver fully. Sorry! Here's a stripped version: %s | death.attack.message_too_long |
 | %1$sは%2$sに殺害された | %1$s was slain by %2$s | death.attack.mob |
 | %1$sは%2$sの%3$sで殺害された | %1$s was slain by %2$s using %3$s | death.attack.mob.item |
 | %1$sはこんがりと焼けた | %1$s burned to death | death.attack.onFire |
@@ -3118,17 +3118,17 @@
 | 終了しますか？ | Are you sure you want to quit? | deathScreen.quit.confirm |
 | リスポーン | Respawn | deathScreen.respawn |
 | スコア | Score | deathScreen.score |
-| スコア：%s | "Score |  %s," | deathScreen.score.value |
+| スコア：%s | Score: %s | deathScreen.score.value |
 | ワールドを観覧 | Spectate World | deathScreen.spectate |
 | 死んでしまった！ | You Died! | deathScreen.title |
 | ゲームオーバー！ | Game Over! | deathScreen.title.hardcore |
 | タイトル画面 | Title Screen | deathScreen.titleScreen |
 | F3 + H = 高度な情報を表示 | F3 + H = Advanced tooltips | debug.advanced_tooltips.help |
-| 高度な情報：非表示 | "Advanced tooltips |  hidden," | debug.advanced_tooltips.off |
-| 高度な情報：表示 | "Advanced tooltips |  shown," | debug.advanced_tooltips.on |
+| 高度な情報：非表示 | Advanced tooltips: hidden | debug.advanced_tooltips.off |
+| 高度な情報：表示 | Advanced tooltips: shown | debug.advanced_tooltips.on |
 | F3 + G = チャンクの境界を表示 | F3 + G = Show chunk boundaries | debug.chunk_boundaries.help |
-| チャンクの境界：非表示 | "Chunk borders |  hidden," | debug.chunk_boundaries.off |
-| チャンクの境界：表示 | "Chunk borders |  shown," | debug.chunk_boundaries.on |
+| チャンクの境界：非表示 | Chunk borders: hidden | debug.chunk_boundaries.off |
+| チャンクの境界：表示 | Chunk borders: shown | debug.chunk_boundaries.on |
 | F3 + D = チャット欄をクリア | F3 + D = Clear chat | debug.clear_chat.help |
 | F3 + C = /tpコマンドとして座標をコピー、長押しでゲームをクラッシュ | F3 + C = Copy location as /tp command, hold F3 + C to crash the game | debug.copy_location.help |
 | クリップボードに座標をコピーしました | Copied location to clipboard | debug.copy_location.message |
@@ -3143,7 +3143,7 @@
 | ［F4］ | [ F4 ] | debug.gamemodes.press_f4 |
 | %sで次を選択 | %s Next | debug.gamemodes.select_next |
 | F3 + Q = このリストを表示 | F3 + Q = Show this list | debug.help.help |
-| キーの割り当て： | "Key bindings | ," | debug.help.message |
+| キーの割り当て： | Key bindings: | debug.help.message |
 | クライアント側のブロックデータをクリップボードにコピーしました | Copied client-side block data to clipboard | debug.inspect.client.block |
 | クライアント側のエンティティデータをクリップボードにコピーしました | Copied client-side entity data to clipboard | debug.inspect.client.entity |
 | F3 + I = エンティティまたはブロックのデータをクリップボードにコピー | F3 + I = Copy entity or block data to clipboard | debug.inspect.help |
@@ -3151,9 +3151,9 @@
 | サーバー側のエンティティデータをクリップボードにコピーしました | Copied server-side entity data to clipboard | debug.inspect.server.entity |
 | F3 + Esc = メニューを開かずに一時停止（一時停止が可能な場合） | F3 + Esc = Pause without pause menu (if pausing is possible) | debug.pause.help |
 | F3 + P = メニュー表示時でのゲームの一時停止を切り替え | F3 + P = Pause on lost focus | debug.pause_focus.help |
-| フォーカスが外れた時にポーズ：無効 | "Pause on lost focus |  disabled," | debug.pause_focus.off |
-| フォーカスが外れた時にポーズ：有効 | "Pause on lost focus |  enabled," | debug.pause_focus.on |
-| ［デバッグ］： | "[Debug] | ," | debug.prefix |
+| フォーカスが外れた時にポーズ：無効 | Pause on lost focus: disabled | debug.pause_focus.off |
+| フォーカスが外れた時にポーズ：有効 | Pause on lost focus: enabled | debug.pause_focus.on |
+| ［デバッグ］： | [Debug]: | debug.prefix |
 | F3 + L = プロファイリングの開始・終了 | F3 + L = Start/stop profiling | debug.profiling.help |
 | プロファイリングを%s秒間行います。F3 + Lによって中断出来ます | Profiling started for %s seconds. Use F3 + L to stop early | debug.profiling.start |
 | プロファイリングを終了しました。結果が%sに保存されました | Profiling ended. Saved results to %s | debug.profiling.stop |
@@ -3162,8 +3162,8 @@
 | F3 + T = リソースパックを再読み込み | F3 + T = Reload resource packs | debug.reload_resourcepacks.help |
 | リソースパックを再読み込みしました | Reloaded resource packs | debug.reload_resourcepacks.message |
 | F3 + B = 当たり判定を表示 | F3 + B = Show hitboxes | debug.show_hitboxes.help |
-| 当たり判定：非表示 | "Hitboxes |  hidden," | debug.show_hitboxes.off |
-| 当たり判定：表示 | "Hitboxes |  shown," | debug.show_hitboxes.on |
+| 当たり判定：非表示 | Hitboxes: hidden | debug.show_hitboxes.off |
+| 当たり判定：表示 | Hitboxes: shown | debug.show_hitboxes.on |
 | デモ版では5日間ご利用いただけます。頑張ってください！ | This demo will last five game days. Do your best! | demo.day.1 |
 | 2日目 | Day Two | demo.day.2 |
 | 3日目 | Day Three | demo.day.3 |
@@ -3181,7 +3181,7 @@
 | マウスを使って見渡してください | Look around using the mouse | demo.help.movementMouse |
 | %1$s、%2$s、%3$s、%4$sキーを押すと移動できます | Move by pressing the %1$s, %2$s, %3$s, %4$s keys | demo.help.movementShort |
 | Minecraftデモ版 | Minecraft Demo Mode | demo.help.title |
-| 残り時間：%s | "Remaining time |  %s," | demo.remainingTime |
+| 残り時間：%s | Remaining time: %s | demo.remainingTime |
 | デモ版の期限が終了しました。ゲームを購入するか、新しくワールドを作成してください！ | The demo time has expired. Buy the game to continue or start a new world! | demo.reminder |
 | このワールドの難易度を固定しますか？ 設定後、このワールドの難易度は常に%1$sになり、以後再び変更することはできなくなります。 | Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again. | difficulty.lock.question |
 | ワールドの難易度の固定 | Lock World Difficulty | difficulty.lock.title |
@@ -3193,7 +3193,7 @@
 | ステータスのリクエストの無視 | Ignoring status request | disconnect.ignoring_status_request |
 | ゲームから退出させられました | Was kicked from the game | disconnect.kicked |
 | ログインに失敗しました | Failed to log in | disconnect.loginFailed |
-| ログインに失敗しました：%s | "Failed to log in |  %s," | disconnect.loginFailedInfo |
+| ログインに失敗しました：%s | Failed to log in: %s | disconnect.loginFailedInfo |
 | マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください。 | Multiplayer is disabled. Please check your Microsoft account settings. | disconnect.loginFailedInfo.insufficientPrivileges |
 | 無効なセッションです（ゲームとランチャーを再起動してください） | Invalid session (Try restarting your game and the launcher) | disconnect.loginFailedInfo.invalidSession |
 | 認証サーバーに接続できませんでした。もう一度お試しください。 | The authentication servers are currently not reachable. Please try again. | disconnect.loginFailedInfo.serversUnavailable |
@@ -3207,10 +3207,10 @@
 | 別のサーバーに転送しました | Transferred to another server | disconnect.transfer |
 | 不明なホストです | Unknown host | disconnect.unknownHost |
 | %2$s個中%1$s個のパックのダウンロードに失敗しました | %s out of %s pack(s) failed to download | download.pack.failed |
-| 進捗：%s（総サイズ不明） | "Progress |  %s (total size unknown)," | download.pack.progress.bytes |
-| 進捗：%s%% | "Progress |  %s%%," | download.pack.progress.percent |
+| 進捗：%s（総サイズ不明） | Progress: %s (total size unknown) | download.pack.progress.bytes |
+| 進捗：%s%% | Progress: %s%% | download.pack.progress.percent |
 | リソースパックをダウンロード中 %s／%s | Downloading resource pack %s/%s | download.pack.title |
-| デフォルト値：%s | "Default |  %s," | editGamerule.default |
+| デフォルト値：%s | Default: %s | editGamerule.default |
 | ゲームルールを編集 | Edit Game Rules | editGamerule.title |
 | ∞ | ∞ | effect.duration.infinite |
 | 衝撃吸収 | Absorption | effect.minecraft.absorption |
@@ -3491,7 +3491,7 @@
 | 襲撃 | Raid | event.minecraft.raid |
 | 敗北 | Defeat | event.minecraft.raid.defeat |
 | 襲撃 - 敗北 | Raid - Defeat | event.minecraft.raid.defeat.full |
-| 残り%s体 | "Raiders Remaining |  %s," | event.minecraft.raid.raiders_remaining |
+| 残り%s体 | Raiders Remaining: %s | event.minecraft.raid.raiders_remaining |
 | 勝利 | Victory | event.minecraft.raid.victory |
 | 襲撃 - 勝利 | Raid - Victory | event.minecraft.raid.victory.full |
 | 宝の地図 | Buried Treasure Map | filled_map.buried_treasure |
@@ -3502,7 +3502,7 @@
 | ロックされています | Locked | filled_map.locked |
 | 森林探検家の地図 | Woodland Explorer Map | filled_map.mansion |
 | 海洋探検家の地図 | Ocean Explorer Map | filled_map.monument |
-| 縮尺1：%s | "Scaling at 1 | %s," | filled_map.scale |
+| 縮尺1：%s | Scaling at 1:%s | filled_map.scale |
 | 試練の間の地図 | Trial Explorer Map | filled_map.trial_chambers |
 | 不明な地図 | Unknown Map | filled_map.unknown |
 | 砂漠の村の地図 | Desert Village Map | filled_map.village_desert |
@@ -3615,7 +3615,7 @@
 | カスタム | Custom | generator.custom |
 | 古いカスタマイズ | Old Customized | generator.customized |
 | アンプリファイド | AMPLIFIED | generator.minecraft.amplified |
-| 注意：このオプションを楽しむためには、高性能なコンピューターが必要です。 | "Notice |  Just for fun! Requires a beefy computer.," | generator.minecraft.amplified.info |
+| 注意：このオプションを楽しむためには、高性能なコンピューターが必要です。 | Notice: Just for fun! Requires a beefy computer. | generator.minecraft.amplified.info |
 | デバッグモード | Debug Mode | generator.minecraft.debug_all_block_states |
 | スーパーフラット | Superflat | generator.minecraft.flat |
 | 大きなバイオーム | Large Biomes | generator.minecraft.large_biomes |
@@ -3639,8 +3639,8 @@
 | チャットの通報の下書きを編集しますか？ | Edit draft chat report? | gui.abuseReport.draft.title |
 | 通報の送信中に問題が発生しました | Problem sending your report | gui.abuseReport.error.title |
 | 問題のある振る舞いを発見した場所を教えてください。\nご記入いただいた情報は通報の内容を精査するために使用されます。 | Where did you observe the bad behavior?\nThis will help us in researching your case. | gui.abuseReport.message |
-| その時の状況を以下に入力してください | "Please describe what happened | ," | gui.abuseReport.more_comments |
-| 「%s」を通報しようとしています | You are reporting \%s\"." | gui.abuseReport.name.reporting |
+| その時の状況を以下に入力してください | Please describe what happened: | gui.abuseReport.more_comments |
+| 「%s」を通報しようとしています | You are reporting \"%s\". | gui.abuseReport.name.reporting |
 | プレイヤー名の通報 | Report Player Name | gui.abuseReport.name.title |
 | 通報する理由を選択してください。 | Why are you reporting this? | gui.abuseReport.observed_what |
 | 通報について | Learn About Reporting | gui.abuseReport.read_info |
@@ -3650,17 +3650,17 @@
 | 子供に対するわいせつ行為に関する、あるいは助長する発言をする人がいる。 | Someone is talking about or otherwise promoting indecent behavior involving children. | gui.abuseReport.reason.child_sexual_exploitation_or_abuse.description |
 | 名誉毀損・なりすまし・デマ | Defamation | gui.abuseReport.reason.defamation_impersonation_false_information |
 | 他人の名誉を貶めたり、他人になりすましたり、他人を騙すために虚偽の情報を流布する人がいる。 | Someone is damaging your or someone else's reputation, for example sharing false information with the aim to exploit or mislead others. | gui.abuseReport.reason.defamation_impersonation_false_information.description |
-| 説明： | "Description | ," | gui.abuseReport.reason.description |
+| 説明： | Description: | gui.abuseReport.reason.description |
 | 虚偽の通報 | False Reporting | gui.abuseReport.reason.false_reporting |
 | その他の理由 | I want to report them | gui.abuseReport.reason.generic |
 | 他の理由には該当しないが、不快な行為を行うプレイヤーがいる。 | I'm annoyed with them / they have done something I do not like. | gui.abuseReport.reason.generic.description |
 | ハラスメント・いじめ | Harassment or bullying | gui.abuseReport.reason.harassment_or_bullying |
-| あなたや他のプレイヤーに恥をかかせたり、攻撃したり、いじめを行う人がいる。これには誰かがあなたや他のプレイヤーに、同意なく何度も連絡を取ろうとする行為や、あなたや他人の個人情報を同意なく投稿する行為（晒し行為）も含まれます。 | Someone is shaming, attacking, or bullying you or someone else. This includes when someone is repeatedly trying to contact you or someone else without consent or posting private personal information about you or someone else without consent (\doxing\")." | gui.abuseReport.reason.harassment_or_bullying.description |
+| あなたや他のプレイヤーに恥をかかせたり、攻撃したり、いじめを行う人がいる。これには誰かがあなたや他のプレイヤーに、同意なく何度も連絡を取ろうとする行為や、あなたや他人の個人情報を同意なく投稿する行為（晒し行為）も含まれます。 | Someone is shaming, attacking, or bullying you or someone else. This includes when someone is repeatedly trying to contact you or someone else without consent or posting private personal information about you or someone else without consent (\"doxing\"). | gui.abuseReport.reason.harassment_or_bullying.description |
 | ヘイトスピーチ | Hate speech | gui.abuseReport.reason.hate_speech |
 | あなたや別のプレイヤーを、宗教や人種、性別などの特徴にもとづいて攻撃する人がいる。 | Someone is attacking you or another player based on characteristics of their identity, like religion, race, or sexuality. | gui.abuseReport.reason.hate_speech.description |
 | 他者への危害を及ぼす内容の脅迫 | Threat of harm to others | gui.abuseReport.reason.imminent_harm |
 | あなたや他のプレイヤーに、現実世界で危害を加えると脅迫する人がいる。 | Someone is threatening to harm you or someone else in real life. | gui.abuseReport.reason.imminent_harm.description |
-| %s：%s | "%s |  %s," | gui.abuseReport.reason.narration |
+| %s：%s | %s: %s | gui.abuseReport.reason.narration |
 | 同意なく投稿されたプライバシーに抵触する画像 | Non-consensual intimate imagery | gui.abuseReport.reason.non_consensual_intimate_imagery |
 | プライバシーに抵触するおそれのある画像についての会話や共有、拡散をする人がいる。 | Someone is talking about, sharing, or otherwise promoting private and intimate images. | gui.abuseReport.reason.non_consensual_intimate_imagery.description |
 | 緊急の危害 - 自傷・自殺行為 | Self-harm or suicide | gui.abuseReport.reason.self_harm_or_suicide |
@@ -3672,7 +3672,7 @@
 | 通報カテゴリを選択 | Select Report Category | gui.abuseReport.select_reason |
 | 通報する | Send Report | gui.abuseReport.send |
 | コメントを短くしてください | Please shorten the comment | gui.abuseReport.send.comment_too_long |
-| 通報の送信中にエラー「%s」が返されました。 | "An error was returned while sending your report | \n'%s'," | gui.abuseReport.send.error_message |
+| 通報の送信中にエラー「%s」が返されました。 | An error was returned while sending your report:\n'%s' | gui.abuseReport.send.error_message |
 | 通報の送信中に予期せぬエラーが発生しました。 | Encountered an unexpected error while sending your report. | gui.abuseReport.send.generic_error |
 | 通報の送信時に予期せぬHTTPエラーが発生しました。 | An unexpected HTTP error occurred while sending your report. | gui.abuseReport.send.http_error |
 | 通報の送信時に不正なペイロードが発生しました。 | Encountered malformed payload while sending your report. | gui.abuseReport.send.json_error |
@@ -3690,15 +3690,15 @@
 | 進捗 | Advancements | gui.advancements |
 | すべて | All | gui.all |
 | 戻る | Back | gui.back |
-| %s\n\n%s\n\n詳細はこちらのリンクから確認できます：%s | "%s\n\n%s\n\nLearn more at the following link |  %s," | gui.banned.description |
+| %s\n\n%s\n\n詳細はこちらのリンクから確認できます：%s | %s\n\n%s\n\nLearn more at the following link: %s | gui.banned.description |
 | あなたのアカウントは永久に停止されました。オンラインプレイやRealmsへの参加はできません。 | Your account is permanently banned, which means you can’t play online or join Realms. | gui.banned.description.permanent |
 | あなたのアカウントによる悪質な行為の報告が最近寄せられました。あなたの件についてモデレーターが確認したところ、Minecraftコミュニティ規定に反する%sであることが判明しました。 | We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified it as %s, which goes against the Minecraft Community Standards. | gui.banned.description.reason |
-| コード：%s | "Code |  %s," | gui.banned.description.reason_id |
-| コード：%s - %s | "Code |  %s - %s," | gui.banned.description.reason_id_message |
+| コード：%s | Code: %s | gui.banned.description.reason_id |
+| コード：%s - %s | Code: %s - %s | gui.banned.description.reason_id_message |
 | %s経過するまでは、オンラインプレイおよびRealmsへの参加はできません。 | %s Until then, you can’t play online or join Realms. | gui.banned.description.temporary |
 | あなたのアカウントは一時的に制限されています。%s後に制限が解除される予定です。 | Your account is temporarily suspended and will be reactivated in %s. | gui.banned.description.temporary.duration |
 | あなたのアカウントによる悪質な行為の報告が最近寄せられました。あなたの件についてモデレーターが確認したところ、Minecraftコミュニティ規定に反していることが判明しました。 | We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified that it goes against the Minecraft Community Standards. | gui.banned.description.unknownreason |
-| あなたの名前「%s」は、コミュニティ規定に違反しています。シングルプレイは引き続きプレイしていただくことができますが、オンラインでプレイするには名前を変えていただく必要があります。\n\n詳しい情報および通報された内容は次のリンクを参照ください：%s | Your current name - \%s\" - violates our Community Standards. You can play singleplayer, but will need to change your name to play online.\n\nLearn more or submit a case review at the following link | gui.banned.name.description |
+| あなたの名前「%s」は、コミュニティ規定に違反しています。シングルプレイは引き続きプレイしていただくことができますが、オンラインでプレイするには名前を変えていただく必要があります。\n\n詳しい情報および通報された内容は次のリンクを参照ください：%s | Your current name - \"%s\" - violates our Community Standards. You can play singleplayer, but will need to change your name to play online.\n\nLearn more or submit a case review at the following link: %s | gui.banned.name.description |
 | この名前はマルチプレイでは使用できません | Name Not Allowed in Multiplayer | gui.banned.name.title |
 | なりすまし、および他のプレイヤーを誤解させるような情報の拡散 | Impersonation or sharing information to exploit or mislead others | gui.banned.reason.defamation_impersonation_false_information |
 | 違法薬物に関する発言 | References to illegal drugs | gui.banned.reason.drugs |
@@ -3713,7 +3713,7 @@
 | 卑猥またはポルノ要素のある事物の表示 | Displaying lewd or pornographic material | gui.banned.reason.nudity_or_pornography |
 | 性的な内容を含む話題やコンテンツ | Topics or content of a sexual nature | gui.banned.reason.sexually_inappropriate |
 | スパムまたは広告 | Spam or advertising | gui.banned.reason.spam_or_advertising |
-| あなたの現在のスキンは、コミュニティ規定に違反しています。デフォルトのスキンを使用するか、新しいスキンを選択してください。\n\n詳しい情報および通報された内容は次のリンクを参照ください：%s | "Your current skin violates our Community Standards. You can still play with a default skin, or select a new one.\n\nLearn more or submit a case review at the following link |  %s," | gui.banned.skin.description |
+| あなたの現在のスキンは、コミュニティ規定に違反しています。デフォルトのスキンを使用するか、新しいスキンを選択してください。\n\n詳しい情報および通報された内容は次のリンクを参照ください：%s | Your current skin violates our Community Standards. You can still play with a default skin, or select a new one.\n\nLearn more or submit a case review at the following link: %s | gui.banned.skin.description |
 | このスキンは使用できません | Skin Not Allowed | gui.banned.skin.title |
 | このアカウントは永久停止処分を受けています | Account permanently banned | gui.banned.title.permanent |
 | アカウントの一時制限 | Account temporarily suspended | gui.banned.title.temporary |
@@ -3731,7 +3731,7 @@
 | 編集を続けますか？それとも破棄しますか？ | Would you like to continue editing it or discard it? | gui.chatReport.draft.quittotitle.content |
 | 退出するとチャットの通報の下書きが破棄されます | You have a draft chat report that will be lost if you quit | gui.chatReport.draft.quittotitle.title |
 | チャットの通報の下書きを編集しますか？ | Edit draft chat report? | gui.chatReport.draft.title |
-| その時の状況を以下に入力してください | "Please describe what happened | ," | gui.chatReport.more_comments |
+| その時の状況を以下に入力してください | Please describe what happened: | gui.chatReport.more_comments |
 | 通報する理由をご記入ください。 | Why are you reporting this? | gui.chatReport.observed_what |
 | 通報について | Learn About Reporting | gui.chatReport.read_info |
 | 通報を受理しました。ありがとうございます。\n\n私達のチームはできるだけ早く、寄せられた通報を確認いたします。 | We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible. | gui.chatReport.report_sent_msg |
@@ -3748,7 +3748,7 @@
 | %s件のメッセージが非表示になりました | %s message(s) hidden | gui.chatSelection.fold |
 | %s %s | %s %s | gui.chatSelection.heading |
 | %sがチャットに参加しました | %s joined the chat | gui.chatSelection.join |
-| %1$sの%3$sでの発言：%2$s | "%s said |  %s at %s," | gui.chatSelection.message.narrate |
+| %1$sの%3$sでの発言：%2$s | %s said: %s at %s | gui.chatSelection.message.narrate |
 | %2$s個中%1$s個のメッセージを選択 | %s/%s message(s) selected | gui.chatSelection.selected |
 | 通報するチャットメッセージを選択 | Select Chat Messages to Report | gui.chatSelection.title |
 | 続ける | Continue | gui.continue |
@@ -3756,7 +3756,7 @@
 | %s日 | %s day(s) | gui.days |
 | 完了 | Done | gui.done |
 | 下 | Down | gui.down |
-| タイプ：%s | "Type |  %s," | gui.entity_tooltip.type |
+| タイプ：%s | Type: %s | gui.entity_tooltip.type |
 | %sのファイルが拒否されました | Rejected %d files | gui.fileDropFailure.detail |
 | ファイルの追加に失敗しました | Failed to add files | gui.fileDropFailure.title |
 | %s時間 | %s hour(s) | gui.hours |
@@ -3764,7 +3764,7 @@
 | %s分 | %s minute(s) | gui.minutes |
 | %s／%s | %s/%s | gui.multiLineEditBox.character_limit |
 | %sボタン | %s button | gui.narrate.button |
-| %sの編集欄：%s | "%s edit box |  %s," | gui.narrate.editBox |
+| %sの編集欄：%s | %s edit box: %s | gui.narrate.editBox |
 | %sスライダー | %s slider | gui.narrate.slider |
 | %sのタブ | %s tab | gui.narrate.tab |
 | いいえ | No | gui.no |
@@ -3831,13 +3831,13 @@
 | アイテムを削除 | Destroy Item | inventory.binSlot |
 | %1$s+%2$sでホットバーを保存します | Save hotbar with %1$s+%2$s | inventory.hotbarInfo |
 | アイテムホットバーを保存しました（%1$s+%2$sで復元） | Item hotbar saved (restore with %1$s+%2$s) | inventory.hotbarSaved |
-| 破壊可能： | "Can break | ," | item.canBreak |
-| 設置可能： | "Can be placed on | ," | item.canPlace |
+| 破壊可能： | Can break: | item.canBreak |
+| 設置可能： | Can be placed on: | item.canPlace |
 | 不明 | Unknown | item.canUse.unknown |
-| 色：%s | "Color |  %s," | item.color |
+| 色：%s | Color: %s | item.color |
 | %s個のコンポーネント | %s component(s) | item.components |
 | 無効なアイテム | Disabled item | item.disabled |
-| 耐久値：%s／%s | "Durability |  %s / %s," | item.durability |
+| 耐久値：%s／%s | Durability: %s / %s | item.durability |
 | 染色済み | Dyed | item.dyed |
 | アカシアのボート | Acacia Boat | item.minecraft.acacia_boat |
 | チェスト付きのアカシアのボート | Acacia Boat with Chest | item.minecraft.acacia_chest_boat |
@@ -3936,7 +3936,7 @@
 | クリーパー模様 | Creeper Charge | item.minecraft.creeper_banner_pattern.desc |
 | クリーパーのスポーンエッグ | Creeper Spawn Egg | item.minecraft.creeper_spawn_egg |
 | クロスボウ | Crossbow | item.minecraft.crossbow |
-| 発射物： | "Projectile | ," | item.minecraft.crossbow.projectile |
+| 発射物： | Projectile: | item.minecraft.crossbow.projectile |
 | 青緑色の染料 | Cyan Dye | item.minecraft.cyan_dye |
 | 脅威の壺の欠片 | Danger Pottery Shard | item.minecraft.danger_pottery_shard |
 | 脅威の壺の欠片 | Danger Pottery Sherd | item.minecraft.danger_pottery_sherd |
@@ -3944,8 +3944,8 @@
 | チェスト付きのダークオークのボート | Dark Oak Boat with Chest | item.minecraft.dark_oak_chest_boat |
 | デバッグ棒 | Debug Stick | item.minecraft.debug_stick |
 | %sはプロパティを持っていません | %s has no properties | item.minecraft.debug_stick.empty |
-| 「%s」を選択しました（%s） | selected \%s\" (%s)" | item.minecraft.debug_stick.select |
-| 「%s」を%sに変更しました | \%s\" to %s" | item.minecraft.debug_stick.update |
+| 「%s」を選択しました（%s） | selected \"%s\" (%s) | item.minecraft.debug_stick.select |
+| 「%s」を%sに変更しました | \"%s\" to %s | item.minecraft.debug_stick.update |
 | ダイヤモンド | Diamond | item.minecraft.diamond |
 | ダイヤモンドの斧 | Diamond Axe | item.minecraft.diamond_axe |
 | ダイヤモンドのブーツ | Diamond Boots | item.minecraft.diamond_boots |
@@ -3988,7 +3988,7 @@
 | 地図 | Map | item.minecraft.filled_map |
 | ファイヤーチャージ | Fire Charge | item.minecraft.fire_charge |
 | ロケット花火 | Firework Rocket | item.minecraft.firework_rocket |
-| 飛翔時間： | "Flight Duration | ," | item.minecraft.firework_rocket.flight |
+| 飛翔時間： | Flight Duration: | item.minecraft.firework_rocket.flight |
 | 花火の星 | Firework Star | item.minecraft.firework_star |
 | 黒色 | Black | item.minecraft.firework_star.black |
 | 青色 | Blue | item.minecraft.firework_star.blue |
@@ -4345,17 +4345,17 @@
 | スライムボール | Slimeball | item.minecraft.slime_ball |
 | スライムのスポーンエッグ | Slime Spawn Egg | item.minecraft.slime_spawn_egg |
 | 鍛冶型 | Smithing Template | item.minecraft.smithing_template |
-| 適用先： | "Applies to | ," | item.minecraft.smithing_template.applies_to |
+| 適用先： | Applies to: | item.minecraft.smithing_template.applies_to |
 | インゴットもしくは鉱物を置いてください | Add ingot or crystal | item.minecraft.smithing_template.armor_trim.additions_slot_description |
 | 防具 | Armor | item.minecraft.smithing_template.armor_trim.applies_to |
 | 防具を置いてください | Add a piece of armor | item.minecraft.smithing_template.armor_trim.base_slot_description |
 | インゴットや鉱物 | Ingots & Crystals | item.minecraft.smithing_template.armor_trim.ingredients |
-| 材料： | "Ingredients | ," | item.minecraft.smithing_template.ingredients |
+| 材料： | Ingredients: | item.minecraft.smithing_template.ingredients |
 | ネザライトインゴットを置いてください | Add Netherite Ingot | item.minecraft.smithing_template.netherite_upgrade.additions_slot_description |
 | ダイヤモンドの装備品 | Diamond Equipment | item.minecraft.smithing_template.netherite_upgrade.applies_to |
 | ダイヤモンド製の防具、武器、道具を置いてください | Add diamond armor, weapon, or tool | item.minecraft.smithing_template.netherite_upgrade.base_slot_description |
 | ネザライトインゴット | Netherite Ingot | item.minecraft.smithing_template.netherite_upgrade.ingredients |
-| 強化： | "Upgrade |  ," | item.minecraft.smithing_template.upgrade |
+| 強化： | Upgrade: | item.minecraft.smithing_template.upgrade |
 | スニッファーのスポーンエッグ | Sniffer Spawn Egg | item.minecraft.sniffer_spawn_egg |
 | 鼻を鳴らす動物の壺の欠片 | Snort Pottery Shard | item.minecraft.snort_pottery_shard |
 | 鼻を鳴らす動物の壺の欠片 | Snort Pottery Sherd | item.minecraft.snort_pottery_sherd |
@@ -4484,17 +4484,17 @@
 | ゾンビのスポーンエッグ | Zombie Spawn Egg | item.minecraft.zombie_spawn_egg |
 | 村人ゾンビのスポーンエッグ | Zombie Villager Spawn Egg | item.minecraft.zombie_villager_spawn_egg |
 | ゾンビピグリンのスポーンエッグ | Zombified Piglin Spawn Egg | item.minecraft.zombified_piglin_spawn_egg |
-| 装備したとき： | "When equipped | ," | item.modifiers.any |
-| 装着したとき： | "When worn | ," | item.modifiers.armor |
-| 装備したとき： | "When equipped | ," | item.modifiers.body |
-| 胴体に装備したとき： | "When on Body | ," | item.modifiers.chest |
-| 足に装備したとき： | "When on Feet | ," | item.modifiers.feet |
-| 手に持ったとき： | "When held | ," | item.modifiers.hand |
-| 頭に装備したとき： | "When on Head | ," | item.modifiers.head |
-| 脚に装備したとき： | "When on Legs | ," | item.modifiers.legs |
-| 利き手に持ったとき： | "When in Main Hand | ," | item.modifiers.mainhand |
-| オフハンドに持ったとき： | "When in Off Hand | ," | item.modifiers.offhand |
-| NBTタグ：%s | "NBT |  %s tag(s)," | item.nbt_tags |
+| 装備したとき： | When equipped: | item.modifiers.any |
+| 装着したとき： | When worn: | item.modifiers.armor |
+| 装備したとき： | When equipped: | item.modifiers.body |
+| 胴体に装備したとき： | When on Body: | item.modifiers.chest |
+| 足に装備したとき： | When on Feet: | item.modifiers.feet |
+| 手に持ったとき： | When held: | item.modifiers.hand |
+| 頭に装備したとき： | When on Head: | item.modifiers.head |
+| 脚に装備したとき： | When on Legs: | item.modifiers.legs |
+| 利き手に持ったとき： | When in Main Hand: | item.modifiers.mainhand |
+| オフハンドに持ったとき： | When in Off Hand: | item.modifiers.offhand |
+| NBTタグ：%s | NBT: %s tag(s) | item.nbt_tags |
 | 不可壊 | Unbreakable | item.unbreakable |
 | 建築ブロック | Building Blocks | itemGroup.buildingBlocks |
 | 色付きブロック | Colored Blocks | itemGroup.coloredBlocks |
@@ -4512,21 +4512,21 @@
 | アイテム検索 | Search Items | itemGroup.search |
 | スポーンエッグ | Spawn Eggs | itemGroup.spawnEggs |
 | 道具と実用品 | Tools & Utilities | itemGroup.tools |
-| 不明なアイテムの修飾子です：%s | "Unknown item modifier |  %s," | item_modifier.unknown |
-| 置換先： | "Turns into | ," | jigsaw_block.final_state |
+| 不明なアイテムの修飾子です：%s | Unknown item modifier: %s | item_modifier.unknown |
+| 置換先： | Turns into: | jigsaw_block.final_state |
 | 生成 | Generate | jigsaw_block.generate |
 | 整列 | Aligned | jigsaw_block.joint.aligned |
 | 回転可能 | Rollable | jigsaw_block.joint.rollable |
-| 接続タイプ： | "Joint Type | ," | jigsaw_block.joint_label |
+| 接続タイプ： | Joint Type: | jigsaw_block.joint_label |
 | ジグソーを維持 | Keep Jigsaws | jigsaw_block.keep_jigsaws |
-| レベル：%s | "Levels |  %s," | jigsaw_block.levels |
-| 名前： | "Name | ," | jigsaw_block.name |
-| 設置優先度： | "Placement Priority | ," | jigsaw_block.placement_priority |
+| レベル：%s | Levels: %s | jigsaw_block.levels |
+| 名前： | Name: | jigsaw_block.name |
+| 設置優先度： | Placement Priority: | jigsaw_block.placement_priority |
 | この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。\n\n構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。 | When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.\n\nPieces will be processed in descending priority with insertion order breaking ties. | jigsaw_block.placement_priority.tooltip |
-| 構成要素プール： | "Target Pool | ," | jigsaw_block.pool |
-| 選択優先度： | "Selection Priority | ," | jigsaw_block.selection_priority |
+| 構成要素プール： | Target Pool: | jigsaw_block.pool |
+| 選択優先度： | Selection Priority: | jigsaw_block.selection_priority |
 | この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。\n\n構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。 | When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.\n\nJigsaws will be processed in descending priority with random ordering breaking ties. | jigsaw_block.selection_priority.tooltip |
-| 対象の名前： | "Target Name | ," | jigsaw_block.target |
+| 対象の名前： | Target Name: | jigsaw_block.target |
 | C418 - 11 | C418 - 11 | jukebox_song.minecraft.11 |
 | C418 - 13 | C418 - 13 | jukebox_song.minecraft.13 |
 | Samuel Åberg - 5 | Samuel Åberg - 5 | jukebox_song.minecraft.5 |
@@ -4572,7 +4572,7 @@
 | ホットバースロット9 | Hotbar Slot 9 | key.hotbar.9 |
 | インベントリの開閉 | Open/Close Inventory | key.inventory |
 | ジャンプ | Jump | key.jump |
-|  |  | key.keyboard.apostrophe |
+| ' | ' | key.keyboard.apostrophe |
 | \\ | \\ | key.keyboard.backslash |
 | Backspace | Backspace | key.keyboard.backspace |
 | Caps Lock | Caps Lock | key.keyboard.caps.lock |
@@ -4581,7 +4581,7 @@
 | 下方向キー | Down Arrow | key.keyboard.down |
 | End | End | key.keyboard.end |
 | Enter | Enter | key.keyboard.enter |
-| #ERROR! | #ERROR! | key.keyboard.equal |
+| = | = | key.keyboard.equal |
 | Escape | Escape | key.keyboard.escape |
 | F1 | F1 | key.keyboard.f1 |
 | F10 | F10 | key.keyboard.f10 |
@@ -4747,15 +4747,15 @@
 | お使いのクライアントバージョン%sはRealmsと互換性がありません。\n\n最新版のMinecraftをご利用ください。 | Your client version (%s) is not compatible with Realms.\n\nPlease use the most recent version of Minecraft. | mco.client.outdated.stable.version |
 | お使いのクライアントバージョン%sはRealmsと互換性がありません。\n\nRealmsはこのスナップショットではご利用いただけません。 | Your client version (%s) is not compatible with Realms.\n\nRealms is not available for this snapshot version. | mco.client.unsupported.snapshot.version |
 | ダウングレード | Downgrade | mco.compatibility.downgrade |
-| このワールドを最後にプレイしたバージョンは%sです。現在のバージョンは%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません。\n\nダウングレードの際には「ワールドのバックアップ」にワールドのバックアップが作成されます。必要な場合はバックアップを使ってワールドを復元してください。 | This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work.\n\nA backup of your world will be saved under \World Backups\". Please restore your world if needed." | mco.compatibility.downgrade.description |
+| このワールドを最後にプレイしたバージョンは%sです。現在のバージョンは%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません。\n\nダウングレードの際には「ワールドのバックアップ」にワールドのバックアップが作成されます。必要な場合はバックアップを使ってワールドを復元してください。 | This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work.\n\nA backup of your world will be saved under \"World Backups\". Please restore your world if needed. | mco.compatibility.downgrade.description |
 | 互換性のないバージョンです | Incompatible version | mco.compatibility.incompatible.popup.title |
 | 参加しようとしているワールドは現在お使いのバージョンと互換性がありません。 | The world you are trying to join is incompatible with the version you are on. | mco.compatibility.incompatible.releaseType.popup.message |
 | 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\nこれらのシリーズには互換性がありません。このバージョンでプレイするには新しいワールドが必要です。 | This world was last played in version %s; you are on version %s.\n\nThese series are not compatible with each other. A new world is needed to play on this version. | mco.compatibility.incompatible.series.popup.message |
-| このワールドを最後にプレイしたバージョンが確認できません。ワールドがアップグレード・ダウングレートされた場合はバックアップが「ワールドのバックアップ」に自動的に作成されます。 | The version this world was last played in could not be verified. If the world gets upgraded or downgraded, a backup will be automatically created and saved under \World Backups\"." | mco.compatibility.unverifiable.message |
+| このワールドを最後にプレイしたバージョンが確認できません。ワールドがアップグレード・ダウングレートされた場合はバックアップが「ワールドのバックアップ」に自動的に作成されます。 | The version this world was last played in could not be verified. If the world gets upgraded or downgraded, a backup will be automatically created and saved under \"World Backups\". | mco.compatibility.unverifiable.message |
 | 互換性を確認できません | Compatibility not verifiable | mco.compatibility.unverifiable.title |
 | アップグレード | Upgrade | mco.compatibility.upgrade |
-| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\n必要であればワールドを復元してください。 | This world was last played in version %s; you are on version %s.\n\nA backup of your world will be saved under \World Backups\".\n\nPlease restore your world if needed." | mco.compatibility.upgrade.description |
-| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\nRealmの所有者は必要であればワールドを復元することができます。 | This world was last played in version %s; you are on version %s.\n\nA backup of the world will be saved under \World Backups\".\n\nThe owner of the Realm can restore the world if needed." | mco.compatibility.upgrade.friend.description |
+| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\n必要であればワールドを復元してください。 | This world was last played in version %s; you are on version %s.\n\nA backup of your world will be saved under \"World Backups\".\n\nPlease restore your world if needed. | mco.compatibility.upgrade.description |
+| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\nRealmの所有者は必要であればワールドを復元することができます。 | This world was last played in version %s; you are on version %s.\n\nA backup of the world will be saved under \"World Backups\".\n\nThe owner of the Realm can restore the world if needed. | mco.compatibility.upgrade.friend.description |
 | このワールドをアップグレードしますか？ | Do you really want to upgrade this world? | mco.compatibility.upgrade.title |
 | 現在の設定 | Current | mco.configure.current.minigame |
 | プレイヤーのフィードは一時的に無効化されています | Player feed temporarily disabled | mco.configure.world.activityfeed.disabled |
@@ -4797,7 +4797,7 @@
 | このRealmを退出した場合、再び招待されるまで入ることはできません | If you leave this realm you won't see it unless you are invited again | mco.configure.world.leave.question.line1 |
 | 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.leave.question.line2 |
 | 場所 | Location | mco.configure.world.location |
-| 現在：%s | "Current |  %s," | mco.configure.world.minigame |
+| 現在：%s | Current: %s | mco.configure.world.minigame |
 | Realmの名前 | Realm Name | mco.configure.world.name |
 | Realmを開いています… | Opening the realm... | mco.configure.world.opening |
 | 指定された名前のプレイヤーは存在しません | A player with the provided name does not exist | mco.configure.world.players.error |
@@ -4847,7 +4847,7 @@
 | 不明 | Unknown | mco.configure.world.subscription.unknown |
 | ワールドの作成 | Create World | mco.configure.world.switch.slot |
 | このワールドは空です。ワールドの作成方法を選択してください。 | This world is empty, choose how to create your world | mco.configure.world.switch.slot.subtitle |
-| Realmの設定： | "Configure Realm | ," | mco.configure.world.title |
+| Realmの設定： | Configure Realm: | mco.configure.world.title |
 | 「%s」への招待を取り消しますか？ | Are you sure that you want to uninvite '%s'? | mco.configure.world.uninvite.player |
 | 次のプレイヤーの招待を取り消してもよろしいですか： | Are you sure that you want to uninvite | mco.configure.world.uninvite.question |
 | ワールド | Worlds | mco.configure.worlds.title |
@@ -4887,12 +4887,12 @@
 | 無効なRealmの名称です | Invalid Realm name | mco.errorMessage.6008 |
 | 無効なRealmの説明です | Invalid Realm description | mco.errorMessage.6009 |
 | エラーが発生しました。もう一度やり直してください。 | An error occurred, please try again later. | mco.errorMessage.connectionFailure |
-| エラーが発生しました： | "An error occurred |  ," | mco.errorMessage.generic |
+| エラーが発生しました： | An error occurred: | mco.errorMessage.generic |
 | エラーの詳細はありません | No error details provided | mco.errorMessage.noDetails |
-| エラーが発生しました（%s）： | "An error occurred (%s) | ," | mco.errorMessage.realmsService |
-| Realmに接続できませんでした：%s | "Could not connect to Realms |  %s," | mco.errorMessage.realmsService.connectivity |
-| Realms（%s）： | "Realms (%s) | ," | mco.errorMessage.realmsService.realmsError |
-| 互換性のあるバージョンを確認できませんでした。取得したレスポンス：%s | "Could not check compatible version, got response |  %s," | mco.errorMessage.realmsService.unknownCompatibility |
+| エラーが発生しました（%s）： | An error occurred (%s): | mco.errorMessage.realmsService |
+| Realmに接続できませんでした：%s | Could not connect to Realms: %s | mco.errorMessage.realmsService.connectivity |
+| Realms（%s）： | Realms (%s): | mco.errorMessage.realmsService.realmsError |
+| 互換性のあるバージョンを確認できませんでした。取得したレスポンス：%s | Could not check compatible version, got response: %s | mco.errorMessage.realmsService.unknownCompatibility |
 | 操作を再試行 | Retry operation | mco.errorMessage.retry |
 | 現在Realmsは混雑しています。\n数分後にもう一度、Realmへの接続をお試しください。 | Realms is busy at the moment.\nPlease try connecting to your Realm again in a couple of minutes. | mco.errorMessage.serviceBusy |
 | ボタン | Button | mco.gui.button |
@@ -4911,7 +4911,7 @@
 | ミニゲームを終了中… | Ending Minigame... | mco.minigame.world.restore |
 | ミニゲームが終了され、Realmは復元されます。 | The minigame will end and your realm will be restored. | mco.minigame.world.restore.question.line1 |
 | 本当に続行しますか？ | Are you sure you want to continue? | mco.minigame.world.restore.question.line2 |
-| 選択されたミニゲーム： | "Selected Minigame | ," | mco.minigame.world.selected |
+| 選択されたミニゲーム： | Selected Minigame: | mco.minigame.world.selected |
 | ワールドを切り替え中… | Switching World... | mco.minigame.world.slot.screen.title |
 | 変更 | Switch | mco.minigame.world.startButton |
 | ミニゲームを開始しています… | Starting Minigame... | mco.minigame.world.starting.screen.title |
@@ -4956,11 +4956,11 @@
 | Realmから退出する | Leave Realm | mco.selectServer.leave |
 | Realmsリストを読み込み中 | Loading Realms List | mco.selectServer.loading |
 | このマップはバージョン%sではサポートされていません | This map is unsupported in %s | mco.selectServer.mapOnlySupportedForVersion |
-| ミニゲーム： | "Minigame | ," | mco.selectServer.minigame |
-| ミニゲーム：%s | "Minigame |  %s," | mco.selectServer.minigameName |
+| ミニゲーム： | Minigame: | mco.selectServer.minigame |
+| ミニゲーム：%s | Minigame: %s | mco.selectServer.minigameName |
 | このミニゲームはバージョン%sではプレイできません | Can't play this minigame in %s | mco.selectServer.minigameNotSupportedInVersion |
 | Realmを所有していないようです。Realmを追加してフレンドと一緒にプレイしましょう。 | You don't seem to have a Realm. Add a Realm to play together with your friends. | mco.selectServer.noRealms |
-| 注意： | "Note | ," | mco.selectServer.note |
+| 注意： | Note: | mco.selectServer.note |
 | Realmを開く | Open realm | mco.selectServer.open |
 | Realmを開く | Open realm | mco.selectServer.openserver |
 | プレイ | Play | mco.selectServer.play |
@@ -4971,10 +4971,10 @@
 | 無料のスナップショット用Realmを作成しようとしています。このスナップショット用Realmはご利用中のRealmsの契約に結び付けられているため、この契約が有効の間ご利用になれます。この作成によってご契約中のRealmが影響を受けることはありません。 | You are about to create a free Snapshot Realm that will be paired with your paid Realms subscription. This new Snapshot Realm will be accessible for as long as the paid subscription is active. Your paid Realm will not be affected. | mco.snapshot.createSnapshotPopup.text |
 | スナップショット用Realmを作成しますか？ | Create Snapshot Realm? | mco.snapshot.createSnapshotPopup.title |
 | スナップショット用Realmを作成中… | Creating Snapshot Realm... | mco.snapshot.creating |
-| 作成したRealmは%sが有効な限り利用できます | Paired with \%s\"" | mco.snapshot.description |
+| 作成したRealmは%sが有効な限り利用できます | Paired with \"%s\" | mco.snapshot.description |
 | このRealmに参加するには、バージョン%sで実行する必要があります | You need to be on version %s to join this Realm | mco.snapshot.friendsRealm.downgrade |
 | このスナップショットでこのRealmをプレイするためには、%sがRealmをアップグレードする必要があります | %s needs to upgrade their Realm before you can play from this version | mco.snapshot.friendsRealm.upgrade |
-| このスナップショット用Realmは%sに結び付けられています | This Snapshot Realm is paired with \%s\"" | mco.snapshot.paired |
+| このスナップショット用Realmは%sに結び付けられています | This Snapshot Realm is paired with \"%s\" | mco.snapshot.paired |
 | このRealmをプレイするには、最新のMinecraftのリリースを使用してください | Use the latest release of Minecraft to play on this Realm | mco.snapshot.parent.tooltip |
 | 無料のスナップショット用Realmを開始する | Start free Snapshot Realm | mco.snapshot.start |
 | これはご契約中のRealm「%s」に結び付けられているスナップショット用Realmです。ご契約中のRealmが有効である間はこのRealmもご利用になれます。 | This is a Snapshot Realm that is paired to the subscription of your Realm '%s'. It will stay active for as long as its paired Realm is. | mco.snapshot.subscription.info |
@@ -4989,7 +4989,7 @@
 | 公式ウェブサイト | Publisher website | mco.template.info.tooltip |
 | テンプレート | Template | mco.template.name |
 | このカテゴリの説明リストを読み込めませんでした。\nインターネットの接続を確認して、しばらく待ってからもう一度お試しください。 | We couldn't retrieve the list of content for this category.\nPlease check your internet connection, or try again later. | mco.template.select.failure |
-| 作成者：%s | "Authors |  %s," | mco.template.select.narrate.authors |
+| 作成者：%s | Authors: %s | mco.template.select.narrate.authors |
 | バージョン%s | version %s | mco.template.select.narrate.version |
 | 申し訳ありません、このカテゴリは現在空のようです。\n新たなコンテンツを待つか、もしあなたが製作者であるならば\n%s。 | Oops, it looks like this content category is currently empty.\nPlease check back later for new content, or if you're a creator,\n%s. | mco.template.select.none |
 | あなた自身でなにか投稿してはいかがでしょうか | consider submitting something yourself | mco.template.select.none.linkTitle |
@@ -5022,11 +5022,11 @@
 | シングルプレイのワールドが見つかりませんでした！ | No singleplayer worlds found! | mco.upload.select.world.none |
 | アップロードするシングルプレイのワールドを選択してください | Please select a singleplayer world to upload | mco.upload.select.world.subtitle |
 | ワールドをアップロード | Upload World | mco.upload.select.world.title |
-| 「%s」のサイズが大きすぎます！ | %s' is too big! | mco.upload.size.failure.line1 |
+| 「%s」のサイズが大きすぎます！ | '%s' is too big! | mco.upload.size.failure.line1 |
 | 現在は%sです。最大サイズは%sです。 | It is %s. The maximum allowed size is %s. | mco.upload.size.failure.line2 |
 | 「%s」をアップロードしています | Uploading '%s' | mco.upload.uploading |
 | マップを検証しています | Verifying your world | mco.upload.verifying |
-| バージョン：%s | "Version |  %s," | mco.version |
+| バージョン：%s | Version: %s | mco.version |
 | 警告！ | Warning! | mco.warning |
 | Realmsのミニゲーム | Minigame | mco.worldSlot.minigame |
 | ワールドを変換中 | Converting world | menu.convertingLevel |
@@ -5045,7 +5045,7 @@
 | ゲームを一時停止中 | Game Paused | menu.paused |
 | デモワールドで遊ぶ | Play Demo World | menu.playdemo |
 | プレイヤーの通報 | Player Reporting | menu.playerReporting |
-| スポーン地点を準備中：%s%% | "Preparing spawn area |  %s%%," | menu.preparingSpawn |
+| スポーン地点を準備中：%s%% | Preparing spawn area: %s%% | menu.preparingSpawn |
 | 終了 | Quit Game | menu.quit |
 | バグを報告する | Report Bugs | menu.reportBugs |
 | デモワールドをリセット | Reset Demo World | menu.resetdemo |
@@ -5078,9 +5078,9 @@
 | 認証サーバーがダウンしています。後でもう一度お試しください。 | Authentication servers are down. Please try again later, sorry! | multiplayer.disconnect.authservers_down |
 | このサーバーへのアクセスは禁止されています | You are banned from this server | multiplayer.disconnect.banned |
 | \nアクセスの禁止は%sに解除されます | \nYour ban will be removed on %s | multiplayer.disconnect.banned.expiration |
-| このサーバーへのアクセスは禁止されています。\n理由：%s | "You are banned from this server.\nReason |  %s," | multiplayer.disconnect.banned.reason |
+| このサーバーへのアクセスは禁止されています。\n理由：%s | You are banned from this server.\nReason: %s | multiplayer.disconnect.banned.reason |
 | \nアクセスの禁止は%sに解除されます | \nYour ban will be removed on %s | multiplayer.disconnect.banned_ip.expiration |
-| あなたのIPアドレスはこのサーバーからアクセスを禁止されています。\n理由：%s | "Your IP address is banned from this server.\nReason |  %s," | multiplayer.disconnect.banned_ip.reason |
+| あなたのIPアドレスはこのサーバーからアクセスを禁止されています。\n理由：%s | Your IP address is banned from this server.\nReason: %s | multiplayer.disconnect.banned_ip.reason |
 | チャットメッセージの検証に失敗しました | Chat message validation failure | multiplayer.disconnect.chat_validation_failed |
 | あなたは別の場所で既にログインしています | You logged in from another location | multiplayer.disconnect.duplicate_login |
 | プロフィール公開鍵が失効しています。システム時刻が同期していることを確認し、ゲームを再起動してみてください。 | Expired profile public key. Check that your system time is synchronized, and try restarting your game. | multiplayer.disconnect.expired_public_key |
@@ -5114,13 +5114,13 @@
 | ユーザー名の検証に失敗しました | Failed to verify username! | multiplayer.disconnect.unverified_username |
 | 統計情報を取得中… | Retrieving statistics... | multiplayer.downloadingStats |
 | 地形情報を読み込み中… | Loading terrain... | multiplayer.downloadingTerrain |
-| 新しいサーバーが見つかりました：%s | "New server found |  %s," | multiplayer.lan.server_found |
-| チャットメッセージを配信できません。サーバーのログを確認してください：%s | "Can't deliver chat message, check server logs |  %s," | multiplayer.message_not_delivered |
+| 新しいサーバーが見つかりました：%s | New server found: %s | multiplayer.lan.server_found |
+| チャットメッセージを配信できません。サーバーのログを確認してください：%s | Can't deliver chat message, check server logs: %s | multiplayer.message_not_delivered |
 | %sがゲームに参加しました | %s joined the game | multiplayer.player.joined |
 | %s（旧名%s）がゲームに参加しました | %s (formerly known as %s) joined the game | multiplayer.player.joined.renamed |
 | %sがゲームを退出しました | %s left the game | multiplayer.player.left |
 | HP：%s | %shp | multiplayer.player.list.hp |
-| 現在オンラインのプレイヤーは%sです | "Online players |  %s," | multiplayer.player.list.narration |
+| 現在オンラインのプレイヤーは%sです | Online players: %s | multiplayer.player.list.narration |
 | このサーバーではカスタムリソースパックが必要です | Server requires a custom resource pack | multiplayer.requiredTexturePrompt.disconnect |
 | このサーバーでは、カスタムリソースパックの利用が必要です。 | This server requires the use of a custom resource pack. | multiplayer.requiredTexturePrompt.line1 |
 | このカスタムリソースパックを拒否すると、このサーバーから切断されます。 | Rejecting this custom resource pack will disconnect you from this server. | multiplayer.requiredTexturePrompt.line2 |
@@ -5131,7 +5131,7 @@
 | ホスト名が見つかりません | Can't resolve hostname | multiplayer.status.cannot_resolve |
 | 完了しました | Finished | multiplayer.status.finished |
 | バージョンが対応していません！ | Incompatible version! | multiplayer.status.incompatible |
-| 本日のメッセージは「%s」です | "Message of the day |  %s," | multiplayer.status.motd.narration |
+| 本日のメッセージは「%s」です | Message of the day: %s | multiplayer.status.motd.narration |
 | （接続なし） | (no connection) | multiplayer.status.no_connection |
 | 古いです | Old | multiplayer.status.old |
 | オンライン | Online | multiplayer.status.online |
@@ -5144,37 +5144,37 @@
 | ステータスのリクエストが処理されました | Status request has been handled | multiplayer.status.request_handled |
 | ？？？ | ??? | multiplayer.status.unknown |
 | リクエストされていないステータスを受信しました | Received unrequested status | multiplayer.status.unrequested |
-| サーバーのバージョンは%sです | "Server version |  %s," | multiplayer.status.version.narration |
+| サーバーのバージョンは%sです | Server version: %s | multiplayer.status.version.narration |
 | ベッドから出る | Leave Bed | multiplayer.stopSleeping |
 | サーバーリソースパックを適用できませんでした | Server resource pack couldn't be applied | multiplayer.texturePrompt.failure.line1 |
 | カスタムリソースパックが必要になる機能は、正常に機能しない可能性があります | Any functionality that requires custom resources might not work as expected | multiplayer.texturePrompt.failure.line2 |
 | このサーバーでは、カスタムリソースパックの利用をお勧めします。 | This server recommends the use of a custom resource pack. | multiplayer.texturePrompt.line1 |
 | 自動的にダウンロードしてインストールしますか？ | Would you like to download and install it automagically? | multiplayer.texturePrompt.line2 |
-| %s\n\nサーバーからのメッセージ：\n%s | "%s\n\nMessage from server | \n%s," | multiplayer.texturePrompt.serverPrompt |
+| %s\n\nサーバーからのメッセージ：\n%s | %s\n\nMessage from server:\n%s | multiplayer.texturePrompt.serverPrompt |
 | マルチプレイで遊ぶ | Play Multiplayer | multiplayer.title |
 | このサーバーで送信されたメッセージは変更される場合があり、元のメッセージを反映していない可能性があります。 | Messages sent on this server may be modified and might not reflect the original message | multiplayer.unsecureserver.toast |
 | チャットメッセージの安全性の確認ができません | Chat messages can't be verified | multiplayer.unsecureserver.toast.title |
 | この画面を再度表示しない | Do not show this screen again | multiplayerWarning.check |
-| 警告：サードパーティ製のオンラインサーバー | "Caution |  Third-Party Online Play," | multiplayerWarning.header |
-| 警告：オンラインでのプレイはサードパーティ製のサーバーによって提供されており、Mojang StudiosやMicrosoftが所有、運営、監督するものではありません。オンラインでのプレイ中に、不適切な可能性があるチャットメッセージ等の内容にさらされる可能性があります。 | "Caution |  Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.," | multiplayerWarning.message |
-| ボタン：%s | "Button |  %s," | narration.button |
+| 警告：サードパーティ製のオンラインサーバー | Caution: Third-Party Online Play | multiplayerWarning.header |
+| 警告：オンラインでのプレイはサードパーティ製のサーバーによって提供されており、Mojang StudiosやMicrosoftが所有、運営、監督するものではありません。オンラインでのプレイ中に、不適切な可能性があるチャットメッセージ等の内容にさらされる可能性があります。 | Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. | multiplayerWarning.message |
+| ボタン：%s | Button: %s | narration.button |
 | エンターキーを押して選択します | Press Enter to activate | narration.button.usage.focused |
 | 左クリックで選択します | Left click to activate | narration.button.usage.hovered |
-| チェックボックス：%s | "Checkbox |  %s," | narration.checkbox |
+| チェックボックス：%s | Checkbox: %s | narration.checkbox |
 | Enterを押して切り替えます | Press Enter to toggle | narration.checkbox.usage.focused |
 | 左クリックで切り替えます | Left click to toggle | narration.checkbox.usage.hovered |
 | Tabを押して次の要素に移動します | Press Tab to navigate to next element | narration.component_list.usage |
 | Enterを押して%sに変更します | Press Enter to switch to %s | narration.cycle_button.usage.focused |
 | 左クリックで%sに変更します | Left click to switch to %s | narration.cycle_button.usage.hovered |
-| 編集欄：%s | "Edit box |  %s," | narration.edit_box |
+| 編集欄：%s | Edit box: %s | narration.edit_box |
 | %sのレシピ | Recipe for %s | narration.recipe |
 | 左クリックで選択します | Left click to select | narration.recipe.usage |
 | 右クリックで他のレシピを表示します | Right click to show more recipes | narration.recipe.usage.more |
 | 上下の方向キーで別のエントリーに移動します | Press up and down buttons to move to another entry | narration.selection.usage |
 | 左右の方向キーを押して数値を変更します | Press left or right keyboard buttons to change value | narration.slider.usage.focused |
 | スライダーを左右に移動させて数値を変更します | Drag slider to change value | narration.slider.usage.hovered |
-| %2$s個のうち%1$s番目の候補%3$sが選択されました | "Selected suggestion %d out of %d |  %s," | narration.suggestion |
-| %2$s個のうち%1$s番目の候補%3$s、%4$sが選択されました | "Selected suggestion %d out of %d |  %s (%s)," | narration.suggestion.tooltip |
+| %2$s個のうち%1$s番目の候補%3$sが選択されました | Selected suggestion %d out of %d: %s | narration.suggestion |
+| %2$s個のうち%1$s番目の候補%3$s、%4$sが選択されました | Selected suggestion %d out of %d: %s (%s) | narration.suggestion.tooltip |
 | 次の候補に切り替えるにはタブキーを押してください | Press Tab to cycle to the next suggestion | narration.suggestion.usage.cycle.fixed |
 | 次の候補に切り替えるにはタブキーを、予測入力をやめるにはエスケープキーを押してください | Press Tab to cycle to the next suggestion, or Escape to leave suggestions | narration.suggestion.usage.cycle.hidable |
 | 予測入力を使用する場合、Tabを押してください | Press Tab to use suggestion | narration.suggestion.usage.fill.fixed |
@@ -5189,7 +5189,7 @@
 | %sのボタンをリセットします | Reset %s button | narrator.controls.reset |
 | %sは割り当てられていません | %s is not bound | narrator.controls.unbound |
 | 接続中です | Joining | narrator.joining |
-| %s読み込み中です | "Loading |  %s," | narrator.loading |
+| %s読み込み中です | Loading: %s | narrator.loading |
 | 完了 | Done | narrator.loading.done |
 | %2$s行のリストのうち%1$s行目が選択されました | Selected list row %s out of %s | narrator.position.list |
 | %2$s個のうち%1$s番目の行の要素が選択されました | Selected row element %s out of %s | narrator.position.object_list |
@@ -5198,20 +5198,20 @@
 | プレイの準備が整いました | Ready to play | narrator.ready_to_play |
 | タイトル画面 | Title Screen | narrator.screen.title |
 | マウスカーソルまたはTabボタンで要素を選択します | Use mouse cursor or Tab button to select element | narrator.screen.usage |
-| %sを選択しました | "Selected |  %s," | narrator.select |
-| ワールド名が「%s」、最終プレイが%s、ゲームモードが「%s」、%s、バージョンが%sのワールド | "Selected %s, last played |  %s, %s, %s, version |  %s," | narrator.select.world |
-| ワールドの名前が「%s」、最終プレイが%s、%sのワールド | "Selected %s, last played |  %s, %s," | narrator.select.world_info |
+| %sを選択しました | Selected: %s | narrator.select |
+| ワールド名が「%s」、最終プレイが%s、ゲームモードが「%s」、%s、バージョンが%sのワールド | Selected %s, last played: %s, %s, %s, version: %s | narrator.select.world |
+| ワールドの名前が「%s」、最終プレイが%s、%sのワールド | Selected %s, last played: %s, %s | narrator.select.world_info |
 | 音声読み上げ無効 | Narrator Disabled | narrator.toast.disabled |
 | 音声読み上げ有効 | Narrator Enabled | narrator.toast.enabled |
 | この操作は確実にすべてのデータを最新のゲーム形式で格納することでワールドを最適化します。ワールドによっては、この操作は長時間かかる場合があります。処理後、ワールドをより快適にプレイすることができますが、古いバージョンのゲームとの互換性はなくなります。続行しますか？ | This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed? | optimizeWorld.confirm.description |
 | ワールドを最適化 | Optimize World | optimizeWorld.confirm.title |
-| アップグレードされたチャンク数：%s | "Upgraded chunks |  %s," | optimizeWorld.info.converted |
-| スキップされたチャンク数：%s | "Skipped chunks |  %s," | optimizeWorld.info.skipped |
-| 合計チャンク数：%s | "Total chunks |  %s," | optimizeWorld.info.total |
+| アップグレードされたチャンク数：%s | Upgraded chunks: %s | optimizeWorld.info.converted |
+| スキップされたチャンク数：%s | Skipped chunks: %s | optimizeWorld.info.skipped |
+| 合計チャンク数：%s | Total chunks: %s | optimizeWorld.info.total |
 | %s／%s | %s / %s | optimizeWorld.progress.counter |
 | %s%% | %s%% | optimizeWorld.progress.percentage |
 | チャンク数を計算中… | Counting chunks... | optimizeWorld.stage.counting |
-| 失敗！(´･ω･`) | "Failed!  | (," | optimizeWorld.stage.failed |
+| 失敗！(´･ω･`) | Failed! :( | optimizeWorld.stage.failed |
 | まもなく完了します… | Finishing up... | optimizeWorld.stage.finished |
 | チャンクのアップグレートがまもなく完了します… | Finishing up upgrading chunks... | optimizeWorld.stage.finished.chunks |
 | エンティティのアップグレードがまもなく完了します… | Finishing up upgrading entities... | optimizeWorld.stage.finished.entities |
@@ -5262,8 +5262,8 @@
 | 9×9（非常に高い） | 9x9 (Very High) | options.biomeBlendRadius.9 |
 | チャット設定… | Chat Settings... | options.chat |
 | 色 | Colors | options.chat.color |
-| チャットの遅延間隔：%s秒 | "Chat Delay |  %s seconds," | options.chat.delay |
-| チャットの遅延間隔：なし | "Chat Delay |  None," | options.chat.delay_none |
+| チャットの遅延間隔：%s秒 | Chat Delay: %s seconds | options.chat.delay |
+| チャットの遅延間隔：なし | Chat Delay: None | options.chat.delay_none |
 | 入力時の高さ | Focused Height | options.chat.height.focused |
 | 通常時の高さ | Unfocused Height | options.chat.height.unfocused |
 | 行間 | Line Spacing | options.chat.line_spacing |
@@ -5326,7 +5326,7 @@
 | デフォルト | Default | options.gamma.default |
 | 明るい | Bright | options.gamma.max |
 | 暗い | Moody | options.gamma.min |
-| %s：%s | "%s |  %s," | options.generic_value |
+| %s：%s | %s: %s | options.generic_value |
 | オーラの速度 | Glint Speed | options.glintSpeed |
 | エンチャントされたアイテムを覆うオーラの揺らめきの速度を設定できます。 | Controls how fast the visual glint shimmers across enchanted items. | options.glintSpeed.tooltip |
 | オーラの濃さ | Glint Strength | options.glintStrength |
@@ -5341,10 +5341,10 @@
 | サポートなしで続行 | Continue Without Support | options.graphics.warning.accept |
 | 元に戻す | Take Me Back | options.graphics.warning.cancel |
 | お使いのグラフィックデバイスは、グラフィックオプションの%sをサポートしていないことを検出しました。\n\nこの警告を無視することもできますが、%sグラフィックの使用を選択した場合はデバイスの正常な動作が保証されません。 | Your graphics device is detected as unsupported for the %s graphics option.\n\nYou may ignore this and continue, however support will not be provided for your device if you choose to use %s graphics. | options.graphics.warning.message |
-| 検出されたレンダラー：[%s] | "Renderer detected |  [%s]," | options.graphics.warning.renderer |
+| 検出されたレンダラー：[%s] | Renderer detected: [%s] | options.graphics.warning.renderer |
 | サポートされていないグラフィックデバイス | Graphics Device Unsupported | options.graphics.warning.title |
-| 検出されたベンダー：[%s] | "Vendor detected |  [%s]," | options.graphics.warning.vendor |
-| 検出されたOpenGLバージョン：[%s] | "OpenGL Version detected |  [%s]," | options.graphics.warning.version |
+| 検出されたベンダー：[%s] | Vendor detected: [%s] | options.graphics.warning.vendor |
+| 検出されたOpenGLバージョン：[%s] | OpenGL Version detected: [%s] | options.graphics.warning.version |
 | GUIの大きさ | GUI Scale | options.guiScale |
 | 自動 | Auto | options.guiScale.auto |
 | 非表示 | Hidden | options.hidden |
@@ -5388,9 +5388,9 @@
 | 通知表示時間 | Notification Time | options.notifications.display_time |
 | 通知が画面上に表示される時間を調整することができます。 | Affects the length of time that all notifications stay visible on the screen. | options.notifications.display_time.tooltip |
 | オフ | OFF | options.off |
-| %s：オフ | "%s |  OFF," | options.off.composed |
+| %s：オフ | %s: OFF | options.off.composed |
 | オン | ON | options.on |
-| %s：オン | "%s |  ON," | options.on.composed |
+| %s：オン | %s: ON | options.on.composed |
 | オンライン設定… | Online... | options.online |
 | オンライン設定 | Online Options | options.online.title |
 | 安全なチャットのみ表示 | Only Show Secure Chat | options.onlyShowSecureChat |
@@ -5400,9 +5400,9 @@
 | すべて | All | options.particles.all |
 | 少し | Decreased | options.particles.decreased |
 | 最少 | Minimal | options.particles.minimal |
-| %s：+%s%% | "%s |  +%s%%," | options.percent_add_value |
-| %s：%s%% | "%s |  %s%%," | options.percent_value |
-| %s：%sピクセル | "%s |  %spx," | options.pixel_value |
+| %s：+%s%% | %s: +%s%% | options.percent_add_value |
+| %s：%s%% | %s: %s%% | options.percent_value |
+| %s：%sピクセル | %s: %spx | options.pixel_value |
 | チャンク構築 | Chunk Builder | options.prioritizeChunkUpdates |
 | 仮ブロック化 | Semi Blocking | options.prioritizeChunkUpdates.byPlayer |
 | ブロックの破壊や設置を含む特定のアクションがチャンク内で発生する度に、直ちにそのチャンクを再構築します。 | Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying. | options.prioritizeChunkUpdates.byPlayer.tooltip |
@@ -5430,7 +5430,7 @@
 | サウンド設定 | Music & Sound Options | options.sounds.title |
 | データの遠隔収集… | Telemetry Data... | options.telemetry |
 | データの収集 | Data Collection | options.telemetry.button |
-| 「%s」では要求されたデータのみを収集します。\n「%s」は要求されたデータに加え、追加のデータを収集します。 | \%s\" includes only the required data.\n\"%s\" includes optional, as well as the required data." | options.telemetry.button.tooltip |
+| 「%s」では要求されたデータのみを収集します。\n「%s」は要求されたデータに加え、追加のデータを収集します。 | \"%s\" includes only the required data.\n\"%s\" includes optional, as well as the required data. | options.telemetry.button.tooltip |
 | データの遠隔収集は無効になっています。 | Telemetry is disabled. | options.telemetry.disabled |
 | すべて | All | options.telemetry.state.all |
 | 最小 | Minimal | options.telemetry.state.minimal |
@@ -5448,7 +5448,7 @@
 | パックのコピーに失敗しました | Failed to copy packs | pack.copyFailure |
 | 次のパックをMinecraftに追加しますか？ | Do you want to add the following packs to Minecraft? | pack.dropConfirm |
 | このウィンドウにファイルをドラッグアンドドロップするとパックを追加できます | Drag and drop files into this window to add packs | pack.dropInfo |
-| 以下の項目は有効なパックではないため、コピーされませんでした\n %s | "The following entries were not valid packs and were not copied | \n %s," | pack.dropRejected.message |
+| 以下の項目は有効なパックではないため、コピーされませんでした\n %s | The following entries were not valid packs and were not copied:\n %s | pack.dropRejected.message |
 | パックでない項目 | Non-pack entries | pack.dropRejected.title |
 | （パックファイルをここへ） | (Place pack files here) | pack.folderInfo |
 | 非対応 | Incompatible | pack.incompatible |
@@ -5581,8 +5581,8 @@
 | 「\\%s」は無効なエスケープシーケンスです | Invalid escape sequence '\\%s' in quoted string | parsing.quote.escape |
 | 文字列の引用符が閉じられていません | Unclosed quoted string | parsing.quote.expected.end |
 | 文字列の始めには引用符が必要です | Expected quote to start a string | parsing.quote.expected.start |
-| パーティクルの設定を解析出来ません：%s | "Can't parse particle options |  %s," | particle.invalidOptions |
-| 不明なパーティクルです：%s | "Unknown particle |  %s," | particle.notFound |
+| パーティクルの設定を解析出来ません：%s | Can't parse particle options: %s | particle.invalidOptions |
+| 不明なパーティクルです：%s | Unknown particle: %s | particle.notFound |
 | このコマンドを実行するためにはエンティティが必要です | An entity is required to run this command here | permissions.requires.entity |
 | このコマンドを実行するためにはプレイヤーが必要です | A player is required to run this command here | permissions.requires.player |
 | II | II | potion.potency.1 |
@@ -5590,20 +5590,20 @@
 | IV | IV | potion.potency.3 |
 | V | V | potion.potency.4 |
 | VI | VI | potion.potency.5 |
-| 効果： | "When Applied | ," | potion.whenDrank |
+| 効果： | When Applied: | potion.whenDrank |
 | %s %s | %s %s | potion.withAmplifier |
 | %s（%s） | %s (%s) | potion.withDuration |
-| 不明な条件です：%s | "Unknown predicate |  %s," | predicate.unknown |
+| 不明な条件です：%s | Unknown predicate: %s | predicate.unknown |
 | 指定された識別子を持つワールドが見つかりませんでした | Could not find world with the provided identifier | quickplay.error.invalid_identifier |
 | Realmに接続できませんでした | Could not connect to Realm | quickplay.error.realm_connect |
 | このRealmに接続するための権限がありません | Lacking permission to connect to this Realm | quickplay.error.realm_permission |
 | クイックプレイに失敗しました | Failed to Quick Play | quickplay.error.title |
 | 現在Realmsを開くことはできません。後ほどもう一度お試しください | Realms could not be opened right now, please try again later | realms.missing.module.error.text |
 | Realmsは現在スナップショットに対応していません | Realms is currently not supported in snapshots | realms.missing.snapshot.error.text |
-| 不明なレシピです：%s | "Unknown recipe |  %s," | recipe.notFound |
+| 不明なレシピです：%s | Unknown recipe: %s | recipe.notFound |
 | レシピ本を確認しましょう | Check your recipe book | recipe.toast.description |
 | 新レシピ解禁！ | New Recipes Unlocked! | recipe.toast.title |
-| 再生中：%s | "Now Playing |  %s," | record.nowPlaying |
+| 再生中：%s | Now Playing: %s | record.nowPlaying |
 | バグを報告する | Report a Bug | recover_world.bug_tracker |
 | 復元を試みる | Attempt to Recover | recover_world.button |
 | 以前の状態からの復元に失敗しました。 | Failed to recover from previous state. | recover_world.done.failed |
@@ -5611,11 +5611,11 @@
 | 復元完了 | Recovery done | recover_world.done.title |
 | ファイルが不足しています | Missing file | recover_world.issue.missing_file |
 | 問題なし | No issues | recover_world.issue.none |
-| ワールドフォルダー「%s」の読み込み中に以下の問題が発生しました。\n以前の状態からワールドを復元できるかもしれません。またこの問題をバグトラッカーで報告していただくことも可能です。 | The following issues occurred while trying to read world folder \%s\".\nIt might be possible to restore the world from an older state or you can report this issue on the bug tracker." | recover_world.message |
+| ワールドフォルダー「%s」の読み込み中に以下の問題が発生しました。\n以前の状態からワールドを復元できるかもしれません。またこの問題をバグトラッカーで報告していただくことも可能です。 | The following issues occurred while trying to read world folder \"%s\".\nIt might be possible to restore the world from an older state or you can report this issue on the bug tracker. | recover_world.message |
 | 復元元として利用可能な状態がありません | No state to recover from available | recover_world.no_fallback |
 | 修復を試みる | Attempt to Restore | recover_world.restore |
 | ワールドを修復中… | Attempting to restore world... | recover_world.restoring |
-| %sからの状態： | "State from %s |  ," | recover_world.state_entry |
+| %sからの状態： | State from %s: | recover_world.state_entry |
 | 不明な日時 | unknown | recover_world.state_entry.unknown |
 | ワールドの読み込みに失敗しました | Failed to load world | recover_world.title |
 | ワールドの概要の読み込みに失敗しました | Failed to load world summary | recover_world.warning |
@@ -5630,14 +5630,14 @@
 | リソースパックをダウンロード中 | Downloading Resource Pack | resourcepack.downloading |
 | ファイルをダウンロード中（%sMB）… | Downloading file (%s MB)... | resourcepack.progress |
 | リクエストを送信中… | Making Request... | resourcepack.requesting |
-| スクリーンショットを保存できませんでした：%s | "Couldn't save screenshot |  %s," | screenshot.failure |
+| スクリーンショットを保存できませんでした：%s | Couldn't save screenshot: %s | screenshot.failure |
 | スクリーンショットを%sとして保存しました | Saved screenshot as %s | screenshot.success |
 | サーバーを追加 | Add Server | selectServer.add |
 | Minecraftサーバー | Minecraft Server | selectServer.defaultName |
 | 削除 | Delete | selectServer.delete |
 | 削除 | Delete | selectServer.deleteButton |
 | このサーバーを削除しますか？ | Are you sure you want to remove this server? | selectServer.deleteQuestion |
-| 「%s」は完全に削除され、二度と元に戻せません！ | %s' will be lost forever! (A long time!) | selectServer.deleteWarning |
+| 「%s」は完全に削除され、二度と元に戻せません！ | '%s' will be lost forever! (A long time!) | selectServer.deleteWarning |
 | ダイレクト接続 | Direct Connection | selectServer.direct |
 | 編集 | Edit | selectServer.edit |
 | （非表示） | (Hidden) | selectServer.hiddenAddress |
@@ -5672,14 +5672,14 @@
 | 削除 | Delete | selectWorld.delete |
 | 削除 | Delete | selectWorld.deleteButton |
 | このワールドを削除しますか？ | Are you sure you want to delete this world? | selectWorld.deleteQuestion |
-| 「%s」は完全に削除され、復元ができなくなります。 | %s' will be lost forever! (A long time!) | selectWorld.deleteWarning |
+| 「%s」は完全に削除され、復元ができなくなります。 | '%s' will be lost forever! (A long time!) | selectWorld.deleteWarning |
 | ワールドの削除に失敗しました | Failed to delete world | selectWorld.delete_failure |
 | 編集 | Edit | selectWorld.edit |
 | バックアップを作成する | Make Backup | selectWorld.edit.backup |
-| バックアップ完了：%s | "Backed up |  %s," | selectWorld.edit.backupCreated |
+| バックアップ完了：%s | Backed up: %s | selectWorld.edit.backupCreated |
 | バックアップに失敗しました | Backup failed | selectWorld.edit.backupFailed |
 | バックアップフォルダーを開く | Open Backups Folder | selectWorld.edit.backupFolder |
-| サイズ：%sMB | "size |  %s MB," | selectWorld.edit.backupSize |
+| サイズ：%sMB | size: %s MB | selectWorld.edit.backupSize |
 | ワールド生成設定を書き出す | Export World Generation Settings | selectWorld.edit.export_worldgen_settings |
 | 書き出しに失敗しました | Export failed | selectWorld.edit.export_worldgen_settings.failure |
 | 書き出し完了 | Exported | selectWorld.edit.export_worldgen_settings.success |
@@ -5692,7 +5692,7 @@
 | ワールド生成のシード値 | Seed for the world generator | selectWorld.enterSeed |
 | 実験的 | Experimental | selectWorld.experimental |
 | 詳細を確認 | Details | selectWorld.experimental.details |
-| 要求される実験的要素：%s | "Required experimental features |  %s," | selectWorld.experimental.details.entry |
+| 要求される実験的要素：%s | Required experimental features: %s | selectWorld.experimental.details.entry |
 | 要求される実験的要素 | Experimental Feature Requirements | selectWorld.experimental.details.title |
 | 注意！\nこの設定はまだ開発中の機能を必要とします。ワールドは今後のアップデートによりクラッシュや破損、動作しなくなるなどの可能性があります。 | Be careful!\nThis configuration requires features that are still under development. Your world might crash, break, or not work with future updates. | selectWorld.experimental.message |
 | 実験的要素に関する警告 | Experimental Features Warning | selectWorld.experimental.title |
@@ -5725,7 +5725,7 @@
 | 設定の読み込み中にエラーが発生しました | Error importing settings | selectWorld.import_worldgen_settings.failure |
 | 設定ファイルを選択（.json） | Select settings file (.json) | selectWorld.import_worldgen_settings.select_file |
 | このワールドはこのバージョンでは開けません。\nこのワールドを最後にプレイしたバージョンは%sです。 | This world cannot be opened in this version.\nIt was last played in version %s. | selectWorld.incompatible.description |
-| 互換性のないバージョン：%s | "Incompatible version |  %s," | selectWorld.incompatible.info |
+| 互換性のないバージョン：%s | Incompatible version: %s | selectWorld.incompatible.info |
 | 互換性のないバージョン | Incompatible version | selectWorld.incompatible.title |
 | このワールドは互換性のないバージョンで作成されているため開くことができません。 | This world cannot be opened because it was created by an incompatible version. | selectWorld.incompatible.tooltip |
 | 互換性のないバージョンで作成されています | Created by an incompatible version | selectWorld.incompatible_series |
@@ -5744,18 +5744,18 @@
 | ワールドの再生成に失敗しました。 | Something went wrong while trying to recreate a world. | selectWorld.recreate.error.text |
 | エラーが発生しました！ | An error occurred! | selectWorld.recreate.error.title |
 | リソースを準備中… | Preparing Resources... | selectWorld.resource_load |
-| 保存先： | "Will be saved in | ," | selectWorld.resultFolder |
+| 保存先： | Will be saved in: | selectWorld.resultFolder |
 | ワールドの検索 | search for worlds | selectWorld.search |
 | 空白でランダムシード値 | Leave blank for a random seed | selectWorld.seedInfo |
 | 選択したワールドで遊ぶ | Play Selected World | selectWorld.select |
-| 保存先：%s | "Save folder |  %s," | selectWorld.targetFolder |
+| 保存先：%s | Save folder: %s | selectWorld.targetFolder |
 | ワールドを選択 | Select World | selectWorld.title |
 | このワールドは、現在より新しいバージョンで保存されています。 | World was saved in a newer version, | selectWorld.tooltip.fromNewerVersion1 |
 | 古いバージョンでこのワールドを読み込むと、データが破損する可能性があります。 | loading this world could cause problems! | selectWorld.tooltip.fromNewerVersion2 |
 | このワールドを読み込む前に | Don't forget to back up this world | selectWorld.tooltip.snapshot1 |
 | バックアップを取ることを推奨します。 | before you load it in this snapshot. | selectWorld.tooltip.snapshot2 |
 | ワールドを読み込めません | Unable to load worlds | selectWorld.unable_to_load |
-| バージョン： | "Version | ," | selectWorld.version |
+| バージョン： | Version: | selectWorld.version |
 | 構わず読み込む | Load Anyway | selectWorld.versionJoinButton |
 | このワールドを読み込みますか？ | Do you really want to load this world? | selectWorld.versionQuestion |
 | 不明 | unknown | selectWorld.versionUnknown |
@@ -5888,12 +5888,12 @@
 | 読み込み | LOAD | structure_block.button.load |
 | 保存 | SAVE | structure_block.button.save |
 | カスタムデータタグ名 | Custom Data Tag Name | structure_block.custom_data |
-| 構造物の大きさと位置を検出： | "Detect Structure Size and Position | ," | structure_block.detect_size |
-| コーナー：%s | "Corner |  %s," | structure_block.hover.corner |
-| データ：%s | "Data |  %s," | structure_block.hover.data |
-| ロード：%s | "Load |  %s," | structure_block.hover.load |
-| セーブ：%s | "Save |  %s," | structure_block.hover.save |
-| エンティティを含めるかどうか： | "Include Entities | ," | structure_block.include_entities |
+| 構造物の大きさと位置を検出： | Detect Structure Size and Position: | structure_block.detect_size |
+| コーナー：%s | Corner: %s | structure_block.hover.corner |
+| データ：%s | Data: %s | structure_block.hover.data |
+| ロード：%s | Load: %s | structure_block.hover.load |
+| セーブ：%s | Save: %s | structure_block.hover.save |
+| エンティティを含めるかどうか： | Include Entities: | structure_block.include_entities |
 | 構造物の完全性とシード値 | Structure Integrity and Seed | structure_block.integrity |
 | 構造物の完全性 | Structure Integrity | structure_block.integrity.integrity |
 | 構造物のシード値 | Structure Seed | structure_block.integrity.seed |
@@ -5915,8 +5915,8 @@
 | Z軸方向の相対位置 | relative position z | structure_block.position.z |
 | 構造物「%s」を保存できません | Unable to save structure '%s' | structure_block.save_failure |
 | 構造物が「%s」として保存されました | Structure saved as '%s' | structure_block.save_success |
-| 見えないブロックを表示する： | "Show Invisible Blocks | ," | structure_block.show_air |
-| 境界線を表示する： | "Show Bounding Box | ," | structure_block.show_boundingbox |
+| 見えないブロックを表示する： | Show Invisible Blocks: | structure_block.show_air |
+| 境界線を表示する： | Show Bounding Box: | structure_block.show_boundingbox |
 | 構造物のサイズ | Structure Size | structure_block.size |
 | X軸方向の構造物のサイズ | structure size x | structure_block.size.x |
 | Y軸方向の構造物のサイズ | structure size y | structure_block.size.y |
@@ -6815,7 +6815,7 @@
 | 含まれるデータ | Included Data | telemetry_info.property_title |
 | これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。\nまた、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。 | Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.\nYou can also send in additional feedback to help us keep improving Minecraft. | telemetry_info.screen.description |
 | データの遠隔収集 | Telemetry Data Collection | telemetry_info.screen.title |
-| 32bitシステムが検出されました：将来的には64ビットシステムが必要になるため、ゲームがプレイできなくなる可能性があります。 | "32-bit system detected |  this may prevent you from playing in the future as a 64-bit system will be required!," | title.32bit.deprecation |
+| 32bitシステムが検出されました：将来的には64ビットシステムが必要になるため、ゲームがプレイできなくなる可能性があります。 | 32-bit system detected: this may prevent you from playing in the future as a 64-bit system will be required! | title.32bit.deprecation |
 | Minecraftはまもなく64bitシステムが必須となるため、このデバイスでRealmsのプレイや利用ができなくなります。そのため、ご自身でRealmsを解約する必要があります。 | Minecraft will soon require a 64-bit system, which will prevent you from playing or using Realms on this device. You will need to manually cancel any Realms subscription. | title.32bit.deprecation.realms |
 | この画面を再度表示しない | Do not show this screen again | title.32bit.deprecation.realms.check |
 | 32bitシステムが検出されました | 32-bit system detected | title.32bit.deprecation.realms.header |
@@ -6879,4 +6879,4 @@
 | 木を倒しましょう | Destroy the tree | tutorial.punch_tree.title |
 | %sで開く | Press %s to open | tutorial.socialInteractions.description |
 | 社交設定 | Social Interactions | tutorial.socialInteractions.title |
-| ネザライト強化 | Netherite Upgrade | upgrade.minecraft.netherite_upgrade |
+| ネザライト強化" | Netherite Upgrade | upgrade.minecraft.netherite_upgrade |
