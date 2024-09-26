@@ -4572,3 +4572,2311 @@
 | ホットバースロット9 | Hotbar Slot 9 | key.hotbar.9 |
 | インベントリの開閉 | Open/Close Inventory | key.inventory |
 | ジャンプ | Jump | key.jump |
+|  |  | key.keyboard.apostrophe |
+| \\ | \\ | key.keyboard.backslash |
+| Backspace | Backspace | key.keyboard.backspace |
+| Caps Lock | Caps Lock | key.keyboard.caps.lock |
+| , | , | key.keyboard.comma |
+| Delete | Delete | key.keyboard.delete |
+| 下方向キー | Down Arrow | key.keyboard.down |
+| End | End | key.keyboard.end |
+| Enter | Enter | key.keyboard.enter |
+| #ERROR! | #ERROR! | key.keyboard.equal |
+| Escape | Escape | key.keyboard.escape |
+| F1 | F1 | key.keyboard.f1 |
+| F10 | F10 | key.keyboard.f10 |
+| F11 | F11 | key.keyboard.f11 |
+| F12 | F12 | key.keyboard.f12 |
+| F13 | F13 | key.keyboard.f13 |
+| F14 | F14 | key.keyboard.f14 |
+| F15 | F15 | key.keyboard.f15 |
+| F16 | F16 | key.keyboard.f16 |
+| F17 | F17 | key.keyboard.f17 |
+| F18 | F18 | key.keyboard.f18 |
+| F19 | F19 | key.keyboard.f19 |
+| F2 | F2 | key.keyboard.f2 |
+| F20 | F20 | key.keyboard.f20 |
+| F21 | F21 | key.keyboard.f21 |
+| F22 | F22 | key.keyboard.f22 |
+| F23 | F23 | key.keyboard.f23 |
+| F24 | F24 | key.keyboard.f24 |
+| F25 | F25 | key.keyboard.f25 |
+| F3 | F3 | key.keyboard.f3 |
+| F4 | F4 | key.keyboard.f4 |
+| F5 | F5 | key.keyboard.f5 |
+| F6 | F6 | key.keyboard.f6 |
+| F7 | F7 | key.keyboard.f7 |
+| F8 | F8 | key.keyboard.f8 |
+| F9 | F9 | key.keyboard.f9 |
+| ` | ` | key.keyboard.grave.accent |
+| Home | Home | key.keyboard.home |
+| Insert | Insert | key.keyboard.insert |
+| キーパッド0 | Keypad 0 | key.keyboard.keypad.0 |
+| キーパッド1 | Keypad 1 | key.keyboard.keypad.1 |
+| キーパッド2 | Keypad 2 | key.keyboard.keypad.2 |
+| キーパッド3 | Keypad 3 | key.keyboard.keypad.3 |
+| キーパッド4 | Keypad 4 | key.keyboard.keypad.4 |
+| キーパッド5 | Keypad 5 | key.keyboard.keypad.5 |
+| キーパッド6 | Keypad 6 | key.keyboard.keypad.6 |
+| キーパッド7 | Keypad 7 | key.keyboard.keypad.7 |
+| キーパッド8 | Keypad 8 | key.keyboard.keypad.8 |
+| キーパッド9 | Keypad 9 | key.keyboard.keypad.9 |
+| キーパッド + | Keypad + | key.keyboard.keypad.add |
+| キーパッド 小数点 | Keypad Decimal | key.keyboard.keypad.decimal |
+| キーパッド / | Keypad / | key.keyboard.keypad.divide |
+| キーパッド Enter | Keypad Enter | key.keyboard.keypad.enter |
+| キーパッド = | Keypad = | key.keyboard.keypad.equal |
+| キーパッド * | Keypad * | key.keyboard.keypad.multiply |
+| キーパッド - | Keypad - | key.keyboard.keypad.subtract |
+| 左方向キー | Left Arrow | key.keyboard.left |
+| 左Alt | Left Alt | key.keyboard.left.alt |
+| [ | [ | key.keyboard.left.bracket |
+| 左Control | Left Control | key.keyboard.left.control |
+| 左Shift | Left Shift | key.keyboard.left.shift |
+| 左Win | Left Win | key.keyboard.left.win |
+| メニュー | Menu | key.keyboard.menu |
+| - | - | key.keyboard.minus |
+| Num Lock | Num Lock | key.keyboard.num.lock |
+| Page Down | Page Down | key.keyboard.page.down |
+| Page Up | Page Up | key.keyboard.page.up |
+| Pause | Pause | key.keyboard.pause |
+| . | . | key.keyboard.period |
+| Print Screen | Print Screen | key.keyboard.print.screen |
+| 右方向キー | Right Arrow | key.keyboard.right |
+| 右Alt | Right Alt | key.keyboard.right.alt |
+| ] | ] | key.keyboard.right.bracket |
+| 右Control | Right Control | key.keyboard.right.control |
+| 右Shift | Right Shift | key.keyboard.right.shift |
+| 右Win | Right Win | key.keyboard.right.win |
+| Scroll Lock | Scroll Lock | key.keyboard.scroll.lock |
+| ; | ; | key.keyboard.semicolon |
+| / | / | key.keyboard.slash |
+| Space | Space | key.keyboard.space |
+| Tab | Tab | key.keyboard.tab |
+| 未割り当て | Not Bound | key.keyboard.unknown |
+| 上方向キー | Up Arrow | key.keyboard.up |
+| ワールド 1 | World 1 | key.keyboard.world.1 |
+| ワールド 2 | World 2 | key.keyboard.world.2 |
+| 左 | Strafe Left | key.left |
+| ホットバーの読み込み | Load Hotbar Activator | key.loadToolbarActivator |
+| ボタン%1$s | Button %1$s | key.mouse |
+| 左ボタン | Left Button | key.mouse.left |
+| 中央ボタン | Middle Button | key.mouse.middle |
+| 右ボタン | Right Button | key.mouse.right |
+| ブロック選択 | Pick Block | key.pickItem |
+| プレイヤーリストの表示 | List Players | key.playerlist |
+| 右 | Strafe Right | key.right |
+| ホットバーの保存 | Save Hotbar Activator | key.saveToolbarActivator |
+| スクリーンショットの撮影 | Take Screenshot | key.screenshot |
+| 滑らかなカメラ動作の切り替え | Toggle Cinematic Camera | key.smoothCamera |
+| スニーク | Sneak | key.sneak |
+| 社交設定画面 | Social Interactions Screen | key.socialInteractions |
+| プレイヤーの強調表示（スペクテイター） | Highlight Players (Spectators) | key.spectatorOutlines |
+| ダッシュ | Sprint | key.sprint |
+| アイテムをオフハンドと交換 | Swap Item With Off Hand | key.swapOffhand |
+| 視点の切り替え | Toggle Perspective | key.togglePerspective |
+| アイテムの使用／ブロックの設置 | Use Item/Place Block | key.use |
+| お知らせ | Announcements | known_server_link.announcements |
+| コミュニティ | Community | known_server_link.community |
+| コミュニティガイドライン | Community Guidelines | known_server_link.community_guidelines |
+| フィードバック | Feedback | known_server_link.feedback |
+| フォーラム | Forums | known_server_link.forums |
+| ニュース | News | known_server_link.news |
+| サーバーのバグを報告 | Report Server Bug | known_server_link.report_bug |
+| 状態 | Status | known_server_link.status |
+| サポート | Support | known_server_link.support |
+| ウェブサイト | Website | known_server_link.website |
+| 他のプレイヤーのための設定 | Settings for Other Players | lanServer.otherPlayers |
+| ポート番号 | Port Number | lanServer.port |
+| 無効なポートです。\n編集ボックスを空にするか、1024から65535までの数値を入力してください。 | Not a valid port.\nLeave the edit box empty or enter a number between 1024 and 65535. | lanServer.port.invalid |
+| このポートは利用できません。\n編集ボックスを空にするか、%1$sから%2$sまでの数値を入力してください。 | Not a valid port.\nLeave the edit box empty or enter a number between %s and %s. | lanServer.port.invalid.new |
+| このポートは利用できません。\n編集ボックスを空にするか、1024から65535までの別の数値を入力してください。 | Port not available.\nLeave the edit box empty or enter a different number between 1024 and 65535. | lanServer.port.unavailable |
+| このポートは利用できません。\n編集ボックスを空にするか、%1$sから%2$sまでの別の数値を入力してください。 | Port not available.\nLeave the edit box empty or enter a different number between %s and %s. | lanServer.port.unavailable.new |
+| LAN内のゲームを検索中 | Scanning for games on your local network | lanServer.scanning |
+| LANワールドを公開 | Start LAN World | lanServer.start |
+| LANワールド | LAN World | lanServer.title |
+| jpn_JP | en_us | language.code |
+| 日本語 | English | language.name |
+| 日本 | United States | language.region |
+| 本を取る | Take Book | lectern.take_book |
+| %s%% | %s%% | loading.progress |
+| Mojangと個人情報保護法について | Read more about Mojang and privacy laws | mco.account.privacy.info |
+| 一般データ保護規則について | Read more about GDPR | mco.account.privacy.info.button |
+| Mojangは児童オンライン保護法（COPPA）と一般データ保護規則（GDPR）に基づく、こどもとそのプライバシーを保護するための手続きを履行しています。\n\nRealmsアカウントにアクセスするには保護者の同意が必要となる場合があります。 | Mojang implements certain procedures to help protect children and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYou may need to obtain parental consent before accessing your Realms account. | mco.account.privacy.information |
+| Mojangは児童オンライン保護法（COPPA）と一般データ保護規則（GDPR）に基づく、こどもとそのプライバシーを保護するための手続きを履行しています。\n\nRealmsアカウントにアクセスするには保護者の同意が必要となる場合があります。\n\n古いMinecraftアカウント（ユーザーネームでログインする形式）を所有している場合、RealmsにアクセスするにはMojangアカウントに移行する必要があります。 | Mojang implements certain procedures to help protect children and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYou may need to obtain parental consent before accessing your Realms account.\n\nIf you have an older Minecraft account (you log in with your username), you need to migrate the account to a Mojang account in order to access Realms. | mco.account.privacyinfo |
+| アカウントの更新 | Update account | mco.account.update |
+| 過去%s日間のアクティビティはありません | No activity for the past %s day(s) | mco.activity.noactivity |
+| プレイヤーのアクティビティ | Player activity | mco.activity.title |
+| 最新版をダウンロード | Download Latest | mco.backup.button.download |
+| ワールドのリセット | Reset World | mco.backup.button.reset |
+| 復元 | Restore | mco.backup.button.restore |
+| ワールドをアップロード | Upload World | mco.backup.button.upload |
+| 変更点 | Changes | mco.backup.changes.tooltip |
+| バックアップ（%s） | Backup (%s) | mco.backup.entry |
+| 説明 | Description | mco.backup.entry.description |
+| 有効化されたパック | Enabled Pack(s) | mco.backup.entry.enabledPack |
+| ゲームの難易度 | Game Difficulty | mco.backup.entry.gameDifficulty |
+| ゲームモード | Game Mode | mco.backup.entry.gameMode |
+| サーバーのバージョン | Game Server Version | mco.backup.entry.gameServerVersion |
+| 名前 | Name | mco.backup.entry.name |
+| シード値 | Seed | mco.backup.entry.seed |
+| テンプレート名 | Template Name | mco.backup.entry.templateName |
+| 定義されていない変更 | Undefined Change | mco.backup.entry.undefined |
+| アップロード済み | Uploaded | mco.backup.entry.uploaded |
+| ワールドタイプ | World Type | mco.backup.entry.worldType |
+| ワールドを生成 | Generate world | mco.backup.generate.world |
+| 最後のバックアップからの変更 | Changes From Last Backup | mco.backup.info.title |
+| %sからのバックアップ | Backup from %s | mco.backup.narration |
+| このRealmには現在バックアップはありません。 | This realm doesn't have any backups currently. | mco.backup.nobackups |
+| Realmを復元しています | Restoring your realm | mco.backup.restoring |
+| 不明 | UNKNOWN | mco.backup.unknown |
+| ダウンロード | Download | mco.brokenworld.download |
+| ダウンロード済み | Downloaded | mco.brokenworld.downloaded |
+| リセットするか、別のワールドを選択してください。 | Please reset or select another world. | mco.brokenworld.message.line1 |
+| シングルプレイ用のワールドをダウンロードできます。 | You can also choose to download the world to singleplayer. | mco.brokenworld.message.line2 |
+| このミニゲームは現在サポートされていません | This minigame is no longer supported | mco.brokenworld.minigame.title |
+| Realmの所有者がワールドをリセットするまでお待ちください | Please wait for the realm owner to reset the world | mco.brokenworld.nonowner.error |
+| ワールドの有効期限が切れています | World is out of date | mco.brokenworld.nonowner.title |
+| プレイ | Play | mco.brokenworld.play |
+| リセット | Reset | mco.brokenworld.reset |
+| 現在のワールドはサポートされてないためプレイできません。 | Your current world is no longer supported | mco.brokenworld.title |
+| 現在のクライアントはRealmsと互換性がありません。 | Your client is not compatible with Realms. | mco.client.incompatible.msg.line1 |
+| 最新バージョンのMinecraftを使用してください。 | Please use the most recent version of Minecraft. | mco.client.incompatible.msg.line2 |
+| Realmsはスナップショットのバージョンと互換性がありません。 | Realms is not compatible with snapshot versions. | mco.client.incompatible.msg.line3 |
+| クライアントに互換性がありません！ | Client incompatible! | mco.client.incompatible.title |
+| お使いのクライアントバージョン%sはRealmsと互換性がありません。\n\n最新版のMinecraftをご利用ください。 | Your client version (%s) is not compatible with Realms.\n\nPlease use the most recent version of Minecraft. | mco.client.outdated.stable.version |
+| お使いのクライアントバージョン%sはRealmsと互換性がありません。\n\nRealmsはこのスナップショットではご利用いただけません。 | Your client version (%s) is not compatible with Realms.\n\nRealms is not available for this snapshot version. | mco.client.unsupported.snapshot.version |
+| ダウングレード | Downgrade | mco.compatibility.downgrade |
+| このワールドを最後にプレイしたバージョンは%sです。現在のバージョンは%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません。\n\nダウングレードの際には「ワールドのバックアップ」にワールドのバックアップが作成されます。必要な場合はバックアップを使ってワールドを復元してください。 | This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work.\n\nA backup of your world will be saved under \World Backups\". Please restore your world if needed." | mco.compatibility.downgrade.description |
+| 互換性のないバージョンです | Incompatible version | mco.compatibility.incompatible.popup.title |
+| 参加しようとしているワールドは現在お使いのバージョンと互換性がありません。 | The world you are trying to join is incompatible with the version you are on. | mco.compatibility.incompatible.releaseType.popup.message |
+| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\nこれらのシリーズには互換性がありません。このバージョンでプレイするには新しいワールドが必要です。 | This world was last played in version %s; you are on version %s.\n\nThese series are not compatible with each other. A new world is needed to play on this version. | mco.compatibility.incompatible.series.popup.message |
+| このワールドを最後にプレイしたバージョンが確認できません。ワールドがアップグレード・ダウングレートされた場合はバックアップが「ワールドのバックアップ」に自動的に作成されます。 | The version this world was last played in could not be verified. If the world gets upgraded or downgraded, a backup will be automatically created and saved under \World Backups\"." | mco.compatibility.unverifiable.message |
+| 互換性を確認できません | Compatibility not verifiable | mco.compatibility.unverifiable.title |
+| アップグレード | Upgrade | mco.compatibility.upgrade |
+| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\n必要であればワールドを復元してください。 | This world was last played in version %s; you are on version %s.\n\nA backup of your world will be saved under \World Backups\".\n\nPlease restore your world if needed." | mco.compatibility.upgrade.description |
+| 現在のバージョンは%2$sですが、このワールドを最後にプレイしたバージョンは%1$sです。\n\n「ワールドのバックアップ」にワールドのバックアップが作成されています。\n\nRealmの所有者は必要であればワールドを復元することができます。 | This world was last played in version %s; you are on version %s.\n\nA backup of the world will be saved under \World Backups\".\n\nThe owner of the Realm can restore the world if needed." | mco.compatibility.upgrade.friend.description |
+| このワールドをアップグレードしますか？ | Do you really want to upgrade this world? | mco.compatibility.upgrade.title |
+| 現在の設定 | Current | mco.configure.current.minigame |
+| プレイヤーのフィードは一時的に無効化されています | Player feed temporarily disabled | mco.configure.world.activityfeed.disabled |
+| ワールドのバックアップ | World Backups | mco.configure.world.backup |
+| プレイヤーのアクティビティ | Player activity | mco.configure.world.buttons.activity |
+| Realmを閉じる | Close Realm | mco.configure.world.buttons.close |
+| 削除 | Delete | mco.configure.world.buttons.delete |
+| 完了 | Done | mco.configure.world.buttons.done |
+| 設定 | Settings | mco.configure.world.buttons.edit |
+| 招待 | Invite Player | mco.configure.world.buttons.invite |
+| その他の設定 | More options | mco.configure.world.buttons.moreoptions |
+| Realmを開く | Open Realm | mco.configure.world.buttons.open |
+| ワールドの設定 | World Options | mco.configure.world.buttons.options |
+| プレイヤー | Players | mco.configure.world.buttons.players |
+| ワールドのリセット | Reset World | mco.configure.world.buttons.resetworld |
+| 設定 | Settings | mco.configure.world.buttons.settings |
+| 申請 | Subscription | mco.configure.world.buttons.subscription |
+| ミニゲームを変更 | Switch Minigame | mco.configure.world.buttons.switchminigame |
+| あなたのRealmは使用できなくなります。 | Your realm will become unavailable. | mco.configure.world.close.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.close.question.line2 |
+| Realmを閉じています… | Closing the realm... | mco.configure.world.closing |
+| コマンドブロック | Command Blocks | mco.configure.world.commandBlocks |
+| Realmを削除 | Delete Realm | mco.configure.world.delete.button |
+| あなたのRealmは永久に削除されます | Your realm will be permanently deleted | mco.configure.world.delete.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.delete.question.line2 |
+| Realmの説明 | Realm Description | mco.configure.world.description |
+| ワールド名 | World Name | mco.configure.world.edit.slot.name |
+| このワールドはアドベンチャーであるため、いくつかの設定は無効化されています | Some settings are disabled since your current world is an adventure | mco.configure.world.edit.subscreen.adventuremap |
+| このワールドはエクスペリエンスであるため、いくつかの設定は無効化されています | Some settings are disabled since your current world is an experience | mco.configure.world.edit.subscreen.experience |
+| このワールドはインスピレーションであるため、いくつかの設定は無効化されています | Some settings are disabled since your current world is an inspiration | mco.configure.world.edit.subscreen.inspiration |
+| ゲームモードの強制 | Force Game Mode | mco.configure.world.forceGameMode |
+| 新しい招待が%s件あります | You have %s new invite(s) | mco.configure.world.invite.narration |
+| 名前 | Name | mco.configure.world.invite.profile.name |
+| 招待済み | Invited | mco.configure.world.invited |
+| 招待済み（%s） | Invited (%s) | mco.configure.world.invited.number |
+| 通常ユーザー | Normal User | mco.configure.world.invites.normal.tooltip |
+| 管理者 | Operator | mco.configure.world.invites.ops.tooltip |
+| 削除 | Remove | mco.configure.world.invites.remove.tooltip |
+| このRealmを退出した場合、再び招待されるまで入ることはできません | If you leave this realm you won't see it unless you are invited again | mco.configure.world.leave.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.leave.question.line2 |
+| 場所 | Location | mco.configure.world.location |
+| 現在：%s | "Current |  %s," | mco.configure.world.minigame |
+| Realmの名前 | Realm Name | mco.configure.world.name |
+| Realmを開いています… | Opening the realm... | mco.configure.world.opening |
+| 指定された名前のプレイヤーは存在しません | A player with the provided name does not exist | mco.configure.world.players.error |
+| プレイヤーを招待中... | Inviting player... | mco.configure.world.players.inviting |
+| プレイヤー | Players | mco.configure.world.players.title |
+| PvP | PVP | mco.configure.world.pvp |
+| ワールドが再生成され、このワールドは失われます | Your world will be regenerated and your current world will be lost | mco.configure.world.reset.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.reset.question.line2 |
+| このRealmにはカスタムリソースパックが必要です。\n\n自動的にダウンロードし、インストールしますか？ | You need a custom resource pack to play on this realm\n\nDo you want to download it and play? | mco.configure.world.resourcepack.question |
+| この Realm にはカスタムリソースパックが必要です。 | You need a custom resource pack to play on this realm | mco.configure.world.resourcepack.question.line1 |
+| 自動的にダウンロードし、インストールしますか？ | Do you want to download it and play? | mco.configure.world.resourcepack.question.line2 |
+| ワールドがダウンロードされ、シングルプレイに追加されます | The world will be downloaded and added to your single player worlds. | mco.configure.world.restore.download.question.line1 |
+| 続行しますか？ | Do you want to continue? | mco.configure.world.restore.download.question.line2 |
+| あなたのワールドは「%s」に復元されます（%s） | Your world will be restored to date '%s' (%s) | mco.configure.world.restore.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.restore.question.line2 |
+| 設定 | Settings | mco.configure.world.settings.title |
+| ワールド%s | World %s | mco.configure.world.slot |
+| 空 | Empty | mco.configure.world.slot.empty |
+| Realmで使用するワールドを変更します | Your realm will be switched to another world | mco.configure.world.slot.switch.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.configure.world.slot.switch.question.line2 |
+| ワールドを変更 | Switch to world | mco.configure.world.slot.tooltip |
+| 参加 | Join | mco.configure.world.slot.tooltip.active |
+| ミニゲームに変更 | Switch to minigame | mco.configure.world.slot.tooltip.minigame |
+| 動物のスポーン | Spawn Animals | mco.configure.world.spawnAnimals |
+| モンスターのスポーン | Spawn Monsters | mco.configure.world.spawnMonsters |
+| NPCのスポーン | Spawn NPCs | mco.configure.world.spawnNPCs |
+| リスポーン地点の保護 | Spawn Protection | mco.configure.world.spawnProtection |
+| この設定をオフにすると、ワールドに存在している該当する種類のエンティティが全て消滅します。 | Turning this option off will remove all existing entities of that type | mco.configure.world.spawn_toggle.message |
+| この設定をオフにすると、ワールドに存在している該当する種類のエンティティ（例：村人）が全て消滅します。 | Turning this option off will remove all existing entities of that type, like Villagers | mco.configure.world.spawn_toggle.message.npc |
+| 警告！ | Warning! | mco.configure.world.spawn_toggle.title |
+| 状態 | Status | mco.configure.world.status |
+| 日 | day | mco.configure.world.subscription.day |
+| 日 | days | mco.configure.world.subscription.days |
+| 期限切れ | Expired | mco.configure.world.subscription.expired |
+| Realmの継続購入 | Extend Subscription | mco.configure.world.subscription.extend |
+| 1日以内 | Less than a day | mco.configure.world.subscription.less_than_a_day |
+| か月 | month | mco.configure.world.subscription.month |
+| か月 | months | mco.configure.world.subscription.months |
+| 自動更新 | Renewed automatically in | mco.configure.world.subscription.recurring.daysleft |
+| 有効期限の延長や定期請求の無効化などのRealmsの申請内容に対する変更は、次回の請求日まで反映されません。 | Changes made to your Realms subscription such as stacking time or turning off recurring billing will not be reflected until your next bill date. | mco.configure.world.subscription.recurring.info |
+| %1$s日 | %1$s day(s) | mco.configure.world.subscription.remaining.days |
+| %1$sヶ月 | %1$s month(s) | mco.configure.world.subscription.remaining.months |
+| %1$sヶ月%2$s日 | %1$s month(s), %2$s day(s) | mco.configure.world.subscription.remaining.months.days |
+| 開始日 | Start Date | mco.configure.world.subscription.start |
+| 残り時間 | Time Left | mco.configure.world.subscription.timeleft |
+| 申請内容 | Your Subscription | mco.configure.world.subscription.title |
+| 不明 | Unknown | mco.configure.world.subscription.unknown |
+| ワールドの作成 | Create World | mco.configure.world.switch.slot |
+| このワールドは空です。ワールドの作成方法を選択してください。 | This world is empty, choose how to create your world | mco.configure.world.switch.slot.subtitle |
+| Realmの設定： | "Configure Realm | ," | mco.configure.world.title |
+| 「%s」への招待を取り消しますか？ | Are you sure that you want to uninvite '%s'? | mco.configure.world.uninvite.player |
+| 次のプレイヤーの招待を取り消してもよろしいですか： | Are you sure that you want to uninvite | mco.configure.world.uninvite.question |
+| ワールド | Worlds | mco.configure.worlds.title |
+| ログイン中… | Logging in... | mco.connect.authorizing |
+| Realmに接続中… | Connecting to the realm... | mco.connect.connecting |
+| Realmへの接続に失敗しました | Failed to connect to the realm | mco.connect.failed |
+| 完了 | Done | mco.connect.success |
+| 作成 | Create | mco.create.world |
+| 名前を入力してください！ | You must enter a name! | mco.create.world.error |
+| ワールドを作成中… | Creating world... | mco.create.world.reset.title |
+| スキップ | Skip | mco.create.world.skip |
+| 任意で新しいRealmで使用するワールドを選択することができます | Optionally, select what world to put on your new realm | mco.create.world.subtitle |
+| Realmを作成しています… | Creating the realm... | mco.create.world.wait |
+| ダウンロードがキャンセルされました | Download cancelled | mco.download.cancelled |
+| ダウンロードするワールドのサイズが%sより大きいです | The world you are going to download is larger than %s | mco.download.confirmation.line1 |
+| このワールドをRealmに再度アップロードすることはできません | You won't be able to upload this world to your realm again | mco.download.confirmation.line2 |
+| ダウンロードしようとしているワールドは%sよりも大きいです。\n\nこのワールドをRealmに再度アップロードできない恐れがあります。 | The world you are going to download is larger than %s\n\nYou won't be able to upload this world to your realm again | mco.download.confirmation.oversized |
+| ダウンロードが完了しました | Download done | mco.download.done |
+| ダウンロード中 | Downloading | mco.download.downloading |
+| 展開しています | Extracting | mco.download.extracting |
+| ダウンロードに失敗しました | Download failed | mco.download.failed |
+| %s %% | %s %% | mco.download.percent |
+| ダウンロードの準備をしています | Preparing download | mco.download.preparing |
+| リソースパックのダウンロードに失敗しました！ | Failed to download resource pack! | mco.download.resourcePack.fail |
+| （%s／秒） | (%s/s) | mco.download.speed |
+| %s毎秒 | %s/s | mco.download.speed.narration |
+| 最新のワールドをダウンロードしています | Downloading Latest World | mco.download.title |
+| Minecraftを再起動してみてください | Please try restarting Minecraft | mco.error.invalid.session.message |
+| 無効なセッションIDです | Invalid Session | mco.error.invalid.session.title |
+| クライアントのバージョンが古いです | Client outdated | mco.errorMessage.6001 |
+| 利用規約に同意していません | Terms of service not accepted | mco.errorMessage.6002 |
+| ダウンロード制限に達しました | Download limit reached | mco.errorMessage.6003 |
+| アップロード制限に達しました | Upload limit reached | mco.errorMessage.6004 |
+| ワールドがロックされています | World locked | mco.errorMessage.6005 |
+| ワールドの有効期限が切れています | World is out of date | mco.errorMessage.6006 |
+| Realmsにいるユーザーが多すぎます | User in too many Realms | mco.errorMessage.6007 |
+| 無効なRealmの名称です | Invalid Realm name | mco.errorMessage.6008 |
+| 無効なRealmの説明です | Invalid Realm description | mco.errorMessage.6009 |
+| エラーが発生しました。もう一度やり直してください。 | An error occurred, please try again later. | mco.errorMessage.connectionFailure |
+| エラーが発生しました： | "An error occurred |  ," | mco.errorMessage.generic |
+| エラーの詳細はありません | No error details provided | mco.errorMessage.noDetails |
+| エラーが発生しました（%s）： | "An error occurred (%s) | ," | mco.errorMessage.realmsService |
+| Realmに接続できませんでした：%s | "Could not connect to Realms |  %s," | mco.errorMessage.realmsService.connectivity |
+| Realms（%s）： | "Realms (%s) | ," | mco.errorMessage.realmsService.realmsError |
+| 互換性のあるバージョンを確認できませんでした。取得したレスポンス：%s | "Could not check compatible version, got response |  %s," | mco.errorMessage.realmsService.unknownCompatibility |
+| 操作を再試行 | Retry operation | mco.errorMessage.retry |
+| 現在Realmsは混雑しています。\n数分後にもう一度、Realmへの接続をお試しください。 | Realms is busy at the moment.\nPlease try connecting to your Realm again in a couple of minutes. | mco.errorMessage.serviceBusy |
+| ボタン | Button | mco.gui.button |
+| OK | Ok | mco.gui.ok |
+| 情報！ | Info! | mco.info |
+| %sを招待しました | Invited player %s | mco.invited.player.narration |
+| 承認 | Accept | mco.invites.button.accept |
+| 拒否 | Reject | mco.invites.button.reject |
+| 保留中の招待がありません！ | No pending invites! | mco.invites.nopending |
+| 新しい招待があります！ | New invite(s)! | mco.invites.pending |
+| 保留中の招待 | Pending Invites | mco.invites.title |
+| 他のミニゲームを選択 | Select Another Minigame | mco.minigame.world.changeButton |
+| このワールドは一時的にミニゲームへ切り替えられます。 | This will temporarily replace your world with a minigame! | mco.minigame.world.info.line1 |
+| 何も失うことなく、後から元のワールドに戻すことができます。 | You can later return to your original world without losing anything. | mco.minigame.world.info.line2 |
+| 選択してください | Please make a selection | mco.minigame.world.noSelection |
+| ミニゲームを終了中… | Ending Minigame... | mco.minigame.world.restore |
+| ミニゲームが終了され、Realmは復元されます。 | The minigame will end and your realm will be restored. | mco.minigame.world.restore.question.line1 |
+| 本当に続行しますか？ | Are you sure you want to continue? | mco.minigame.world.restore.question.line2 |
+| 選択されたミニゲーム： | "Selected Minigame | ," | mco.minigame.world.selected |
+| ワールドを切り替え中… | Switching World... | mco.minigame.world.slot.screen.title |
+| 変更 | Switch | mco.minigame.world.startButton |
+| ミニゲームを開始しています… | Starting Minigame... | mco.minigame.world.starting.screen.title |
+| ミニゲームを終了する | End Minigame | mco.minigame.world.stopButton |
+| 他のミニゲームを選択しますか？ | Select another minigame? | mco.minigame.world.switch.new |
+| ミニゲームを変更 | Switch Minigame | mco.minigame.world.switch.title |
+| Realmをミニゲームに切り換える | Switch Realm to Minigame | mco.minigame.world.title |
+| Realmsニュース | Realms news | mco.news |
+| 閉じる | Dismiss | mco.notification.dismiss |
+| 今すぐ移行する | Transfer Now | mco.notification.transferSubscription.buttonText |
+| Java版Realmsの契約はMicrosoftストアへ移行します。契約が失効しないようご注意を！\n今すぐ移行すると、30日間無料でRealmをご利用いただけます。\nminecraft.netのプロフィールにアクセスし、契約を移行しましょう。 | Java Realms subscriptions are moving to the Microsoft Store. Do not let your subscription expire!\nTransfer now and get 30 days of Realms for free.\nGo to Profile on minecraft.net to transfer your subscription. | mco.notification.transferSubscription.message |
+| リンクを開く | Open Link | mco.notification.visitUrl.buttonText.default |
+| 以下のリンクを確認してください | Please visit the link below | mco.notification.visitUrl.message.default |
+| オンラインのプレイヤー | Online Players | mco.onlinePlayers |
+| 質問 | Question | mco.question |
+| アドベンチャー | Adventures | mco.reset.world.adventure |
+| エクスペリエンス | Experiences | mco.reset.world.experience |
+| 新規ワールド | New World | mco.reset.world.generate |
+| インスピレーション | Inspiration | mco.reset.world.inspiration |
+| ワールドをリセットしています… | Resetting world... | mco.reset.world.resetting.screen.title |
+| シード値（任意） | Seed (Optional) | mco.reset.world.seed |
+| Realmのテンプレート | World Templates | mco.reset.world.template |
+| ワールドのリセット | Reset World | mco.reset.world.title |
+| ワールドをアップロード | Upload world | mco.reset.world.upload |
+| このRealmのワールドは完全に削除されます！ | This will replace the current world of your realm | mco.reset.world.warning |
+| Realmを購入しよう！ | Buy a Realm! | mco.selectServer.buy |
+| 閉じる | Close | mco.selectServer.close |
+| このRealmは現在開いていません | Closed realm | mco.selectServer.closed |
+| Realmを閉じる | Close realm | mco.selectServer.closeserver |
+| Realmの設定 | Configure | mco.selectServer.configure |
+| Realmの設定 | Configure realm | mco.selectServer.configureRealm |
+| Realmの作成 | Create Realm | mco.selectServer.create |
+| 新しいRealmで使用するワールドを選択してください | Select what world to put on your new realm | mco.selectServer.create.subtitle |
+| 期限切れのRealm | Expired realm | mco.selectServer.expired |
+| Realmの有効期限が切れました | Your subscription has expired | mco.selectServer.expiredList |
+| 更新 | Renew | mco.selectServer.expiredRenew |
+| 申請 | Subscribe | mco.selectServer.expiredSubscribe |
+| 試用期間が終了しました | Your trial has ended | mco.selectServer.expiredTrial |
+| あと1日で期限が切れます | Expires in a day | mco.selectServer.expires.day |
+| あと%s日で期限が切れます | Expires in %s days | mco.selectServer.expires.days |
+| まもなく期限が切れます | Expires soon | mco.selectServer.expires.soon |
+| Realmから退出する | Leave Realm | mco.selectServer.leave |
+| Realmsリストを読み込み中 | Loading Realms List | mco.selectServer.loading |
+| このマップはバージョン%sではサポートされていません | This map is unsupported in %s | mco.selectServer.mapOnlySupportedForVersion |
+| ミニゲーム： | "Minigame | ," | mco.selectServer.minigame |
+| ミニゲーム：%s | "Minigame |  %s," | mco.selectServer.minigameName |
+| このミニゲームはバージョン%sではプレイできません | Can't play this minigame in %s | mco.selectServer.minigameNotSupportedInVersion |
+| Realmを所有していないようです。Realmを追加してフレンドと一緒にプレイしましょう。 | You don't seem to have a Realm. Add a Realm to play together with your friends. | mco.selectServer.noRealms |
+| 注意： | "Note | ," | mco.selectServer.note |
+| Realmを開く | Open realm | mco.selectServer.open |
+| Realmを開く | Open realm | mco.selectServer.openserver |
+| プレイ | Play | mco.selectServer.play |
+| Realmsは、一度に最大10人までのプレイヤーとMinecraftのオンラインを楽しめる、安全で簡単にサーバーを作成できるシステムです。たくさんのカスタムワールドやミニゲームのプレイができます。ただし、Realmのオーナーだけは料金を支払う必要があります。 | Realms is a safe, simple way to enjoy an online Minecraft world with up to ten friends at a time. It supports loads of minigames and plenty of custom worlds! Only the owner of the realm needs to pay. | mco.selectServer.popup |
+| Realmを追加 | Add Realm | mco.selectServer.purchase |
+| 試してみる！ | Get a Trial! | mco.selectServer.trial |
+| クリックしてRealmを作る！ | Click to start your new realm! | mco.selectServer.uninitialized |
+| 無料のスナップショット用Realmを作成しようとしています。このスナップショット用Realmはご利用中のRealmsの契約に結び付けられているため、この契約が有効の間ご利用になれます。この作成によってご契約中のRealmが影響を受けることはありません。 | You are about to create a free Snapshot Realm that will be paired with your paid Realms subscription. This new Snapshot Realm will be accessible for as long as the paid subscription is active. Your paid Realm will not be affected. | mco.snapshot.createSnapshotPopup.text |
+| スナップショット用Realmを作成しますか？ | Create Snapshot Realm? | mco.snapshot.createSnapshotPopup.title |
+| スナップショット用Realmを作成中… | Creating Snapshot Realm... | mco.snapshot.creating |
+| 作成したRealmは%sが有効な限り利用できます | Paired with \%s\"" | mco.snapshot.description |
+| このRealmに参加するには、バージョン%sで実行する必要があります | You need to be on version %s to join this Realm | mco.snapshot.friendsRealm.downgrade |
+| このスナップショットでこのRealmをプレイするためには、%sがRealmをアップグレードする必要があります | %s needs to upgrade their Realm before you can play from this version | mco.snapshot.friendsRealm.upgrade |
+| このスナップショット用Realmは%sに結び付けられています | This Snapshot Realm is paired with \%s\"" | mco.snapshot.paired |
+| このRealmをプレイするには、最新のMinecraftのリリースを使用してください | Use the latest release of Minecraft to play on this Realm | mco.snapshot.parent.tooltip |
+| 無料のスナップショット用Realmを開始する | Start free Snapshot Realm | mco.snapshot.start |
+| これはご契約中のRealm「%s」に結び付けられているスナップショット用Realmです。ご契約中のRealmが有効である間はこのRealmもご利用になれます。 | This is a Snapshot Realm that is paired to the subscription of your Realm '%s'. It will stay active for as long as its paired Realm is. | mco.snapshot.subscription.info |
+| スナップショット用Realmを使用すると、開発中のMinecraftの新バージョンに含まれる新要素やその他の変更を先行体験できます。\n\n通常のRealmは正式リリースバージョンでのみご利用になれます。 | Use Snapshot Realms to get a sneak peek at upcoming versions of Minecraft, which might include new features and other changes.\n\nYou can find your normal Realms in the release version of the game. | mco.snapshot.tooltip |
+| 23w41a以降、スナップショットでもRealmsが利用可能になりました。Realmsを購入していれば、通常のJava EditionのRealmとは別に無料でスナップショット用Realmを使用できます。 | Realms are now available in Snapshots starting with Snapshot 23w41a. Every Realms subscription comes with a free Snapshot Realm that is separate from your normal Java Realm! | mco.snapshotRealmsPopup.message |
+| Realmsがスナップショットでも利用可能になりました | Realms now available in Snapshots | mco.snapshotRealmsPopup.title |
+| 詳細を確認 | Learn More | mco.snapshotRealmsPopup.urlText |
+| パブリッシャー | Publisher | mco.template.button.publisher |
+| 選択 | Select | mco.template.button.select |
+| トレイラー | Trailer | mco.template.button.trailer |
+| ワールドのテンプレート | World template | mco.template.default.name |
+| 公式ウェブサイト | Publisher website | mco.template.info.tooltip |
+| テンプレート | Template | mco.template.name |
+| このカテゴリの説明リストを読み込めませんでした。\nインターネットの接続を確認して、しばらく待ってからもう一度お試しください。 | We couldn't retrieve the list of content for this category.\nPlease check your internet connection, or try again later. | mco.template.select.failure |
+| 作成者：%s | "Authors |  %s," | mco.template.select.narrate.authors |
+| バージョン%s | version %s | mco.template.select.narrate.version |
+| 申し訳ありません、このカテゴリは現在空のようです。\n新たなコンテンツを待つか、もしあなたが製作者であるならば\n%s。 | Oops, it looks like this content category is currently empty.\nPlease check back later for new content, or if you're a creator,\n%s. | mco.template.select.none |
+| あなた自身でなにか投稿してはいかがでしょうか | consider submitting something yourself | mco.template.select.none.linkTitle |
+| ワールドのテンプレート | World templates | mco.template.title |
+| Realmのミニゲーム | Minigames | mco.template.title.minigame |
+| マップのトレイラー | Map trailer | mco.template.trailer.tooltip |
+| 同意する | Agree | mco.terms.buttons.agree |
+| 同意しない | Don't agree | mco.terms.buttons.disagree |
+| Minecraft Realmsに同意する | I agree to the Minecraft Realms | mco.terms.sentence.1 |
+| 利用規約 | Terms of Service | mco.terms.sentence.2 |
+| Realms利用規約 | Realms Terms of Service | mco.terms.title |
+| %1$s日前 | %1$s day(s) ago | mco.time.daysAgo |
+| %1$s時間前 | %1$s hour(s) ago | mco.time.hoursAgo |
+| %1$s分前 | %1$s minute(s) ago | mco.time.minutesAgo |
+| 直後 | right now | mco.time.now |
+| %1$s秒前 | %1$s second(s) ago | mco.time.secondsAgo |
+| Realmを使ってみませんか？ | Want to get your own realm? | mco.trial.message.line1 |
+| 詳しくはこちらをクリック！ | Click here for more info! | mco.trial.message.line2 |
+| アップロード | Upload | mco.upload.button.name |
+| アップロードがキャンセルされました | Upload cancelled | mco.upload.cancelled |
+| Realmを閉じることができませんでした。後ほどもう一度お試しください。 | Could not close your realm, please try again later | mco.upload.close.failure |
+| アップロードが完了しました | Upload done | mco.upload.done |
+| %1$s、%2$s | %1$s, %2$s | mco.upload.entry.cheats |
+| %1$s、%2$s | %1$s, %2$s | mco.upload.entry.commands |
+| %1$s（%2$s） | %1$s (%2$s) | mco.upload.entry.id |
+| アップロードに失敗しました！（%s） | Upload failed! (%s) | mco.upload.failed |
+| ハードコアのワールドはアップロードすることができません！ | Hardcore worlds can't be uploaded! | mco.upload.hardcore |
+| %s %% | %s %% | mco.upload.percent |
+| ワールドデータを準備しています | Preparing your world | mco.upload.preparing |
+| シングルプレイのワールドが見つかりませんでした！ | No singleplayer worlds found! | mco.upload.select.world.none |
+| アップロードするシングルプレイのワールドを選択してください | Please select a singleplayer world to upload | mco.upload.select.world.subtitle |
+| ワールドをアップロード | Upload World | mco.upload.select.world.title |
+| 「%s」のサイズが大きすぎます！ | %s' is too big! | mco.upload.size.failure.line1 |
+| 現在は%sです。最大サイズは%sです。 | It is %s. The maximum allowed size is %s. | mco.upload.size.failure.line2 |
+| 「%s」をアップロードしています | Uploading '%s' | mco.upload.uploading |
+| マップを検証しています | Verifying your world | mco.upload.verifying |
+| バージョン：%s | "Version |  %s," | mco.version |
+| 警告！ | Warning! | mco.warning |
+| Realmsのミニゲーム | Minigame | mco.worldSlot.minigame |
+| ワールドを変換中 | Converting world | menu.convertingLevel |
+| 切断 | Disconnect | menu.disconnect |
+| フィードバック… | Feedback... | menu.feedback |
+| フィードバック | Feedback | menu.feedback.title |
+| ゲームメニュー | Game Menu | menu.game |
+| ワールドを生成中 | Generating world | menu.generatingLevel |
+| 地形情報を生成中 | Building terrain | menu.generatingTerrain |
+| ディメンション%sの読み込み強制チャンクを読み込み中… | Loading forced chunks for dimension %s | menu.loadingForcedChunks |
+| ワールドを読み込み中 | Loading world | menu.loadingLevel |
+| （Mod導入済み） | (Modded) | menu.modded |
+| マルチプレイ | Multiplayer | menu.multiplayer |
+| Minecraft Realms | Minecraft Realms | menu.online |
+| 設定… | Options... | menu.options |
+| ゲームを一時停止中 | Game Paused | menu.paused |
+| デモワールドで遊ぶ | Play Demo World | menu.playdemo |
+| プレイヤーの通報 | Player Reporting | menu.playerReporting |
+| スポーン地点を準備中：%s%% | "Preparing spawn area |  %s%%," | menu.preparingSpawn |
+| 終了 | Quit Game | menu.quit |
+| バグを報告する | Report Bugs | menu.reportBugs |
+| デモワールドをリセット | Reset Demo World | menu.resetdemo |
+| リスポーン中 | Respawning | menu.respawning |
+| ゲームに戻る | Back to Game | menu.returnToGame |
+| セーブしてタイトルへ戻る | Save and Quit to Title | menu.returnToMenu |
+| チャンクを保存中 | Saving chunks | menu.savingChunks |
+| ワールドを保存中 | Saving world | menu.savingLevel |
+| フィードバックを送る | Give Feedback | menu.sendFeedback |
+| サーバーリンク… | Server Links... | menu.server_links |
+| サーバーリンク | Server Links | menu.server_links.title |
+| LANに公開 | Open to LAN | menu.shareToLan |
+| シングルプレイ | Singleplayer | menu.singleplayer |
+| 処理中… | Working... | menu.working |
+| 商人の現在のレベル | Trader's current level | merchant.current_level |
+| 村人は1日に2回まで在庫補充をします。 | Villagers restock up to two times per day. | merchant.deprecated |
+| 新米 | Novice | merchant.level.1 |
+| 見習い | Apprentice | merchant.level.2 |
+| 一人前 | Journeyman | merchant.level.3 |
+| 熟練者 | Expert | merchant.level.4 |
+| 達人 | Master | merchant.level.5 |
+| 商人の次のレベル | Trader's next level | merchant.next_level |
+| %s - %s | %s - %s | merchant.title |
+| 取引 | Trades | merchant.trades |
+| ↑ ↓ | ↑ ↓ | mirror.front_back |
+| ← → | ← → | mirror.left_right |
+| | | | | mirror.none |
+| %1$sで降りる | Press %1$s to Dismount | mount.onboard |
+| リソースパックを適用中 | Applying resource pack | multiplayer.applyingPack |
+| 認証サーバーがダウンしています。後でもう一度お試しください。 | Authentication servers are down. Please try again later, sorry! | multiplayer.disconnect.authservers_down |
+| このサーバーへのアクセスは禁止されています | You are banned from this server | multiplayer.disconnect.banned |
+| \nアクセスの禁止は%sに解除されます | \nYour ban will be removed on %s | multiplayer.disconnect.banned.expiration |
+| このサーバーへのアクセスは禁止されています。\n理由：%s | "You are banned from this server.\nReason |  %s," | multiplayer.disconnect.banned.reason |
+| \nアクセスの禁止は%sに解除されます | \nYour ban will be removed on %s | multiplayer.disconnect.banned_ip.expiration |
+| あなたのIPアドレスはこのサーバーからアクセスを禁止されています。\n理由：%s | "Your IP address is banned from this server.\nReason |  %s," | multiplayer.disconnect.banned_ip.reason |
+| チャットメッセージの検証に失敗しました | Chat message validation failure | multiplayer.disconnect.chat_validation_failed |
+| あなたは別の場所で既にログインしています | You logged in from another location | multiplayer.disconnect.duplicate_login |
+| プロフィール公開鍵が失効しています。システム時刻が同期していることを確認し、ゲームを再起動してみてください。 | Expired profile public key. Check that your system time is synchronized, and try restarting your game. | multiplayer.disconnect.expired_public_key |
+| このサーバーでは飛行は有効ではありません | Flying is not enabled on this server | multiplayer.disconnect.flying |
+| 切断されました | Disconnected | multiplayer.disconnect.generic |
+| 無操作時間が長すぎました | You have been idle for too long! | multiplayer.disconnect.idling |
+| チャットに使用できない文字がありました | Illegal characters in chat | multiplayer.disconnect.illegal_characters |
+| クライアントのバージョンが対応していません。%sを使用してください | Incompatible client! Please use %s | multiplayer.disconnect.incompatible |
+| 無効なエンティティを攻撃しようとしました | Attempting to attack an invalid entity | multiplayer.disconnect.invalid_entity_attacked |
+| サーバーが無効なパケットを送信しました | Server sent an invalid packet | multiplayer.disconnect.invalid_packet |
+| 無効なプレイヤーデータです | Invalid player data | multiplayer.disconnect.invalid_player_data |
+| プレイヤーの不正な動きを検知しました | Invalid move player packet received | multiplayer.disconnect.invalid_player_movement |
+| 無効なプロフィール公開鍵の署名です。\nゲームを再起動してください。 | Invalid signature for profile public key.\nTry restarting your game. | multiplayer.disconnect.invalid_public_key_signature |
+| 無効なプロフィール公開鍵の署名です。\nゲームを再起動してください。 | Invalid signature for profile public key.\nTry restarting your game. | multiplayer.disconnect.invalid_public_key_signature.new |
+| 乗り物の不正な動きを検知しました | Invalid move vehicle packet received | multiplayer.disconnect.invalid_vehicle_movement |
+| あなたのIPアドレスはこのサーバーへのアクセスを禁止されています | You have been IP banned from this server | multiplayer.disconnect.ip_banned |
+| 管理者に退出させられました | Kicked by an operator | multiplayer.disconnect.kicked |
+| サーバーから不完全なタグのセットを受信しました。\nサーバーの管理者にお問い合わせください。 | Incomplete set of tags received from server.\nPlease contact server operator. | multiplayer.disconnect.missing_tags |
+| その名前は既に使用されています | That name is already taken | multiplayer.disconnect.name_taken |
+| あなたはこのサーバーのホワイトリストに含まれていません | You are not white-listed on this server! | multiplayer.disconnect.not_whitelisted |
+| 順序の不正なチャットパケットを受信しました。システム時刻を変更していませんか？ | Out-of-order chat packet received. Did your system time change? | multiplayer.disconnect.out_of_order_chat |
+| クライアントのバージョンが対応していません。%sを使用してください | Incompatible client! Please use %s | multiplayer.disconnect.outdated_client |
+| クライアントのバージョンが対応していません。%sを使用してください | Incompatible client! Please use %s | multiplayer.disconnect.outdated_server |
+| サーバーは満員です | The server is full! | multiplayer.disconnect.server_full |
+| サーバーが閉鎖されました | Server closed | multiplayer.disconnect.server_shutdown |
+| ログインにかかる時間が長すぎました | Took too long to log in | multiplayer.disconnect.slow_login |
+| 未承認のチャットメッセージが多すぎます | Too many unacknowledged chat messages | multiplayer.disconnect.too_many_pending_chats |
+| サーバーが転送を受け付けていません | Server does not accept transfers | multiplayer.disconnect.transfers_disabled |
+| クライアントからの予期しないカスタムデータ | Unexpected custom data from client | multiplayer.disconnect.unexpected_query_response |
+| 受信したチャットパケットの署名が存在しないか、無効になっています | Received chat packet with missing or invalid signature. | multiplayer.disconnect.unsigned_chat |
+| ユーザー名の検証に失敗しました | Failed to verify username! | multiplayer.disconnect.unverified_username |
+| 統計情報を取得中… | Retrieving statistics... | multiplayer.downloadingStats |
+| 地形情報を読み込み中… | Loading terrain... | multiplayer.downloadingTerrain |
+| 新しいサーバーが見つかりました：%s | "New server found |  %s," | multiplayer.lan.server_found |
+| チャットメッセージを配信できません。サーバーのログを確認してください：%s | "Can't deliver chat message, check server logs |  %s," | multiplayer.message_not_delivered |
+| %sがゲームに参加しました | %s joined the game | multiplayer.player.joined |
+| %s（旧名%s）がゲームに参加しました | %s (formerly known as %s) joined the game | multiplayer.player.joined.renamed |
+| %sがゲームを退出しました | %s left the game | multiplayer.player.left |
+| HP：%s | %shp | multiplayer.player.list.hp |
+| 現在オンラインのプレイヤーは%sです | "Online players |  %s," | multiplayer.player.list.narration |
+| このサーバーではカスタムリソースパックが必要です | Server requires a custom resource pack | multiplayer.requiredTexturePrompt.disconnect |
+| このサーバーでは、カスタムリソースパックの利用が必要です。 | This server requires the use of a custom resource pack. | multiplayer.requiredTexturePrompt.line1 |
+| このカスタムリソースパックを拒否すると、このサーバーから切断されます。 | Rejecting this custom resource pack will disconnect you from this server. | multiplayer.requiredTexturePrompt.line2 |
+| 社交設定はマルチプレイでのみ利用できます | Social Interactions are only available in Multiplayer worlds | multiplayer.socialInteractions.not_available |
+| …その他%s人… | ... and %s more ... | multiplayer.status.and_more |
+| キャンセルしました | Cancelled | multiplayer.status.cancelled |
+| サーバーに接続できません | Can't connect to server | multiplayer.status.cannot_connect |
+| ホスト名が見つかりません | Can't resolve hostname | multiplayer.status.cannot_resolve |
+| 完了しました | Finished | multiplayer.status.finished |
+| バージョンが対応していません！ | Incompatible version! | multiplayer.status.incompatible |
+| 本日のメッセージは「%s」です | "Message of the day |  %s," | multiplayer.status.motd.narration |
+| （接続なし） | (no connection) | multiplayer.status.no_connection |
+| 古いです | Old | multiplayer.status.old |
+| オンライン | Online | multiplayer.status.online |
+| %sms | %s ms | multiplayer.status.ping |
+| Ping応答時間は%sミリ秒です | Ping %s milliseconds | multiplayer.status.ping.narration |
+| 応答待機中… | Pinging... | multiplayer.status.pinging |
+| %s／%s | %s/%s | multiplayer.status.player_count |
+| %2$s人のうち%1$s人のプレイヤーがオンラインです | %s out of %s players online | multiplayer.status.player_count.narration |
+| 終了中 | Quitting | multiplayer.status.quitting |
+| ステータスのリクエストが処理されました | Status request has been handled | multiplayer.status.request_handled |
+| ？？？ | ??? | multiplayer.status.unknown |
+| リクエストされていないステータスを受信しました | Received unrequested status | multiplayer.status.unrequested |
+| サーバーのバージョンは%sです | "Server version |  %s," | multiplayer.status.version.narration |
+| ベッドから出る | Leave Bed | multiplayer.stopSleeping |
+| サーバーリソースパックを適用できませんでした | Server resource pack couldn't be applied | multiplayer.texturePrompt.failure.line1 |
+| カスタムリソースパックが必要になる機能は、正常に機能しない可能性があります | Any functionality that requires custom resources might not work as expected | multiplayer.texturePrompt.failure.line2 |
+| このサーバーでは、カスタムリソースパックの利用をお勧めします。 | This server recommends the use of a custom resource pack. | multiplayer.texturePrompt.line1 |
+| 自動的にダウンロードしてインストールしますか？ | Would you like to download and install it automagically? | multiplayer.texturePrompt.line2 |
+| %s\n\nサーバーからのメッセージ：\n%s | "%s\n\nMessage from server | \n%s," | multiplayer.texturePrompt.serverPrompt |
+| マルチプレイで遊ぶ | Play Multiplayer | multiplayer.title |
+| このサーバーで送信されたメッセージは変更される場合があり、元のメッセージを反映していない可能性があります。 | Messages sent on this server may be modified and might not reflect the original message | multiplayer.unsecureserver.toast |
+| チャットメッセージの安全性の確認ができません | Chat messages can't be verified | multiplayer.unsecureserver.toast.title |
+| この画面を再度表示しない | Do not show this screen again | multiplayerWarning.check |
+| 警告：サードパーティ製のオンラインサーバー | "Caution |  Third-Party Online Play," | multiplayerWarning.header |
+| 警告：オンラインでのプレイはサードパーティ製のサーバーによって提供されており、Mojang StudiosやMicrosoftが所有、運営、監督するものではありません。オンラインでのプレイ中に、不適切な可能性があるチャットメッセージ等の内容にさらされる可能性があります。 | "Caution |  Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.," | multiplayerWarning.message |
+| ボタン：%s | "Button |  %s," | narration.button |
+| エンターキーを押して選択します | Press Enter to activate | narration.button.usage.focused |
+| 左クリックで選択します | Left click to activate | narration.button.usage.hovered |
+| チェックボックス：%s | "Checkbox |  %s," | narration.checkbox |
+| Enterを押して切り替えます | Press Enter to toggle | narration.checkbox.usage.focused |
+| 左クリックで切り替えます | Left click to toggle | narration.checkbox.usage.hovered |
+| Tabを押して次の要素に移動します | Press Tab to navigate to next element | narration.component_list.usage |
+| Enterを押して%sに変更します | Press Enter to switch to %s | narration.cycle_button.usage.focused |
+| 左クリックで%sに変更します | Left click to switch to %s | narration.cycle_button.usage.hovered |
+| 編集欄：%s | "Edit box |  %s," | narration.edit_box |
+| %sのレシピ | Recipe for %s | narration.recipe |
+| 左クリックで選択します | Left click to select | narration.recipe.usage |
+| 右クリックで他のレシピを表示します | Right click to show more recipes | narration.recipe.usage.more |
+| 上下の方向キーで別のエントリーに移動します | Press up and down buttons to move to another entry | narration.selection.usage |
+| 左右の方向キーを押して数値を変更します | Press left or right keyboard buttons to change value | narration.slider.usage.focused |
+| スライダーを左右に移動させて数値を変更します | Drag slider to change value | narration.slider.usage.hovered |
+| %2$s個のうち%1$s番目の候補%3$sが選択されました | "Selected suggestion %d out of %d |  %s," | narration.suggestion |
+| %2$s個のうち%1$s番目の候補%3$s、%4$sが選択されました | "Selected suggestion %d out of %d |  %s (%s)," | narration.suggestion.tooltip |
+| 次の候補に切り替えるにはタブキーを押してください | Press Tab to cycle to the next suggestion | narration.suggestion.usage.cycle.fixed |
+| 次の候補に切り替えるにはタブキーを、予測入力をやめるにはエスケープキーを押してください | Press Tab to cycle to the next suggestion, or Escape to leave suggestions | narration.suggestion.usage.cycle.hidable |
+| 予測入力を使用する場合、Tabを押してください | Press Tab to use suggestion | narration.suggestion.usage.fill.fixed |
+| 予測入力を使用する場合はタブキーを押し、予測入力をやめるにはエスケープキーを押してください | Press Tab to use suggestion, or Escape to leave suggestions | narration.suggestion.usage.fill.hidable |
+| CtrlキーとTabキーを同時に押すと、タブを切り替えられます | Press Ctrl and Tab to switch between tabs | narration.tab_navigation.usage |
+| アクセシビリティ設定 | Accessibility | narrator.button.accessibility |
+| 難易度の固定 | Difficulty lock | narrator.button.difficulty_lock |
+| 固定されています | Locked | narrator.button.difficulty_lock.locked |
+| 固定されていません | Unlocked | narrator.button.difficulty_lock.unlocked |
+| 言語設定 | Language | narrator.button.language |
+| %sは%sに割り当てられています | %s is bound to %s | narrator.controls.bound |
+| %sのボタンをリセットします | Reset %s button | narrator.controls.reset |
+| %sは割り当てられていません | %s is not bound | narrator.controls.unbound |
+| 接続中です | Joining | narrator.joining |
+| %s読み込み中です | "Loading |  %s," | narrator.loading |
+| 完了 | Done | narrator.loading.done |
+| %2$s行のリストのうち%1$s行目が選択されました | Selected list row %s out of %s | narrator.position.list |
+| %2$s個のうち%1$s番目の行の要素が選択されました | Selected row element %s out of %s | narrator.position.object_list |
+| %2$s個のうち%1$s番目のスクリーン要素 | Screen element %s out of %s | narrator.position.screen |
+| %2$s個のタブのうち%1$s番目を選択しました | Selected tab %s out of %s | narrator.position.tab |
+| プレイの準備が整いました | Ready to play | narrator.ready_to_play |
+| タイトル画面 | Title Screen | narrator.screen.title |
+| マウスカーソルまたはTabボタンで要素を選択します | Use mouse cursor or Tab button to select element | narrator.screen.usage |
+| %sを選択しました | "Selected |  %s," | narrator.select |
+| ワールド名が「%s」、最終プレイが%s、ゲームモードが「%s」、%s、バージョンが%sのワールド | "Selected %s, last played |  %s, %s, %s, version |  %s," | narrator.select.world |
+| ワールドの名前が「%s」、最終プレイが%s、%sのワールド | "Selected %s, last played |  %s, %s," | narrator.select.world_info |
+| 音声読み上げ無効 | Narrator Disabled | narrator.toast.disabled |
+| 音声読み上げ有効 | Narrator Enabled | narrator.toast.enabled |
+| この操作は確実にすべてのデータを最新のゲーム形式で格納することでワールドを最適化します。ワールドによっては、この操作は長時間かかる場合があります。処理後、ワールドをより快適にプレイすることができますが、古いバージョンのゲームとの互換性はなくなります。続行しますか？ | This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed? | optimizeWorld.confirm.description |
+| ワールドを最適化 | Optimize World | optimizeWorld.confirm.title |
+| アップグレードされたチャンク数：%s | "Upgraded chunks |  %s," | optimizeWorld.info.converted |
+| スキップされたチャンク数：%s | "Skipped chunks |  %s," | optimizeWorld.info.skipped |
+| 合計チャンク数：%s | "Total chunks |  %s," | optimizeWorld.info.total |
+| %s／%s | %s / %s | optimizeWorld.progress.counter |
+| %s%% | %s%% | optimizeWorld.progress.percentage |
+| チャンク数を計算中… | Counting chunks... | optimizeWorld.stage.counting |
+| 失敗！(´･ω･`) | "Failed!  | (," | optimizeWorld.stage.failed |
+| まもなく完了します… | Finishing up... | optimizeWorld.stage.finished |
+| チャンクのアップグレートがまもなく完了します… | Finishing up upgrading chunks... | optimizeWorld.stage.finished.chunks |
+| エンティティのアップグレードがまもなく完了します… | Finishing up upgrading entities... | optimizeWorld.stage.finished.entities |
+| 関心地点のアップグレードがまもなく完了します… | Finishing up upgrading points of interest... | optimizeWorld.stage.finished.poi |
+| すべてのチャンクをアップグレード中… | Upgrading all chunks... | optimizeWorld.stage.upgrading |
+| すべてのチャンクをアップグレード中… | Upgrading all chunks... | optimizeWorld.stage.upgrading.chunks |
+| すべてのエンティティをアップグレード中… | Upgrading all entities... | optimizeWorld.stage.upgrading.entities |
+| すべての関心地点をアップグレード中… | Upgrading all points of interest... | optimizeWorld.stage.upgrading.poi |
+| ワールド「%s」を最適化中 | Optimizing World '%s' | optimizeWorld.title |
+| アクセシビリティ設定… | Accessibility Settings... | options.accessibility |
+| ハイコントラスト | High Contrast | options.accessibility.high_contrast |
+| ハイコントラストリソースパックは利用できません。 | High Contrast resource pack is not available. | options.accessibility.high_contrast.error.tooltip |
+| UIのコントラストを強調します。 | Enhances the contrast of UI elements. | options.accessibility.high_contrast.tooltip |
+| アクセシビリティについて | Accessibility Guide | options.accessibility.link |
+| メニュー背景のぼかし具合 | Menu Background Blur | options.accessibility.menu_background_blurriness |
+| メニュー背景のぼかし具合を変更します。 | Changes the blurriness of menu backgrounds. | options.accessibility.menu_background_blurriness.tooltip |
+| 音声読み上げのホットキー | Narrator Hotkey | options.accessibility.narrator_hotkey |
+| Cmd+Bで音声読み上げのオン・オフを切り替えられるようになります | Allows the Narrator to be toggled on and off with 'Cmd+B'. | options.accessibility.narrator_hotkey.mac.tooltip |
+| Ctrl+Bで音声読み上げのオン・オフを切り替えられるようになります | Allows the Narrator to be toggled on and off with 'Ctrl+B'. | options.accessibility.narrator_hotkey.tooltip |
+| パノラマのスクロール速度 | Panorama Scroll Speed | options.accessibility.panorama_speed |
+| テキストの背景 | Text Background | options.accessibility.text_background |
+| チャット | Chat | options.accessibility.text_background.chat |
+| すべて | Everywhere | options.accessibility.text_background.everywhere |
+| 背景の不透明度 | Text Background Opacity | options.accessibility.text_background_opacity |
+| アクセシビリティ設定 | Accessibility Settings | options.accessibility.title |
+| サーバーリストへの表示許可 | Allow Server Listings | options.allowServerListing |
+| サーバーでは、オンラインのプレイヤーを公開ステータスの一部として表示することがあります。\nこの設定をオフにすると、そのようなリストからあなたの名前が表示されなくなります。 | Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists. | options.allowServerListing.tooltip |
+| スムースライティング | Smooth Lighting | options.ao |
+| 最大 | Maximum | options.ao.max |
+| 最小 | Minimum | options.ao.min |
+| オフ | OFF | options.ao.off |
+| クロスヘア | Crosshair | options.attack.crosshair |
+| ホットバー | Hotbar | options.attack.hotbar |
+| 攻撃力変動の表示 | Attack Indicator | options.attackIndicator |
+| オーディオデバイス | Device | options.audioDevice |
+| システムのデフォルト | System Default | options.audioDevice.default |
+| 自動ジャンプ | Auto-Jump | options.autoJump |
+| コマンドの候補 | Command Suggestions | options.autoSuggestCommands |
+| オートセーブの表示 | Autosave Indicator | options.autosaveIndicator |
+| バイオームの重なり度合 | Biome Blend | options.biomeBlendRadius |
+| オフ（最速） | OFF (Fastest) | options.biomeBlendRadius.1 |
+| 11×11（極めて高い） | 11x11 (Extreme) | options.biomeBlendRadius.11 |
+| 13×13（誇示） | 13x13 (Showoff) | options.biomeBlendRadius.13 |
+| 15×15（最高） | 15x15 (Maximum) | options.biomeBlendRadius.15 |
+| 3×3（速い） | 3x3 (Fast) | options.biomeBlendRadius.3 |
+| 5×5（普通） | 5x5 (Normal) | options.biomeBlendRadius.5 |
+| 7×7（高い） | 7x7 (High) | options.biomeBlendRadius.7 |
+| 9×9（非常に高い） | 9x9 (Very High) | options.biomeBlendRadius.9 |
+| チャット設定… | Chat Settings... | options.chat |
+| 色 | Colors | options.chat.color |
+| チャットの遅延間隔：%s秒 | "Chat Delay |  %s seconds," | options.chat.delay |
+| チャットの遅延間隔：なし | "Chat Delay |  None," | options.chat.delay_none |
+| 入力時の高さ | Focused Height | options.chat.height.focused |
+| 通常時の高さ | Unfocused Height | options.chat.height.unfocused |
+| 行間 | Line Spacing | options.chat.line_spacing |
+| ウェブリンク | Web Links | options.chat.links |
+| リンクを開く時に確認の表示 | Prompt on Links | options.chat.links.prompt |
+| チャットの不透明度 | Chat Text Opacity | options.chat.opacity |
+| チャットの文字サイズ | Chat Text Size | options.chat.scale |
+| チャット設定 | Chat Settings | options.chat.title |
+| チャット | Chat | options.chat.visibility |
+| 表示 | Shown | options.chat.visibility.full |
+| 非表示 | Hidden | options.chat.visibility.hidden |
+| コマンドのみ | Commands Only | options.chat.visibility.system |
+| 幅 | Width | options.chat.width |
+| %sチャンク | %s chunks | options.chunks |
+| 描画優先 | Fancy | options.clouds.fancy |
+| 処理優先 | Fast | options.clouds.fast |
+| 操作設定… | Controls... | options.controls |
+| クレジットと帰属表示… | Credits & Attribution... | options.credits_and_attribution |
+| カスタマイズワールド設定 | Customize World Settings | options.customizeTitle |
+| 被ダメージ時の画面の揺れ | Damage Tilt | options.damageTiltStrength |
+| 被ダメージ時に発生する画面の揺れの強さを設定できます。 | The amount of camera shake caused by being hurt. | options.damageTiltStrength.tooltip |
+| モノクロのロゴ | Monochrome Logo | options.darkMojangStudiosBackgroundColor |
+| Mojang Studiosの読み込み画面の背景色を黒に変更します。 | Changes the Mojang Studios loading screen background color to black. | options.darkMojangStudiosBackgroundColor.tooltip |
+| 暗闇の脈動 | Darkness Pulsing | options.darknessEffectScale |
+| ウォーデンまたはスカルクシュリーカーが暗闇の効果を与える時にどの程度脈動するかを設定できます。 | Controls how much the Darkness effect pulses when a Warden or Sculk Shrieker gives it to you. | options.darknessEffectScale.tooltip |
+| 難易度 | Difficulty | options.difficulty |
+| イージー | Easy | options.difficulty.easy |
+| 敵対Mobがスポーンしますが、与えてくるダメージは少なめです。満腹度ゲージが空になると、ハート5つ分までダメージを受けます。 | Hostile mobs spawn but deal less damage. Hunger bar depletes and drains health down to 5 hearts. | options.difficulty.easy.info |
+| ハード | Hard | options.difficulty.hard |
+| 敵対Mobがスポーンし、より多くのダメージを与えてきます。満腹度ゲージが空になると、空腹により死亡します。 | Hostile mobs spawn and deal more damage. Hunger bar depletes and drains all health. | options.difficulty.hard.info |
+| ハードコア | Hardcore | options.difficulty.hardcore |
+| ノーマル | Normal | options.difficulty.normal |
+| 敵対Mobがスポーンし、標準量のダメージを与えてきます。満腹度ゲージが空になると、ハート半分までダメージを受けます。 | Hostile mobs spawn and deal standard damage. Hunger bar depletes and drains health down to half a heart. | options.difficulty.normal.info |
+| サーバーの難易度 | Server Difficulty | options.difficulty.online |
+| ピースフル | Peaceful | options.difficulty.peaceful |
+| 敵対Mobはスポーンせず、友好Mobと一部の中立Mobのみがスポーンします。満腹度ゲージは減少せず、時間経過で体力が回復します。 | No hostile mobs and only some neutral mobs spawn. Hunger bar doesn't deplete and health replenishes over time. | options.difficulty.peaceful.info |
+| 指向性オーディオ | Directional Audio | options.directionalAudio |
+| 従来のステレオ音声。 | Classic Stereo sound. | options.directionalAudio.off.tooltip |
+| HRTF（頭部伝達関数）による指向性オーディオを使用することで、3Dサウンド体験を向上させます。HRTFに対応したオーディオ機器が必要で、ヘッドホンの利用を推奨します。 | Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones. | options.directionalAudio.on.tooltip |
+| マウススクロール設定の無視 | Discrete Scrolling | options.discrete_mouse_scroll |
+| エンティティの描画距離 | Entity Distance | options.entityDistanceScaling |
+| エンティティの影 | Entity Shadows | options.entityShadows |
+| フォント設定… | Font Settings... | options.font |
+| フォント設定 | Font Settings | options.font.title |
+| Unicodeフォントを強制する | Force Unicode Font | options.forceUnicodeFont |
+| 視野 | FOV | options.fov |
+| 最大 | Quake Pro | options.fov.max |
+| 標準 | Normal | options.fov.min |
+| 視野の変化 | FOV Effects | options.fovEffectScale |
+| ゲーム内の効果により視野がどの程度変化するかを設定できます。 | Controls how much the field of view can change with gameplay effects. | options.fovEffectScale.tooltip |
+| %sfps | %s fps | options.framerate |
+| 最大フレームレート | Max Framerate | options.framerateLimit |
+| 無制限 | Unlimited | options.framerateLimit.max |
+| フルスクリーン | Fullscreen | options.fullscreen |
+| 現在の設定 | Current | options.fullscreen.current |
+| %sx%s@%s (%sビット) | %sx%s@%s (%sbit) | options.fullscreen.entry |
+| フルスクリーンでの解像度 | Fullscreen Resolution | options.fullscreen.resolution |
+| 利用できません | Setting unavailable | options.fullscreen.unavailable |
+| 明るさ | Brightness | options.gamma |
+| デフォルト | Default | options.gamma.default |
+| 明るい | Bright | options.gamma.max |
+| 暗い | Moody | options.gamma.min |
+| %s：%s | "%s |  %s," | options.generic_value |
+| オーラの速度 | Glint Speed | options.glintSpeed |
+| エンチャントされたアイテムを覆うオーラの揺らめきの速度を設定できます。 | Controls how fast the visual glint shimmers across enchanted items. | options.glintSpeed.tooltip |
+| オーラの濃さ | Glint Strength | options.glintStrength |
+| エンチャントされたアイテムを覆うオーラの透明度を設定できます。 | Controls how transparent the visual glint is on enchanted items. | options.glintStrength.tooltip |
+| グラフィックス | Graphics | options.graphics |
+| 最高設定！ | Fabulous! | options.graphics.fabulous |
+| %sでは半透明なブロックや水の背後の天候、雲、パーティクルの描画にシェーダーを使用します。\nポータブル機器や4Kディスプレイでの描画においてパフォーマンスに重大な影響を与える可能性があります。 | %s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and water.\nThis may severely impact performance for portable devices and 4K displays. | options.graphics.fabulous.tooltip |
+| 描画優先 | Fancy | options.graphics.fancy |
+| 描画優先は多くの動作環境においてパフォーマンスと画質を両立させます。\n半透明なブロックや水の背後の天候表現、雲、パーティクルは表示されない場合があります。 | Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water. | options.graphics.fancy.tooltip |
+| 処理優先 | Fast | options.graphics.fast |
+| 処理優先は表示される雨や雪の数を減らします。\n木の葉のような様々なブロックの透過効果は無効になります。 | Fast graphics reduces the amount of visible rain and snow.\nTransparency effects are disabled for various blocks such as leaves. | options.graphics.fast.tooltip |
+| サポートなしで続行 | Continue Without Support | options.graphics.warning.accept |
+| 元に戻す | Take Me Back | options.graphics.warning.cancel |
+| お使いのグラフィックデバイスは、グラフィックオプションの%sをサポートしていないことを検出しました。\n\nこの警告を無視することもできますが、%sグラフィックの使用を選択した場合はデバイスの正常な動作が保証されません。 | Your graphics device is detected as unsupported for the %s graphics option.\n\nYou may ignore this and continue, however support will not be provided for your device if you choose to use %s graphics. | options.graphics.warning.message |
+| 検出されたレンダラー：[%s] | "Renderer detected |  [%s]," | options.graphics.warning.renderer |
+| サポートされていないグラフィックデバイス | Graphics Device Unsupported | options.graphics.warning.title |
+| 検出されたベンダー：[%s] | "Vendor detected |  [%s]," | options.graphics.warning.vendor |
+| 検出されたOpenGLバージョン：[%s] | "OpenGL Version detected |  [%s]," | options.graphics.warning.version |
+| GUIの大きさ | GUI Scale | options.guiScale |
+| 自動 | Auto | options.guiScale.auto |
+| 非表示 | Hidden | options.hidden |
+| 稲光の非表示 | Hide Lightning Flashes | options.hideLightningFlashes |
+| 落雷時の空の明滅をなくします。雷自体は引き続き表示されます。 | Prevents Lightning Bolts from making the sky flash. The bolts themselves will still be visible. | options.hideLightningFlashes.tooltip |
+| 合致した名前を非表示 | Hide Matched Names | options.hideMatchedNames |
+| サードパーティー製のサーバーは非標準の形式でチャットを送信する場合があります。\nこの設定をオンにすると、非表示のプレイヤーはチャットの送信者の名前によって判別されます。 | 3rd-party Servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names. | options.hideMatchedNames.tooltip |
+| スプラッシュテキストの非表示 | Hide Splash Texts | options.hideSplashTexts |
+| メインメニューの黄色いスプラッシュテキストを非表示にします。 | Hides the yellow splash text in the main menu. | options.hideSplashTexts.tooltip |
+| マウス操作の反転 | Invert Mouse | options.invertMouse |
+| 日本語用フォント | Japanese Glyph Variants | options.japaneseGlyphVariants |
+| デフォルトのフォントで、CJK文字に日本語用のフォントを使用します | Uses Japanese variants of CJK characters in the default font. | options.japaneseGlyphVariants.tooltip |
+| 固定 | Hold | options.key.hold |
+| 切り替え | Toggle | options.key.toggle |
+| 言語設定… | Language... | options.language |
+| 言語設定 | Language | options.language.title |
+| （正確な翻訳が行われていない可能性があります） | (Language translations may not be 100%% accurate) | options.languageAccuracyWarning |
+| 正確な翻訳が行われていない可能性があります | Language translations may not be 100%% accurate | options.languageWarning |
+| 利き手 | Main Hand | options.mainHand |
+| 左手 | Left | options.mainHand.left |
+| 右手 | Right | options.mainHand.right |
+| ミップマップレベル | Mipmap Levels | options.mipmapLevels |
+| マント | Cape | options.modelPart.cape |
+| 帽子 | Hat | options.modelPart.hat |
+| 上着 | Jacket | options.modelPart.jacket |
+| ズボンの左脚 | Left Pant Leg | options.modelPart.left_pants_leg |
+| 左袖 | Left Sleeve | options.modelPart.left_sleeve |
+| ズボンの右脚 | Right Pant Leg | options.modelPart.right_pants_leg |
+| 右袖 | Right Sleeve | options.modelPart.right_sleeve |
+| マウスホイールの感度 | Scroll Sensitivity | options.mouseWheelSensitivity |
+| マウス設定… | Mouse Settings... | options.mouse_settings |
+| マウス設定 | Mouse Settings | options.mouse_settings.title |
+| マルチプレイ設定… | Multiplayer Settings... | options.multiplayer.title |
+| %s倍 | %sx | options.multiplier |
+| 音声読み上げ | Narrator | options.narrator |
+| すべて読み上げ | Narrates All | options.narrator.all |
+| チャットの読み上げ | Narrates Chat | options.narrator.chat |
+| 利用不可 | Not Available | options.narrator.notavailable |
+| オフ | OFF | options.narrator.off |
+| システムの読み上げ | Narrates System | options.narrator.system |
+| 通知表示時間 | Notification Time | options.notifications.display_time |
+| 通知が画面上に表示される時間を調整することができます。 | Affects the length of time that all notifications stay visible on the screen. | options.notifications.display_time.tooltip |
+| オフ | OFF | options.off |
+| %s：オフ | "%s |  OFF," | options.off.composed |
+| オン | ON | options.on |
+| %s：オン | "%s |  ON," | options.on.composed |
+| オンライン設定… | Online... | options.online |
+| オンライン設定 | Online Options | options.online.title |
+| 安全なチャットのみ表示 | Only Show Secure Chat | options.onlyShowSecureChat |
+| 送信元のプレイヤーが確認可能で、変更が加えられていないメッセージのみを表示します。 | Only display messages from other players that can be verified to have been sent by that player, and have not been modified. | options.onlyShowSecureChat.tooltip |
+| 管理者用アイテムタブ | Operator Items Tab | options.operatorItemsTab |
+| パーティクルの表示 | Particles | options.particles |
+| すべて | All | options.particles.all |
+| 少し | Decreased | options.particles.decreased |
+| 最少 | Minimal | options.particles.minimal |
+| %s：+%s%% | "%s |  +%s%%," | options.percent_add_value |
+| %s：%s%% | "%s |  %s%%," | options.percent_value |
+| %s：%sピクセル | "%s |  %spx," | options.pixel_value |
+| チャンク構築 | Chunk Builder | options.prioritizeChunkUpdates |
+| 仮ブロック化 | Semi Blocking | options.prioritizeChunkUpdates.byPlayer |
+| ブロックの破壊や設置を含む特定のアクションがチャンク内で発生する度に、直ちにそのチャンクを再構築します。 | Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying. | options.prioritizeChunkUpdates.byPlayer.tooltip |
+| フルブロック化 | Fully Blocking | options.prioritizeChunkUpdates.nearby |
+| 周辺のチャンクを常時直ちに構築します。そのため、ブロックの設置や破壊時にゲームのパフォーマンスに影響を与える可能性があります。 | Nearby chunks are always compiled immediately. This may impact game performance when blocks are placed or destroyed. | options.prioritizeChunkUpdates.nearby.tooltip |
+| スレッド | Threaded | options.prioritizeChunkUpdates.none |
+| 周辺のチャンクを並列スレッドで構築します。そのため、ブロックが破壊されたときに短時間の視覚的な穴が発生することがあります。 | Nearby chunks are compiled in parallel threads. This may result in brief visual holes when blocks are destroyed. | options.prioritizeChunkUpdates.none.tooltip |
+| Raw入力 | Raw Input | options.rawMouseInput |
+| Realmsのニュースと招待 | Realms News & Invites | options.realmsNotifications |
+| タイトル画面でRealmsニュースおよび招待を受け取り、それぞれのアイコンをRealmsボタンに表示します。 | Fetches Realms news and invites in the title screen and displays their respective icon on the Realms button. | options.realmsNotifications.tooltip |
+| デバッグ情報を減らす | Reduced Debug Info | options.reducedDebugInfo |
+| 雲の表示 | Clouds | options.renderClouds |
+| 描画距離 | Render Distance | options.renderDistance |
+| リソースパック… | Resource Packs... | options.resourcepack |
+| 画面の歪み | Distortion Effects | options.screenEffectScale |
+| 吐き気とネザーポータルに入った時に起こる画面の歪み効果の強さを変更します。\n設定の値を小さくすると、吐き気の歪み効果は緑色のオーバーレイに置き換えられます。 | Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay. | options.screenEffectScale.tooltip |
+| マウス感度 | Sensitivity | options.sensitivity |
+| 猛スピード！！！ | HYPERSPEED!!! | options.sensitivity.max |
+| *あくび* | *yawn* | options.sensitivity.min |
+| 字幕の表示 | Show Subtitles | options.showSubtitles |
+| 演算距離 | Simulation Distance | options.simulationDistance |
+| スキンのカスタマイズ… | Skin Customization... | options.skinCustomisation |
+| スキンのカスタマイズ | Skin Customization | options.skinCustomisation.title |
+| サウンド設定… | Music & Sounds... | options.sounds |
+| サウンド設定 | Music & Sound Options | options.sounds.title |
+| データの遠隔収集… | Telemetry Data... | options.telemetry |
+| データの収集 | Data Collection | options.telemetry.button |
+| 「%s」では要求されたデータのみを収集します。\n「%s」は要求されたデータに加え、追加のデータを収集します。 | \%s\" includes only the required data.\n\"%s\" includes optional, as well as the required data." | options.telemetry.button.tooltip |
+| データの遠隔収集は無効になっています。 | Telemetry is disabled. | options.telemetry.disabled |
+| すべて | All | options.telemetry.state.all |
+| 最小 | Minimal | options.telemetry.state.minimal |
+| なし | None | options.telemetry.state.none |
+| 設定 | Options | options.title |
+| タッチスクリーンモード | Touchscreen Mode | options.touchscreen |
+| ビデオ設定… | Video Settings... | options.video |
+| ビデオ設定 | Video Settings | options.videoTitle |
+| 画面の揺れ | View Bobbing | options.viewBobbing |
+| 表示 | Shown | options.visible |
+| 垂直同期 | VSync | options.vsync |
+| Minecraftのメモリが不足しました。\n\nこれはゲームのバグもしくはJava仮想マシンに十分なメモリが割り当てられていないことが原因であると考えられます。\n\nワールドの破損を防ぐため、プレイ中のゲームを終了しました。メインメニューに戻ってプレイを再開できるよう、十分なメモリを解放することを試みましたが、正常に行われなかった可能性があります。\n\nこのメッセージが再び表示された場合は、ゲームを再起動してください。 | Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again. | outOfMemory.message |
+| メモリが不足しています！ | Out of memory! | outOfMemory.title |
+| 利用可能 | Available | pack.available.title |
+| パックのコピーに失敗しました | Failed to copy packs | pack.copyFailure |
+| 次のパックをMinecraftに追加しますか？ | Do you want to add the following packs to Minecraft? | pack.dropConfirm |
+| このウィンドウにファイルをドラッグアンドドロップするとパックを追加できます | Drag and drop files into this window to add packs | pack.dropInfo |
+| 以下の項目は有効なパックではないため、コピーされませんでした\n %s | "The following entries were not valid packs and were not copied | \n %s," | pack.dropRejected.message |
+| パックでない項目 | Non-pack entries | pack.dropRejected.title |
+| （パックファイルをここへ） | (Place pack files here) | pack.folderInfo |
+| 非対応 | Incompatible | pack.incompatible |
+| このパックは新しいバージョンのMinecraft向けに作られたもので、正しく動作しない可能性があります。 | This pack was made for a newer version of Minecraft and may not work correctly. | pack.incompatible.confirm.new |
+| このパックは古いバージョンのMinecraft向けに作られたため、正しく動作しない可能性があります。 | This pack was made for an older version of Minecraft and may no longer work correctly. | pack.incompatible.confirm.old |
+| このパックを読み込みますか？ | Are you sure you want to load this pack? | pack.incompatible.confirm.title |
+| （新バージョン向けに制作） | (Made for a newer version of Minecraft) | pack.incompatible.new |
+| （旧バージョン向けに制作） | (Made for an older version of Minecraft) | pack.incompatible.old |
+| %s（%s） | %s (%s) | pack.nameAndSource |
+| パックフォルダーを開く | Open Pack Folder | pack.openFolder |
+| 選択中 | Selected | pack.selected.title |
+| ビルトイン | built-in | pack.source.builtin |
+| 要素 | feature | pack.source.feature |
+| ローカル | local | pack.source.local |
+| サーバー | server | pack.source.server |
+| ワールド | world | pack.source.world |
+| %sx%s | %sx%s | painting.dimensions |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.alban.author |
+| Albanian | Albanian | painting.minecraft.alban.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.aztec.author |
+| de_aztec | de_aztec | painting.minecraft.aztec.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.aztec2.author |
+| de_aztec | de_aztec | painting.minecraft.aztec2.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.backyard.author |
+| Backyard | Backyard | painting.minecraft.backyard.title |
+| Sarah Boeving | Sarah Boeving | painting.minecraft.baroque.author |
+| Baroque | Baroque | painting.minecraft.baroque.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.bomb.author |
+| Target Successfully Bombed | Target Successfully Bombed | painting.minecraft.bomb.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.bouquet.author |
+| Bouquet | Bouquet | painting.minecraft.bouquet.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.burning_skull.author |
+| Skull On Fire | Skull On Fire | painting.minecraft.burning_skull.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.bust.author |
+| Bust | Bust | painting.minecraft.bust.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.cavebird.author |
+| Cavebird | Cavebird | painting.minecraft.cavebird.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.changing.author |
+| Changing | Changing | painting.minecraft.changing.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.cotan.author |
+| Cotán | Cotán | painting.minecraft.cotan.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.courbet.author |
+| Bonjour Monsieur Courbet | Bonjour Monsieur Courbet | painting.minecraft.courbet.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.creebet.author |
+| Creebet | Creebet | painting.minecraft.creebet.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.donkey_kong.author |
+| Kong | Kong | painting.minecraft.donkey_kong.title |
+| Mojang | Mojang | painting.minecraft.earth.author |
+| Earth | Earth | painting.minecraft.earth.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.endboss.author |
+| Endboss | Endboss | painting.minecraft.endboss.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.fern.author |
+| Fern | Fern | painting.minecraft.fern.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.fighters.author |
+| Fighters | Fighters | painting.minecraft.fighters.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.finding.author |
+| Finding | Finding | painting.minecraft.finding.title |
+| Mojang | Mojang | painting.minecraft.fire.author |
+| Fire | Fire | painting.minecraft.fire.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.graham.author |
+| Graham | Graham | painting.minecraft.graham.title |
+| Sarah Boeving | Sarah Boeving | painting.minecraft.humble.author |
+| Humble | Humble | painting.minecraft.humble.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.kebab.author |
+| Kebab med tre pepperoni | Kebab med tre pepperoni | painting.minecraft.kebab.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.lowmist.author |
+| Lowmist | Lowmist | painting.minecraft.lowmist.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.match.author |
+| Match | Match | painting.minecraft.match.title |
+| Sarah Boeving | Sarah Boeving | painting.minecraft.meditative.author |
+| Meditative | Meditative | painting.minecraft.meditative.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.orb.author |
+| Orb | Orb | painting.minecraft.orb.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.owlemons.author |
+| Owlemons | Owlemons | painting.minecraft.owlemons.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.passage.author |
+| Passage | Passage | painting.minecraft.passage.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.pigscene.author |
+| Pigscene | Pigscene | painting.minecraft.pigscene.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.plant.author |
+| Paradisträd | Paradisträd | painting.minecraft.plant.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.pointer.author |
+| Pointer | Pointer | painting.minecraft.pointer.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.pond.author |
+| Pond | Pond | painting.minecraft.pond.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.pool.author |
+| The Pool | The Pool | painting.minecraft.pool.title |
+| Sarah Boeving | Sarah Boeving | painting.minecraft.prairie_ride.author |
+| Prairie Ride | Prairie Ride | painting.minecraft.prairie_ride.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.sea.author |
+| Seaside | Seaside | painting.minecraft.sea.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.skeleton.author |
+| Mortal Coil | Mortal Coil | painting.minecraft.skeleton.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.skull_and_roses.author |
+| Skull and Roses | Skull and Roses | painting.minecraft.skull_and_roses.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.stage.author |
+| The Stage Is Set | The Stage Is Set | painting.minecraft.stage.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.sunflowers.author |
+| Sunflowers | Sunflowers | painting.minecraft.sunflowers.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.sunset.author |
+| sunset_dense | sunset_dense | painting.minecraft.sunset.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.tides.author |
+| Tides | Tides | painting.minecraft.tides.title |
+| Sarah Boeving | Sarah Boeving | painting.minecraft.unpacked.author |
+| Unpacked | Unpacked | painting.minecraft.unpacked.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.void.author |
+| The void | The void | painting.minecraft.void.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.wanderer.author |
+| Wanderer | Wanderer | painting.minecraft.wanderer.title |
+| Kristoffer Zetterstrand | Kristoffer Zetterstrand | painting.minecraft.wasteland.author |
+| Wasteland | Wasteland | painting.minecraft.wasteland.title |
+| Mojang | Mojang | painting.minecraft.water.author |
+| Water | Water | painting.minecraft.water.title |
+| Mojang | Mojang | painting.minecraft.wind.author |
+| Wind | Wind | painting.minecraft.wind.title |
+| Mojang | Mojang | painting.minecraft.wither.author |
+| Wither | Wither | painting.minecraft.wither.title |
+| ランダムな絵画 | Random variant | painting.random |
+| ブーリアン値が必要です | Expected boolean | parsing.bool.expected |
+| 「%s」は不正なブーリアン値です。「true」もしくは「false」である必要があります | Invalid boolean, expected 'true' or 'false' but found '%s' | parsing.bool.invalid |
+| 倍精度浮動小数点数が必要です | Expected double | parsing.double.expected |
+| 「%s」は無効な倍精度浮動小数点数です | Invalid double '%s' | parsing.double.invalid |
+| 「%s」が必要です | Expected '%s' | parsing.expected |
+| 浮動小数点数が必要です | Expected float | parsing.float.expected |
+| 「%s」は無効な浮動小数点数です | Invalid float '%s' | parsing.float.invalid |
+| 整数が必要です | Expected integer | parsing.int.expected |
+| 「%s」は無効な整数です | Invalid integer '%s' | parsing.int.invalid |
+| 64ビット整数が必要です | Expected long | parsing.long.expected |
+| 「%s」は無効な64ビット整数です | Invalid long '%s' | parsing.long.invalid |
+| 「\\%s」は無効なエスケープシーケンスです | Invalid escape sequence '\\%s' in quoted string | parsing.quote.escape |
+| 文字列の引用符が閉じられていません | Unclosed quoted string | parsing.quote.expected.end |
+| 文字列の始めには引用符が必要です | Expected quote to start a string | parsing.quote.expected.start |
+| パーティクルの設定を解析出来ません：%s | "Can't parse particle options |  %s," | particle.invalidOptions |
+| 不明なパーティクルです：%s | "Unknown particle |  %s," | particle.notFound |
+| このコマンドを実行するためにはエンティティが必要です | An entity is required to run this command here | permissions.requires.entity |
+| このコマンドを実行するためにはプレイヤーが必要です | A player is required to run this command here | permissions.requires.player |
+| II | II | potion.potency.1 |
+| III | III | potion.potency.2 |
+| IV | IV | potion.potency.3 |
+| V | V | potion.potency.4 |
+| VI | VI | potion.potency.5 |
+| 効果： | "When Applied | ," | potion.whenDrank |
+| %s %s | %s %s | potion.withAmplifier |
+| %s（%s） | %s (%s) | potion.withDuration |
+| 不明な条件です：%s | "Unknown predicate |  %s," | predicate.unknown |
+| 指定された識別子を持つワールドが見つかりませんでした | Could not find world with the provided identifier | quickplay.error.invalid_identifier |
+| Realmに接続できませんでした | Could not connect to Realm | quickplay.error.realm_connect |
+| このRealmに接続するための権限がありません | Lacking permission to connect to this Realm | quickplay.error.realm_permission |
+| クイックプレイに失敗しました | Failed to Quick Play | quickplay.error.title |
+| 現在Realmsを開くことはできません。後ほどもう一度お試しください | Realms could not be opened right now, please try again later | realms.missing.module.error.text |
+| Realmsは現在スナップショットに対応していません | Realms is currently not supported in snapshots | realms.missing.snapshot.error.text |
+| 不明なレシピです：%s | "Unknown recipe |  %s," | recipe.notFound |
+| レシピ本を確認しましょう | Check your recipe book | recipe.toast.description |
+| 新レシピ解禁！ | New Recipes Unlocked! | recipe.toast.title |
+| 再生中：%s | "Now Playing |  %s," | record.nowPlaying |
+| バグを報告する | Report a Bug | recover_world.bug_tracker |
+| 復元を試みる | Attempt to Recover | recover_world.button |
+| 以前の状態からの復元に失敗しました。 | Failed to recover from previous state. | recover_world.done.failed |
+| 復元に成功しました！ | Recovery was successful! | recover_world.done.success |
+| 復元完了 | Recovery done | recover_world.done.title |
+| ファイルが不足しています | Missing file | recover_world.issue.missing_file |
+| 問題なし | No issues | recover_world.issue.none |
+| ワールドフォルダー「%s」の読み込み中に以下の問題が発生しました。\n以前の状態からワールドを復元できるかもしれません。またこの問題をバグトラッカーで報告していただくことも可能です。 | The following issues occurred while trying to read world folder \%s\".\nIt might be possible to restore the world from an older state or you can report this issue on the bug tracker." | recover_world.message |
+| 復元元として利用可能な状態がありません | No state to recover from available | recover_world.no_fallback |
+| 修復を試みる | Attempt to Restore | recover_world.restore |
+| ワールドを修復中… | Attempting to restore world... | recover_world.restoring |
+| %sからの状態： | "State from %s |  ," | recover_world.state_entry |
+| 不明な日時 | unknown | recover_world.state_entry.unknown |
+| ワールドの読み込みに失敗しました | Failed to load world | recover_world.title |
+| ワールドの概要の読み込みに失敗しました | Failed to load world summary | recover_world.warning |
+| 正常でないリソースを検知しました | BROKEN ASSETS DETECTED | resourcePack.broken_assets |
+| ハイコントラスト | High Contrast | resourcePack.high_contrast.name |
+| リソースの再読み込みに失敗しました | Resource reload failed | resourcePack.load_fail |
+| プログラマーアート | Programmer Art | resourcePack.programmer_art.name |
+| ワールド固有のリソースパック | World Specific Resources | resourcePack.server.name |
+| リソースパックの選択 | Select Resource Packs | resourcePack.title |
+| Minecraftのデフォルトの見た目と雰囲気 | The default look and feel of Minecraft | resourcePack.vanilla.description |
+| デフォルト | Default | resourcePack.vanilla.name |
+| リソースパックをダウンロード中 | Downloading Resource Pack | resourcepack.downloading |
+| ファイルをダウンロード中（%sMB）… | Downloading file (%s MB)... | resourcepack.progress |
+| リクエストを送信中… | Making Request... | resourcepack.requesting |
+| スクリーンショットを保存できませんでした：%s | "Couldn't save screenshot |  %s," | screenshot.failure |
+| スクリーンショットを%sとして保存しました | Saved screenshot as %s | screenshot.success |
+| サーバーを追加 | Add Server | selectServer.add |
+| Minecraftサーバー | Minecraft Server | selectServer.defaultName |
+| 削除 | Delete | selectServer.delete |
+| 削除 | Delete | selectServer.deleteButton |
+| このサーバーを削除しますか？ | Are you sure you want to remove this server? | selectServer.deleteQuestion |
+| 「%s」は完全に削除され、二度と元に戻せません！ | %s' will be lost forever! (A long time!) | selectServer.deleteWarning |
+| ダイレクト接続 | Direct Connection | selectServer.direct |
+| 編集 | Edit | selectServer.edit |
+| （非表示） | (Hidden) | selectServer.hiddenAddress |
+| 更新 | Refresh | selectServer.refresh |
+| サーバーに接続 | Join Server | selectServer.select |
+| サーバー選択 | Select Server | selectServer.title |
+| ワールドへのアクセスに失敗しました | Failed to access world | selectWorld.access_failure |
+| チートの許可 | Allow Cheats | selectWorld.allowCommands |
+| /gamemode、/experience等のコマンド | Commands like /gamemode, /experience | selectWorld.allowCommands.info |
+| コマンドの許可 | Allow Commands | selectWorld.allowCommands.new |
+| キャッシュデータを消去する | Erase Cached Data | selectWorld.backupEraseCache |
+| バックアップを作成して読み込む | Create Backup and Load | selectWorld.backupJoinConfirmButton |
+| 危険性を理解したうえで読み込む | I know what I'm doing! | selectWorld.backupJoinSkipButton |
+| カスタマイズワールドはサポートされていません | Customized worlds are no longer supported | selectWorld.backupQuestion.customized |
+| ワールドのダウングレードはサポートされていません | Downgrading a world is not supported | selectWorld.backupQuestion.downgrade |
+| 実験的な設定を使用するワールドはサポートされていません | Worlds using Experimental Settings are not supported | selectWorld.backupQuestion.experimental |
+| このワールドを読み込んでもよろしいですか？ | Do you really want to load this world? | selectWorld.backupQuestion.snapshot |
+| 残念ながら、現在のバージョンはカスタマイズワールドをサポートしていません。このワールドを読み込むことはできますが、新しく生成される地形はカスタマイズされません。ご不便をおかけし申し訳ございません。 | Unfortunately, we do not support customized worlds in this version of Minecraft. We can still load this world and keep everything the way it was, but any newly generated terrain will no longer be customized. We're sorry for the inconvenience! | selectWorld.backupWarning.customized |
+| このワールドを最後にプレイしたバージョンは%sです。現在のバージョンは%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません。ダウングレードする場合は必ずバックアップを取ってから行ってください！ | This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup. | selectWorld.backupWarning.downgrade |
+| このワールドには今後動作しなくなる可能性のある実験的な設定が使用されています。読み込みや動作の保証はできません。ご注意ください！ | This world uses experimental settings that could stop working at any time. We cannot guarantee it will load or work. Here be dragons! | selectWorld.backupWarning.experimental |
+| このワールドが最後にプレイされたのはバージョン%sです。現在のバージョン%sでプレイするとデータが破損する恐れがあるため、バックアップを作成することをお勧めします。 | This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions. | selectWorld.backupWarning.snapshot |
+| ボーナスチェスト | Bonus Chest | selectWorld.bonusItems |
+| チート | Cheats | selectWorld.cheats |
+| コマンド | Commands | selectWorld.commands |
+| ワールドデータを変換する必要があります | Must be converted! | selectWorld.conversion |
+| このワールドを安全に変換するには、一度古いバージョン（1.6.4など）で開く必要があります | This world must be opened in an older version (like 1.6.4) to be safely converted | selectWorld.conversion.tooltip |
+| ワールド新規作成 | Create New World | selectWorld.create |
+| 新しいデモワールドで遊ぶ | Play New Demo World | selectWorld.createDemo |
+| カスタマイズ | Customize | selectWorld.customizeType |
+| データパック | Data Packs | selectWorld.dataPacks |
+| ワールドデータを読み込み中… | Reading world data... | selectWorld.data_read |
+| 削除 | Delete | selectWorld.delete |
+| 削除 | Delete | selectWorld.deleteButton |
+| このワールドを削除しますか？ | Are you sure you want to delete this world? | selectWorld.deleteQuestion |
+| 「%s」は完全に削除され、復元ができなくなります。 | %s' will be lost forever! (A long time!) | selectWorld.deleteWarning |
+| ワールドの削除に失敗しました | Failed to delete world | selectWorld.delete_failure |
+| 編集 | Edit | selectWorld.edit |
+| バックアップを作成する | Make Backup | selectWorld.edit.backup |
+| バックアップ完了：%s | "Backed up |  %s," | selectWorld.edit.backupCreated |
+| バックアップに失敗しました | Backup failed | selectWorld.edit.backupFailed |
+| バックアップフォルダーを開く | Open Backups Folder | selectWorld.edit.backupFolder |
+| サイズ：%sMB | "size |  %s MB," | selectWorld.edit.backupSize |
+| ワールド生成設定を書き出す | Export World Generation Settings | selectWorld.edit.export_worldgen_settings |
+| 書き出しに失敗しました | Export failed | selectWorld.edit.export_worldgen_settings.failure |
+| 書き出し完了 | Exported | selectWorld.edit.export_worldgen_settings.success |
+| ワールドフォルダーを開く | Open World Folder | selectWorld.edit.openFolder |
+| ワールドを最適化 | Optimize World | selectWorld.edit.optimize |
+| アイコンをリセット | Reset Icon | selectWorld.edit.resetIcon |
+| 保存 | Save | selectWorld.edit.save |
+| ワールドを編集 | Edit World | selectWorld.edit.title |
+| ワールド名 | World Name | selectWorld.enterName |
+| ワールド生成のシード値 | Seed for the world generator | selectWorld.enterSeed |
+| 実験的 | Experimental | selectWorld.experimental |
+| 詳細を確認 | Details | selectWorld.experimental.details |
+| 要求される実験的要素：%s | "Required experimental features |  %s," | selectWorld.experimental.details.entry |
+| 要求される実験的要素 | Experimental Feature Requirements | selectWorld.experimental.details.title |
+| 注意！\nこの設定はまだ開発中の機能を必要とします。ワールドは今後のアップデートによりクラッシュや破損、動作しなくなるなどの可能性があります。 | Be careful!\nThis configuration requires features that are still under development. Your world might crash, break, or not work with future updates. | selectWorld.experimental.message |
+| 実験的要素に関する警告 | Experimental Features Warning | selectWorld.experimental.title |
+| 実験的機能 | Experiments | selectWorld.experiments |
+| 実験的機能には開発中の新要素が含まれます。破損の可能性を了解の上でご使用ください。実験的機能は、ワールドを作成した後から無効にすることはできません。 | Experiments are potential new features. Be careful as things might break. Experiments can't be turned off after world creation. | selectWorld.experiments.info |
+| 将来バージョンのワールドの読み込みに失敗しました。リスクのある操作でしたが、動作せず申し訳ありません。 | Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work. | selectWorld.futureworld.error.text |
+| エラーが発生しました！ | An error occurred! | selectWorld.futureworld.error.title |
+| ゲームモード | Game Mode | selectWorld.gameMode |
+| アドベンチャー | Adventure | selectWorld.gameMode.adventure |
+| 基本的にサバイバルモードと同じですが、ブロックの設置や破壊ができません。 | Same as Survival Mode, but blocks can't be added or removed. | selectWorld.gameMode.adventure.info |
+| サバイバルと同じですが、ブロックを | Same as Survival Mode, but blocks can't | selectWorld.gameMode.adventure.line1 |
+| 置いたり破壊することはできません | be added or removed | selectWorld.gameMode.adventure.line2 |
+| クリエイティブ | Creative | selectWorld.gameMode.creative |
+| 制限なしに建築や創造、冒険をしましょう。飛行が可能で、アイテムは無制限に使用でき、モンスターからのダメージも受けません。 | Create, build, and explore without limits. You can fly, have endless materials, and can't be hurt by monsters. | selectWorld.gameMode.creative.info |
+| アイテムが無制限、飛行可能で、 | Unlimited resources, free flying and | selectWorld.gameMode.creative.line1 |
+| ブロックを瞬時に破壊できる | destroy blocks instantly | selectWorld.gameMode.creative.line2 |
+| ハードコア | Hardcore | selectWorld.gameMode.hardcore |
+| 難易度が「ハード」に固定されたサバイバルモードです。一度でも死亡するとリスポーンすることはできません。 | Survival Mode locked to 'Hard' difficulty. You can't respawn if you die. | selectWorld.gameMode.hardcore.info |
+| サバイバルモードと同じですが、最高難易度に固定 | Same as Survival Mode, locked at hardest | selectWorld.gameMode.hardcore.line1 |
+| されていて、命はたったひとつだけ | difficulty, and one life only | selectWorld.gameMode.hardcore.line2 |
+| スペクテイター | Spectator | selectWorld.gameMode.spectator |
+| 鑑賞可能、干渉不可。 | You can look but don't touch. | selectWorld.gameMode.spectator.info |
+| 鑑賞可能、干渉不可 | You can look but don't touch | selectWorld.gameMode.spectator.line1 |
+| サバイバル | Survival | selectWorld.gameMode.survival |
+| 神秘的なワールドを冒険し、建築、採集、クラフト、モンスターとの戦闘を体験しましょう。 | Explore a mysterious world where you build, collect, craft, and fight monsters. | selectWorld.gameMode.survival.info |
+| 資材を探し、道具を作り、レベルを | Search for resources, craft, gain | selectWorld.gameMode.survival.line1 |
+| 貯める必要があり、体力、空腹の要素がある | levels, health and hunger | selectWorld.gameMode.survival.line2 |
+| ゲームルール | Game Rules | selectWorld.gameRules |
+| 設定を読み込む | Import Settings | selectWorld.import_worldgen_settings |
+| 設定の読み込み中にエラーが発生しました | Error importing settings | selectWorld.import_worldgen_settings.failure |
+| 設定ファイルを選択（.json） | Select settings file (.json) | selectWorld.import_worldgen_settings.select_file |
+| このワールドはこのバージョンでは開けません。\nこのワールドを最後にプレイしたバージョンは%sです。 | This world cannot be opened in this version.\nIt was last played in version %s. | selectWorld.incompatible.description |
+| 互換性のないバージョン：%s | "Incompatible version |  %s," | selectWorld.incompatible.info |
+| 互換性のないバージョン | Incompatible version | selectWorld.incompatible.title |
+| このワールドは互換性のないバージョンで作成されているため開くことができません。 | This world cannot be opened because it was created by an incompatible version. | selectWorld.incompatible.tooltip |
+| 互換性のないバージョンで作成されています | Created by an incompatible version | selectWorld.incompatible_series |
+| ワールドのフォルダーの読み込みまたは書き込みができないため、保存できません！ | Unable to read or access folder where game worlds are saved! | selectWorld.load_folder_access |
+| ワールド一覧を読み込み中 | Loading World List | selectWorld.loading_list |
+| 他のウィンドウでこのワールドが開かれているため、ロックされています。 | Locked by another running instance of Minecraft | selectWorld.locked |
+| 構造物の生成 | Generate Structures | selectWorld.mapFeatures |
+| 村、難破船など | Villages, Shipwrecks, etc. | selectWorld.mapFeatures.info |
+| ワールドタイプ | World Type | selectWorld.mapType |
+| ノーマル | Normal | selectWorld.mapType.normal |
+| その他のワールド設定… | More World Options... | selectWorld.moreWorldOptions |
+| 新規ワールド | New World | selectWorld.newWorld |
+| 再生成 | Re-Create | selectWorld.recreate |
+| Minecraftの現在のバージョンはカスタマイズワールドをサポートしていません。このワールドと同じシード値とプロパティで再生成できますが、地形のカスタマイズは失われます。ご不便をおかけし申し訳ございません。 | Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience! | selectWorld.recreate.customized.text |
+| カスタマイズワールドはサポートされていません | Customized worlds are no longer supported | selectWorld.recreate.customized.title |
+| ワールドの再生成に失敗しました。 | Something went wrong while trying to recreate a world. | selectWorld.recreate.error.text |
+| エラーが発生しました！ | An error occurred! | selectWorld.recreate.error.title |
+| リソースを準備中… | Preparing Resources... | selectWorld.resource_load |
+| 保存先： | "Will be saved in | ," | selectWorld.resultFolder |
+| ワールドの検索 | search for worlds | selectWorld.search |
+| 空白でランダムシード値 | Leave blank for a random seed | selectWorld.seedInfo |
+| 選択したワールドで遊ぶ | Play Selected World | selectWorld.select |
+| 保存先：%s | "Save folder |  %s," | selectWorld.targetFolder |
+| ワールドを選択 | Select World | selectWorld.title |
+| このワールドは、現在より新しいバージョンで保存されています。 | World was saved in a newer version, | selectWorld.tooltip.fromNewerVersion1 |
+| 古いバージョンでこのワールドを読み込むと、データが破損する可能性があります。 | loading this world could cause problems! | selectWorld.tooltip.fromNewerVersion2 |
+| このワールドを読み込む前に | Don't forget to back up this world | selectWorld.tooltip.snapshot1 |
+| バックアップを取ることを推奨します。 | before you load it in this snapshot. | selectWorld.tooltip.snapshot2 |
+| ワールドを読み込めません | Unable to load worlds | selectWorld.unable_to_load |
+| バージョン： | "Version | ," | selectWorld.version |
+| 構わず読み込む | Load Anyway | selectWorld.versionJoinButton |
+| このワールドを読み込みますか？ | Do you really want to load this world? | selectWorld.versionQuestion |
+| 不明 | unknown | selectWorld.versionUnknown |
+| このワールドが最後にプレイされたのはバージョン%sです。現在のバージョンでワールドを読み込むとデータが破損する可能性があります。 | This world was last played in version %s and loading it in this version could cause corruption! | selectWorld.versionWarning |
+| 使用されている一部の要素は、将来廃止される可能性があります。続行しますか？ | Some features used are deprecated and will stop working in the future. Do you wish to proceed? | selectWorld.warning.deprecated.question |
+| 警告！これらの設定は将来廃止される可能性のある要素を使用しています | Warning! These settings are using deprecated features | selectWorld.warning.deprecated.title |
+| これらの設定は実験的なものであり、いつか機能しなくなる可能性があります。続行しますか？ | These settings are experimental and could one day stop working. Do you wish to proceed? | selectWorld.warning.experimental.question |
+| 警告！これらの設定は実験的な機能を使用しています。 | Warning! These settings are using experimental features | selectWorld.warning.experimental.title |
+| お使いのデバイスに十分な空き容量がありません。\nゲーム中にディスク容量を使い切ると、ワールドが破損するおそれがあります。 | There is not much space left on your device.\nRunning out of disk space while in game can lead to your world being damaged. | selectWorld.warning.lowDiskSpace.description |
+| 警告！ディスクの空き容量が不足しています！ | Warning! Low disk space! | selectWorld.warning.lowDiskSpace.title |
+| ワールド | World | selectWorld.world |
+| 看板の編集 | Edit Sign Message | sign.edit |
+| 就寝しても夜を過ごすことはできません | No amount of rest can pass this night | sleep.not_possible |
+| %s／%s人のプレイヤーが就寝中 | %s/%s players sleeping | sleep.players_sleeping |
+| 夜が過ごされます | Sleeping through this night | sleep.skipping_night |
+| スロットは一つしか指定できませんが、「%s」が渡されました | Only single slots allowed, got '%s' | slot.only_single_allowed |
+| 「%s」は不明なスロットです | Unknown slot '%s' | slot.unknown |
+| 環境音 | Ambient/Environment | soundCategory.ambient |
+| ブロック | Blocks | soundCategory.block |
+| 敵対的生物 | Hostile Creatures | soundCategory.hostile |
+| 主音量 | Master Volume | soundCategory.master |
+| BGM | Music | soundCategory.music |
+| 友好的生物 | Friendly Creatures | soundCategory.neutral |
+| プレイヤー | Players | soundCategory.player |
+| ジュークボックス／音符ブロック | Jukebox/Note Blocks | soundCategory.record |
+| 声／スピーチ | Voice/Speech | soundCategory.voice |
+| 天候 | Weather | soundCategory.weather |
+| メニューを閉じる | Close Menu | spectatorMenu.close |
+| 次のページへ | Next Page | spectatorMenu.next_page |
+| 前のページへ | Previous Page | spectatorMenu.previous_page |
+| キーを押してコマンドを選択してください。もう一度押すことで使用することができます。 | Press a key to select a command, and again to use it. | spectatorMenu.root.prompt |
+| チームメンバーにテレポート | Teleport to Team Member | spectatorMenu.team_teleport |
+| テレポート先のチームを選択 | Select a team to teleport to | spectatorMenu.team_teleport.prompt |
+| プレイヤーにテレポート | Teleport to Player | spectatorMenu.teleport |
+| テレポート先のプレイヤーを選択 | Select a player to teleport to | spectatorMenu.teleport.prompt |
+| 一般 | General | stat.generalButton |
+| アイテム | Items | stat.itemsButton |
+| 動物を繁殖させた回数 | Animals Bred | stat.minecraft.animals_bred |
+| エリトラで飛行した距離 | Distance by Elytra | stat.minecraft.aviate_one_cm |
+| 鐘を鳴らした回数 | Bells Rung | stat.minecraft.bell_ring |
+| ボートで移動した距離 | Distance by Boat | stat.minecraft.boat_one_cm |
+| 防具を脱色した回数 | Armor Pieces Cleaned | stat.minecraft.clean_armor |
+| 旗を脱色した回数 | Banners Cleaned | stat.minecraft.clean_banner |
+| シュルカーボックスを脱色した回数 | Shulker Boxes Cleaned | stat.minecraft.clean_shulker_box |
+| 登った距離 | Distance Climbed | stat.minecraft.climb_one_cm |
+| スニークした距離 | Distance Crouched | stat.minecraft.crouch_one_cm |
+| 吸収されたダメージ | Damage Absorbed | stat.minecraft.damage_absorbed |
+| 盾で防いだダメージ | Damage Blocked by Shield | stat.minecraft.damage_blocked_by_shield |
+| 与えたダメージ | Damage Dealt | stat.minecraft.damage_dealt |
+| 吸収したダメージ | Damage Dealt (Absorbed) | stat.minecraft.damage_dealt_absorbed |
+| 防いだダメージ | Damage Dealt (Resisted) | stat.minecraft.damage_dealt_resisted |
+| 防がれたダメージ | Damage Resisted | stat.minecraft.damage_resisted |
+| 受けたダメージ | Damage Taken | stat.minecraft.damage_taken |
+| 死んだ回数 | Number of Deaths | stat.minecraft.deaths |
+| アイテムを捨てた回数 | Items Dropped | stat.minecraft.drop |
+| ケーキの一切れを食べた回数 | Cake Slices Eaten | stat.minecraft.eat_cake_slice |
+| アイテムをエンチャントした回数 | Items Enchanted | stat.minecraft.enchant_item |
+| 落下した距離 | Distance Fallen | stat.minecraft.fall_one_cm |
+| 大釜を満たした回数 | Cauldrons Filled | stat.minecraft.fill_cauldron |
+| 魚を釣った回数 | Fish Caught | stat.minecraft.fish_caught |
+| 空中を移動した距離 | Distance Flown | stat.minecraft.fly_one_cm |
+| ウマで移動した距離 | Distance by Horse | stat.minecraft.horse_one_cm |
+| ディスペンサーの中身を見た回数 | Dispensers Searched | stat.minecraft.inspect_dispenser |
+| ドロッパーの中身を見た回数 | Droppers Searched | stat.minecraft.inspect_dropper |
+| ホッパーの中身を見た回数 | Hoppers Searched | stat.minecraft.inspect_hopper |
+| 金床を使用した回数 | Interactions with Anvil | stat.minecraft.interact_with_anvil |
+| ビーコンを使用した回数 | Interactions with Beacon | stat.minecraft.interact_with_beacon |
+| 溶鉱炉を使用した回数 | Interactions with Blast Furnace | stat.minecraft.interact_with_blast_furnace |
+| 醸造台を使用した回数 | Interactions with Brewing Stand | stat.minecraft.interact_with_brewingstand |
+| 焚き火を使用した回数 | Interactions with Campfire | stat.minecraft.interact_with_campfire |
+| 製図台を使用した回数 | Interactions with Cartography Table | stat.minecraft.interact_with_cartography_table |
+| 作業台を使用した回数 | Interactions with Crafting Table | stat.minecraft.interact_with_crafting_table |
+| かまどを使用した回数 | Interactions with Furnace | stat.minecraft.interact_with_furnace |
+| 砥石を使用した回数 | Interactions with Grindstone | stat.minecraft.interact_with_grindstone |
+| 書見台を使用した回数 | Interactions with Lectern | stat.minecraft.interact_with_lectern |
+| 機織り機を使用した回数 | Interactions with Loom | stat.minecraft.interact_with_loom |
+| 鍛冶台を使用した回数 | Interactions with Smithing Table | stat.minecraft.interact_with_smithing_table |
+| 燻製器を使用した回数 | Interactions with Smoker | stat.minecraft.interact_with_smoker |
+| 石切台を使用した回数 | Interactions with Stonecutter | stat.minecraft.interact_with_stonecutter |
+| ジャンプした回数 | Jumps | stat.minecraft.jump |
+| ゴミを釣り上げた回数 | Junk Fished | stat.minecraft.junk_fished |
+| ゲームを終了した回数 | Games Quit | stat.minecraft.leave_game |
+| トロッコで移動した距離 | Distance by Minecart | stat.minecraft.minecart_one_cm |
+| Mobを倒した回数 | Mob Kills | stat.minecraft.mob_kills |
+| 樽を開いた回数 | Barrels Opened | stat.minecraft.open_barrel |
+| チェストを開いた回数 | Chests Opened | stat.minecraft.open_chest |
+| エンダーチェストを開いた回数 | Ender Chests Opened | stat.minecraft.open_enderchest |
+| シュルカーボックスを開いた回数 | Shulker Boxes Opened | stat.minecraft.open_shulker_box |
+| ブタで移動した距離 | Distance by Pig | stat.minecraft.pig_one_cm |
+| 音符ブロックを鳴らした回数 | Note Blocks Played | stat.minecraft.play_noteblock |
+| レコードを再生した回数 | Music Discs Played | stat.minecraft.play_record |
+| プレイした時間 | Time Played | stat.minecraft.play_time |
+| プレイヤーを倒した回数 | Player Kills | stat.minecraft.player_kills |
+| 植物を植木鉢に植えた回数 | Plants Potted | stat.minecraft.pot_flower |
+| 襲撃を引き起こした回数 | Raids Triggered | stat.minecraft.raid_trigger |
+| 襲撃に勝利した回数 | Raids Won | stat.minecraft.raid_win |
+| 鐘を鳴らした回数 | Bells Rung | stat.minecraft.ring_bell |
+| ベッドで寝た回数 | Times Slept in a Bed | stat.minecraft.sleep_in_bed |
+| スニークした時間 | Sneak Time | stat.minecraft.sneak_time |
+| ダッシュした距離 | Distance Sprinted | stat.minecraft.sprint_one_cm |
+| ストライダーで移動した距離 | Distance by Strider | stat.minecraft.strider_one_cm |
+| 泳いだ距離 | Distance Swum | stat.minecraft.swim_one_cm |
+| 村人と会話した回数 | Talked to Villagers | stat.minecraft.talked_to_villager |
+| 的に当てた回数 | Targets Hit | stat.minecraft.target_hit |
+| 最後に死んでからの経過時間 | Time Since Last Death | stat.minecraft.time_since_death |
+| 最後に寝てからの経過時間 | Time Since Last Rest | stat.minecraft.time_since_rest |
+| ワールドを開いた時間 | Time with World Open | stat.minecraft.total_world_time |
+| 村人と取引した回数 | Traded with Villagers | stat.minecraft.traded_with_villager |
+| 宝物を釣り上げた回数 | Treasure Fished | stat.minecraft.treasure_fished |
+| トラップチェストを反応させた回数 | Trapped Chests Triggered | stat.minecraft.trigger_trapped_chest |
+| 音符ブロックの音階を変えた回数 | Note Blocks Tuned | stat.minecraft.tune_noteblock |
+| 大釜から水を取った回数 | Water Taken from Cauldron | stat.minecraft.use_cauldron |
+| 水上を歩いた距離 | Distance Walked on Water | stat.minecraft.walk_on_water_one_cm |
+| 歩いた距離 | Distance Walked | stat.minecraft.walk_one_cm |
+| 水中を歩いた距離 | Distance Walked under Water | stat.minecraft.walk_under_water_one_cm |
+| Mob | Mobs | stat.mobsButton |
+| 破壊した回数 | Times Broken | stat_type.minecraft.broken |
+| クラフトした回数 | Times Crafted | stat_type.minecraft.crafted |
+| 捨てた回数 | Dropped | stat_type.minecraft.dropped |
+| %2$sを%1$s体倒しました | You killed %s %s | stat_type.minecraft.killed |
+| まだ%sを倒したことがありません | You have never killed %s | stat_type.minecraft.killed.none |
+| %sに%s回倒されました | %s killed you %s time(s) | stat_type.minecraft.killed_by |
+| まだ%sに倒されたことがありません | You have never been killed by %s | stat_type.minecraft.killed_by.none |
+| 採取した回数 | Times Mined | stat_type.minecraft.mined |
+| 拾った回数 | Picked Up | stat_type.minecraft.picked_up |
+| 使用した回数 | Times Used | stat_type.minecraft.used |
+| - | - | stats.none |
+| 統計値 | Statistic | stats.tooltip.type.statistic |
+| 検出 | DETECT | structure_block.button.detect_size |
+| 読み込み | LOAD | structure_block.button.load |
+| 保存 | SAVE | structure_block.button.save |
+| カスタムデータタグ名 | Custom Data Tag Name | structure_block.custom_data |
+| 構造物の大きさと位置を検出： | "Detect Structure Size and Position | ," | structure_block.detect_size |
+| コーナー：%s | "Corner |  %s," | structure_block.hover.corner |
+| データ：%s | "Data |  %s," | structure_block.hover.data |
+| ロード：%s | "Load |  %s," | structure_block.hover.load |
+| セーブ：%s | "Save |  %s," | structure_block.hover.save |
+| エンティティを含めるかどうか： | "Include Entities | ," | structure_block.include_entities |
+| 構造物の完全性とシード値 | Structure Integrity and Seed | structure_block.integrity |
+| 構造物の完全性 | Structure Integrity | structure_block.integrity.integrity |
+| 構造物のシード値 | Structure Seed | structure_block.integrity.seed |
+| 「%s」は無効な構造物名です | Invalid structure name '%s' | structure_block.invalid_structure_name |
+| 構造物「%s」は利用できません | Structure '%s' is not available | structure_block.load_not_found |
+| 構造物「%s」の位置が準備されました | Structure '%s' position prepared | structure_block.load_prepare |
+| 「%s」から構造物を読み込みました | Structure loaded from '%s' | structure_block.load_success |
+| コーナー | Corner | structure_block.mode.corner |
+| データ | Data | structure_block.mode.data |
+| ロード | Load | structure_block.mode.load |
+| セーブ | Save | structure_block.mode.save |
+| コーナーモード - 位置とサイズの計算を行います | Corner Mode - Placement and Size Marker | structure_block.mode_info.corner |
+| データモード - 構造物ごとに固有の処理をマーキングします | Data Mode - Game Logic Marker | structure_block.mode_info.data |
+| ロードモード - ファイルからの読み込みを行います | Load Mode - Load from File | structure_block.mode_info.load |
+| セーブモード - ファイルへの書き込みを行います | Save Mode - Write to File | structure_block.mode_info.save |
+| 相対位置 | Relative Position | structure_block.position |
+| X軸方向の相対位置 | relative Position x | structure_block.position.x |
+| Y軸方向の相対位置 | relative position y | structure_block.position.y |
+| Z軸方向の相対位置 | relative position z | structure_block.position.z |
+| 構造物「%s」を保存できません | Unable to save structure '%s' | structure_block.save_failure |
+| 構造物が「%s」として保存されました | Structure saved as '%s' | structure_block.save_success |
+| 見えないブロックを表示する： | "Show Invisible Blocks | ," | structure_block.show_air |
+| 境界線を表示する： | "Show Bounding Box | ," | structure_block.show_boundingbox |
+| 構造物のサイズ | Structure Size | structure_block.size |
+| X軸方向の構造物のサイズ | structure size x | structure_block.size.x |
+| Y軸方向の構造物のサイズ | structure size y | structure_block.size.y |
+| Z軸方向の構造物のサイズ | structure size z | structure_block.size.z |
+| 構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。 | Unable to detect structure size. Add corners with matching structure names | structure_block.size_failure |
+| 「%s」のサイズが正常に検出されました | Size successfully detected for '%s' | structure_block.size_success |
+| 構造物名 | Structure Name | structure_block.structure_name |
+| 不気味な音が鳴る | Eerie noise | subtitles.ambient.cave |
+| アメジストが音を奏でる | Amethyst chimes | subtitles.block.amethyst_block.chime |
+| アメジストが共鳴する | Amethyst resonates | subtitles.block.amethyst_block.resonate |
+| 金床が壊れる | Anvil destroyed | subtitles.block.anvil.destroy |
+| 金床が落下する | Anvil landed | subtitles.block.anvil.land |
+| 金床が使用される | Anvil used | subtitles.block.anvil.use |
+| 樽が閉じる | Barrel closes | subtitles.block.barrel.close |
+| 樽が開く | Barrel opens | subtitles.block.barrel.open |
+| ビーコンが起動する | Beacon activates | subtitles.block.beacon.activate |
+| ビーコンがうなる | Beacon hums | subtitles.block.beacon.ambient |
+| ビーコンが停止する | Beacon deactivates | subtitles.block.beacon.deactivate |
+| ビーコンの効果が選択される | Beacon power selected | subtitles.block.beacon.power_select |
+| ハチミツが垂れる | Honey drips | subtitles.block.beehive.drip |
+| ミツバチが巣に入る | Bee enters hive | subtitles.block.beehive.enter |
+| ミツバチが巣を離れる | Bee leaves hive | subtitles.block.beehive.exit |
+| ハサミで採蜜する | Shears scrape | subtitles.block.beehive.shear |
+| ミツバチが働く | Bees work | subtitles.block.beehive.work |
+| 鐘が共鳴する | Bell resonates | subtitles.block.bell.resonate |
+| 鐘が鳴る | Bell rings | subtitles.block.bell.use |
+| 大きなドリップリーフの葉が傾く | Dripleaf tilts down | subtitles.block.big_dripleaf.tilt_down |
+| 大きなドリップリーフの葉が戻る | Dripleaf tilts up | subtitles.block.big_dripleaf.tilt_up |
+| 溶鉱炉が燃える | Blast Furnace crackles | subtitles.block.blastfurnace.fire_crackle |
+| 醸造台が泡立つ | Brewing Stand bubbles | subtitles.block.brewing_stand.brew |
+| 泡が弾ける | Bubbles pop | subtitles.block.bubble_column.bubble_pop |
+| 泡が湧き出る | Bubbles flow | subtitles.block.bubble_column.upwards_ambient |
+| 泡に押し上げられる | Bubbles woosh | subtitles.block.bubble_column.upwards_inside |
+| 泡が渦を巻く | Bubbles whirl | subtitles.block.bubble_column.whirlpool_ambient |
+| 泡に吸い込まれる | Bubbles zoom | subtitles.block.bubble_column.whirlpool_inside |
+| ボタンが押される | Button clicks | subtitles.block.button.click |
+| ケーキにろうそくを立てる | Cake squishes | subtitles.block.cake.add_candle |
+| 焚き火が燃える | Campfire crackles | subtitles.block.campfire.crackle |
+| ろうそくが燃える | Candle crackles | subtitles.block.candle.crackle |
+| ろうそくの火が消える | Candle extinguishes | subtitles.block.candle.extinguish |
+| チェストが閉じる | Chest closes | subtitles.block.chest.close |
+| チェストがロックされている | Chest locked | subtitles.block.chest.locked |
+| チェストが開く | Chest opens | subtitles.block.chest.open |
+| コーラスフラワーが枯れる | Chorus Flower withers | subtitles.block.chorus_flower.death |
+| コーラスフラワーが育つ | Chorus Flower grows | subtitles.block.chorus_flower.grow |
+| コンパレーターが切り替わる | Comparator clicks | subtitles.block.comparator.click |
+| コンポスターが空になる | Composter emptied | subtitles.block.composter.empty |
+| コンポスターが満たされる | Composter filled | subtitles.block.composter.fill |
+| コンポスターが堆肥にする | Composter composts | subtitles.block.composter.ready |
+| コンジットが起動する | Conduit activates | subtitles.block.conduit.activate |
+| コンジットが脈動する | Conduit pulses | subtitles.block.conduit.ambient |
+| コンジットが攻撃をする | Conduit attacks | subtitles.block.conduit.attack.target |
+| コンジットが停止する | Conduit deactivates | subtitles.block.conduit.deactivate |
+| 銅の電球が消える | Copper Bulb turns off | subtitles.block.copper_bulb.turn_off |
+| 銅の電球が点く | Copper Bulb turns on | subtitles.block.copper_bulb.turn_on |
+| トラップドアが閉じる | Trapdoor closes | subtitles.block.copper_trapdoor.close |
+| トラップドアが開く | Trapdoor opens | subtitles.block.copper_trapdoor.open |
+| 自動作業台がクラフトする | Crafter crafts | subtitles.block.crafter.craft |
+| 自動作業台がクラフトに失敗する | Crafter fails crafting | subtitles.block.crafter.fail |
+| 飾り壺にアイテムが入れられる | Decorated Pot fills | subtitles.block.decorated_pot.insert |
+| 飾り壺が揺れる | Decorated Pot wobbles | subtitles.block.decorated_pot.insert_fail |
+| 飾り壺が砕け散る | Decorated Pot shatters | subtitles.block.decorated_pot.shatter |
+| ディスペンサーが作動する | Dispensed item | subtitles.block.dispenser.dispense |
+| ディスペンサーが空打ちする | Dispenser failed | subtitles.block.dispenser.fail |
+| ドアが開閉する | Door creaks | subtitles.block.door.toggle |
+| エンチャントテーブルが使用される | Enchanting Table used | subtitles.block.enchantment_table.use |
+| エンドポータルが開く | End Portal opens | subtitles.block.end_portal.spawn |
+| エンダーアイが嵌まる | Eye of Ender attaches | subtitles.block.end_portal_frame.fill |
+| フェンスゲートが開閉する | Fence Gate creaks | subtitles.block.fence_gate.toggle |
+| 炎が燃える | Fire crackles | subtitles.block.fire.ambient |
+| 炎が消える | Fire extinguished | subtitles.block.fire.extinguish |
+| オタマジャクシが孵化する | Tadpole hatches | subtitles.block.frogspawn.hatch |
+| かまどが燃える | Furnace crackles | subtitles.block.furnace.fire_crackle |
+| ブロックが破壊される | Block broken | subtitles.block.generic.break |
+| 足音 | Footsteps | subtitles.block.generic.footsteps |
+| ブロックが採掘される | Block breaking | subtitles.block.generic.hit |
+| ブロックが設置される | Block placed | subtitles.block.generic.place |
+| 砥石が使用される | Grindstone used | subtitles.block.grindstone.use |
+| 植物が刈り取られる | Plant cropped | subtitles.block.growing_plant.crop |
+| 看板が揺れる | Sign wobbles | subtitles.block.hanging_sign.waxed_interact_fail |
+| ハチミツブロックを滑り落ちる | Sliding down a honey block | subtitles.block.honey_block.slide |
+| トラップドアが閉じる | Trapdoor closes | subtitles.block.iron_trapdoor.close |
+| トラップドアが開く | Trapdoor opens | subtitles.block.iron_trapdoor.open |
+| 溶岩が弾ける | Lava pops | subtitles.block.lava.ambient |
+| 溶岩が固まる | Lava hisses | subtitles.block.lava.extinguish |
+| レバーが引かれる | Lever clicks | subtitles.block.lever.click |
+| 音符ブロックが鳴る | Note Block plays | subtitles.block.note_block.note |
+| ピストンが動く | Piston moves | subtitles.block.piston.move |
+| 溶岩が滴る | Lava drips | subtitles.block.pointed_dripstone.drip_lava |
+| 溶岩が大釜に滴る | Lava drips into Cauldron | subtitles.block.pointed_dripstone.drip_lava_into_cauldron |
+| 水が滴る | Water drips | subtitles.block.pointed_dripstone.drip_water |
+| 水が大釜に滴る | Water drips into Cauldron | subtitles.block.pointed_dripstone.drip_water_into_cauldron |
+| 鍾乳石が落ちる | Stalactite crashes down | subtitles.block.pointed_dripstone.land |
+| ポータルが響く | Portal whooshes | subtitles.block.portal.ambient |
+| ポータルの音が小さくなる | Portal noise fades | subtitles.block.portal.travel |
+| ポータルの音が激しくなる | Portal noise intensifies | subtitles.block.portal.trigger |
+| 感圧板が踏まれる | Pressure Plate clicks | subtitles.block.pressure_plate.click |
+| ハサミでくり抜かれる | Shears carve | subtitles.block.pumpkin.carve |
+| トーチが焼き切れる | Torch fizzes | subtitles.block.redstone_torch.burnout |
+| リスポーンアンカーが響く | Respawn Anchor whooshes | subtitles.block.respawn_anchor.ambient |
+| リスポーンアンカーがチャージされる | Respawn Anchor is charged | subtitles.block.respawn_anchor.charge |
+| リスポーンアンカーが消耗する | Respawn Anchor depletes | subtitles.block.respawn_anchor.deplete |
+| リスポーンアンカーが起動する | Respawn Anchor sets spawn | subtitles.block.respawn_anchor.set_spawn |
+| スカルクの泡が弾ける | Sculk bubbles | subtitles.block.sculk.charge |
+| スカルクが侵食する | Sculk spreads | subtitles.block.sculk.spread |
+| スカルクカタリストが開花する | Sculk Catalyst blooms | subtitles.block.sculk_catalyst.bloom |
+| スカルクセンサーが作動する | Sculk Sensor clicks | subtitles.block.sculk_sensor.clicking |
+| スカルクセンサーが作動を停止する | Sculk Sensor stops clicking | subtitles.block.sculk_sensor.clicking_stop |
+| スカルクシュリーカーが悲鳴を上げる | Sculk Shrieker shrieks | subtitles.block.sculk_shrieker.shriek |
+| シュルカーが閉じる | Shulker closes | subtitles.block.shulker_box.close |
+| シュルカーが開く | Shulker opens | subtitles.block.shulker_box.open |
+| 看板が揺れる | Sign wobbles | subtitles.block.sign.waxed_interact_fail |
+| 鍛冶台が使用される | Smithing Table used | subtitles.block.smithing_table.use |
+| 燻製器が煙を上げる | Smoker smokes | subtitles.block.smoker.smoke |
+| スニッファーの卵にひびが入る | Sniffer Egg cracks | subtitles.block.sniffer_egg.crack |
+| スニッファーの卵が孵化する | Sniffer Egg hatches | subtitles.block.sniffer_egg.hatch |
+| スニッファーが卵を産む | Sniffer plops | subtitles.block.sniffer_egg.plop |
+| スポンジが吸収する | Sponge sucks | subtitles.block.sponge.absorb |
+| ベリーが収穫される | Berries pop | subtitles.block.sweet_berry_bush.pick_berries |
+| トラップドアが開閉する | Trapdoor creaks | subtitles.block.trapdoor.toggle |
+| 不吉なアイテムが用意される | Ominous item prepares | subtitles.block.trial_spawner.about_to_spawn_item |
+| 試練のスポナーが燃える | Trial Spawner crackles | subtitles.block.trial_spawner.ambient |
+| 不吉なパチパチ音がする | Ominous crackling | subtitles.block.trial_spawner.ambient_charged |
+| 不吉なパチパチ音がする | Ominous crackling | subtitles.block.trial_spawner.ambient_ominous |
+| 不吉な予感が試練のスポナーを飲み込む | Omen engulfs Trial Spawner | subtitles.block.trial_spawner.charge_activate |
+| 試練のスポナーが閉じる | Trial Spawner closes | subtitles.block.trial_spawner.close_shutter |
+| 試練のスポナーが作動する | Trial Spawner charges up | subtitles.block.trial_spawner.detect_player |
+| 試練のスポナーがアイテムを出す | Trial Spawner ejects items | subtitles.block.trial_spawner.eject_item |
+| 不吉な予感が試練のスポナーを飲み込む | Omen engulfs Trial Spawner | subtitles.block.trial_spawner.ominous_activate |
+| 試練のスポナーが開く | Trial Spawner opens | subtitles.block.trial_spawner.open_shutter |
+| 不吉なアイテムが落ちる | Ominous item drops | subtitles.block.trial_spawner.spawn_item |
+| 不吉なアイテムが出現する | Ominous item appears | subtitles.block.trial_spawner.spawn_item_begin |
+| 試練のスポナーがMobを召喚する | Trial Spawner spawns a mob | subtitles.block.trial_spawner.spawn_mob |
+| トリップワイヤーが仕掛けられる | Tripwire attaches | subtitles.block.tripwire.attach |
+| トリップワイヤーが作動する | Tripwire clicks | subtitles.block.tripwire.click |
+| トリップワイヤーが外される | Tripwire detaches | subtitles.block.tripwire.detach |
+| 宝物庫が燃え上がる | Vault ignites | subtitles.block.vault.activate |
+| 宝物庫が燃える | Vault crackles | subtitles.block.vault.ambient |
+| 宝物庫が閉じる | Vault closes | subtitles.block.vault.close_shutter |
+| 宝物庫が鎮まる | Vault extinguishes | subtitles.block.vault.deactivate |
+| 宝物庫がアイテムを出す | Vault ejects item | subtitles.block.vault.eject_item |
+| 宝物庫が解錠される | Vault unlocks | subtitles.block.vault.insert_item |
+| 宝物庫の解錠に失敗する | Vault rejects item | subtitles.block.vault.insert_item_fail |
+| 宝物庫が開く | Vault opens | subtitles.block.vault.open_shutter |
+| 宝物庫がプレイヤーを拒絶する | Vault rejects player | subtitles.block.vault.reject_rewarded_player |
+| 水が流れる | Water flows | subtitles.block.water.ambient |
+| スポンジが乾く | Sponge dries | subtitles.block.wet_sponge.dries |
+| 本が収納される | Book placed | subtitles.chiseled_bookshelf.insert |
+| エンチャントの本が収納される | Enchanted Book placed | subtitles.chiseled_bookshelf.insert_enchanted |
+| 本が取り出される | Book taken | subtitles.chiseled_bookshelf.take |
+| エンチャントの本が取り出される | Enchanted Book taken | subtitles.chiseled_bookshelf.take_enchanted |
+| 棘が刺さる | Thorns prick | subtitles.enchant.thorns.hit |
+| アレイが探す | Allay seeks | subtitles.entity.allay.ambient_with_item |
+| アレイがアイテムを欲しがる | Allay yearns | subtitles.entity.allay.ambient_without_item |
+| アレイが死ぬ | Allay dies | subtitles.entity.allay.death |
+| アレイがダメージを受ける | Allay hurts | subtitles.entity.allay.hurt |
+| アレイが笑う | Allay chortles | subtitles.entity.allay.item_given |
+| アレイが鎮まる | Allay allays | subtitles.entity.allay.item_taken |
+| アレイがアイテムを投げる | Allay tosses | subtitles.entity.allay.item_thrown |
+| アルマジロが唸る | Armadillo grunts | subtitles.entity.armadillo.ambient |
+| アルマジロのウロコを払う | Scute is brushed off | subtitles.entity.armadillo.brush |
+| アルマジロが死ぬ | Armadillo dies | subtitles.entity.armadillo.death |
+| アルマジロが食べる | Armadillo eats | subtitles.entity.armadillo.eat |
+| アルマジロがダメージを受ける | Armadillo hurts | subtitles.entity.armadillo.hurt |
+| アルマジロが身を守る | Armadillo shields itself | subtitles.entity.armadillo.hurt_reduced |
+| アルマジロが着地する | Armadillo lands | subtitles.entity.armadillo.land |
+| アルマジロが外を覗く | Armadillo peeks | subtitles.entity.armadillo.peek |
+| アルマジロが丸まる | Armadillo rolls up | subtitles.entity.armadillo.roll |
+| ウロコが落ちる | Armadillo sheds scute | subtitles.entity.armadillo.scute_drop |
+| アルマジロが元に戻る | Armadillo unrolls | subtitles.entity.armadillo.unroll_finish |
+| アルマジロが頭を出す | Armadillo peeks | subtitles.entity.armadillo.unroll_start |
+| 何かが落ちる | Something fell | subtitles.entity.armor_stand.fall |
+| 矢が当たる | Arrow hits | subtitles.entity.arrow.hit |
+| 矢がプレイヤーに当たる | Player hit | subtitles.entity.arrow.hit_player |
+| 矢が発射される | Arrow fired | subtitles.entity.arrow.shoot |
+| ウーパールーパーが攻撃をする | Axolotl attacks | subtitles.entity.axolotl.attack |
+| ウーパールーパーが死ぬ | Axolotl dies | subtitles.entity.axolotl.death |
+| ウーパールーパーがダメージを受ける | Axolotl hurts | subtitles.entity.axolotl.hurt |
+| ウーパールーパーが鳴く | Axolotl chirps | subtitles.entity.axolotl.idle_air |
+| ウーパールーパーが鳴く | Axolotl chirps | subtitles.entity.axolotl.idle_water |
+| ウーパールーパーが飛び込む | Axolotl splashes | subtitles.entity.axolotl.splash |
+| ウーパールーパーが泳ぐ | Axolotl swims | subtitles.entity.axolotl.swim |
+| コウモリが鳴く | Bat screeches | subtitles.entity.bat.ambient |
+| コウモリが死ぬ | Bat dies | subtitles.entity.bat.death |
+| コウモリがダメージを受ける | Bat hurts | subtitles.entity.bat.hurt |
+| コウモリが羽ばたく | Bat takes off | subtitles.entity.bat.takeoff |
+| ミツバチが羽音を立てる | Bee buzzes | subtitles.entity.bee.ambient |
+| ミツバチが死ぬ | Bee dies | subtitles.entity.bee.death |
+| ミツバチがダメージを受ける | Bee hurts | subtitles.entity.bee.hurt |
+| ミツバチが羽音を立てる | Bee buzzes | subtitles.entity.bee.loop |
+| ミツバチが怒りの羽音を立てる | Bee buzzes angrily | subtitles.entity.bee.loop_aggressive |
+| ミツバチが喜びの羽音を立てる | Bee buzzes happily | subtitles.entity.bee.pollinate |
+| ミツバチが刺す | Bee stings | subtitles.entity.bee.sting |
+| ブレイズが呼吸をする | Blaze breathes | subtitles.entity.blaze.ambient |
+| ブレイズが燃える | Blaze crackles | subtitles.entity.blaze.burn |
+| ブレイズが死ぬ | Blaze dies | subtitles.entity.blaze.death |
+| ブレイズがダメージを受ける | Blaze hurts | subtitles.entity.blaze.hurt |
+| ブレイズが発射する | Blaze shoots | subtitles.entity.blaze.shoot |
+| 漕ぐ | Rowing | subtitles.entity.boat.paddle_land |
+| ボートを漕ぐ | Rowing | subtitles.entity.boat.paddle_water |
+| ボグドが骨を鳴らす | Bogged rattles | subtitles.entity.bogged.ambient |
+| ボグドが死ぬ | Bogged dies | subtitles.entity.bogged.death |
+| ボグドがダメージを受ける | Bogged hurts | subtitles.entity.bogged.hurt |
+| ブリーズが力を溜める | Breeze charges | subtitles.entity.breeze.charge |
+| ブリーズが死ぬ | Breeze dies | subtitles.entity.breeze.death |
+| ブリーズが弾き返す | Breeze deflects | subtitles.entity.breeze.deflect |
+| ブリーズがダメージを受ける | Breeze hurts | subtitles.entity.breeze.hurt |
+| ブリーズが飛ぶ | Breeze flies | subtitles.entity.breeze.idle_air |
+| ブリーズが風の音を立てる | Breeze whirs | subtitles.entity.breeze.idle_ground |
+| ブリーズが息を吸い込む | Breeze inhales | subtitles.entity.breeze.inhale |
+| ブリーズが跳ぶ | Breeze jumps | subtitles.entity.breeze.jump |
+| ブリーズが着地する | Breeze lands | subtitles.entity.breeze.land |
+| ブリーズが発射する | Breeze shoots | subtitles.entity.breeze.shoot |
+| ブリーズが地面を滑る | Breeze slides | subtitles.entity.breeze.slide |
+| ブリーズの風が渦を巻く | Breeze whirls | subtitles.entity.breeze.whirl |
+| ウィンドチャージが炸裂する | Wind Charge bursts | subtitles.entity.breeze.wind_burst |
+| ラクダが唸る | Camel grunts | subtitles.entity.camel.ambient |
+| ラクダが跳躍する | Camel yeets | subtitles.entity.camel.dash |
+| ラクダの脚力が回復する | Camel recovers | subtitles.entity.camel.dash_ready |
+| ラクダが死ぬ | Camel dies | subtitles.entity.camel.death |
+| ラクダが食べる | Camel eats | subtitles.entity.camel.eat |
+| ラクダがダメージを受ける | Camel hurts | subtitles.entity.camel.hurt |
+| 鞍が装着される | Saddle equips | subtitles.entity.camel.saddle |
+| ラクダが座り込む | Camel sits down | subtitles.entity.camel.sit |
+| ラクダが立ち上がる | Camel stands up | subtitles.entity.camel.stand |
+| ラクダが歩く | Camel steps | subtitles.entity.camel.step |
+| ラクダが砂を撒き散らす | Camel sands | subtitles.entity.camel.step_sand |
+| ネコが鳴く | Cat meows | subtitles.entity.cat.ambient |
+| ネコが甘える | Cat begs | subtitles.entity.cat.beg_for_food |
+| ネコが死ぬ | Cat dies | subtitles.entity.cat.death |
+| ネコが食べる | Cat eats | subtitles.entity.cat.eat |
+| ネコが威嚇する | Cat hisses | subtitles.entity.cat.hiss |
+| ネコがダメージを受ける | Cat hurts | subtitles.entity.cat.hurt |
+| ネコが鳴く | Cat purrs | subtitles.entity.cat.purr |
+| ニワトリが鳴く | Chicken clucks | subtitles.entity.chicken.ambient |
+| ニワトリが死ぬ | Chicken dies | subtitles.entity.chicken.death |
+| ニワトリが卵を産む | Chicken plops | subtitles.entity.chicken.egg |
+| ニワトリがダメージを受ける | Chicken hurts | subtitles.entity.chicken.hurt |
+| タラが死ぬ | Cod dies | subtitles.entity.cod.death |
+| タラが跳ねる | Cod flops | subtitles.entity.cod.flop |
+| タラがダメージを受ける | Cod hurts | subtitles.entity.cod.hurt |
+| ウシが鳴く | Cow moos | subtitles.entity.cow.ambient |
+| ウシが死ぬ | Cow dies | subtitles.entity.cow.death |
+| ウシがダメージを受ける | Cow hurts | subtitles.entity.cow.hurt |
+| ウシが搾乳される | Cow gets milked | subtitles.entity.cow.milk |
+| クリーパーが死ぬ | Creeper dies | subtitles.entity.creeper.death |
+| クリーパーがダメージを受ける | Creeper hurts | subtitles.entity.creeper.hurt |
+| クリーパーが着火される | Creeper hisses | subtitles.entity.creeper.primed |
+| イルカが鳴く | Dolphin chirps | subtitles.entity.dolphin.ambient |
+| イルカが鳴く | Dolphin whistles | subtitles.entity.dolphin.ambient_water |
+| イルカが攻撃をする | Dolphin attacks | subtitles.entity.dolphin.attack |
+| イルカが死ぬ | Dolphin dies | subtitles.entity.dolphin.death |
+| イルカが食べる | Dolphin eats | subtitles.entity.dolphin.eat |
+| イルカがダメージを受ける | Dolphin hurts | subtitles.entity.dolphin.hurt |
+| イルカが跳ぶ | Dolphin jumps | subtitles.entity.dolphin.jump |
+| イルカが遊ぶ | Dolphin plays | subtitles.entity.dolphin.play |
+| イルカが飛び込む | Dolphin splashes | subtitles.entity.dolphin.splash |
+| イルカが泳ぐ | Dolphin swims | subtitles.entity.dolphin.swim |
+| ロバが鳴く | Donkey hee-haws | subtitles.entity.donkey.ambient |
+| ロバがいななく | Donkey neighs | subtitles.entity.donkey.angry |
+| ロバにチェストが装着される | Donkey Chest equips | subtitles.entity.donkey.chest |
+| ロバが死ぬ | Donkey dies | subtitles.entity.donkey.death |
+| ロバが食べる | Donkey eats | subtitles.entity.donkey.eat |
+| ロバがダメージを受ける | Donkey hurts | subtitles.entity.donkey.hurt |
+| ロバが跳ぶ | Donkey jumps | subtitles.entity.donkey.jump |
+| ドラウンドがゴボゴボと音を立てる | Drowned gurgles | subtitles.entity.drowned.ambient |
+| ドラウンドがゴボゴボと音を立てる | Drowned gurgles | subtitles.entity.drowned.ambient_water |
+| ドラウンドが死ぬ | Drowned dies | subtitles.entity.drowned.death |
+| ドラウンドがダメージを受ける | Drowned hurts | subtitles.entity.drowned.hurt |
+| ドラウンドがトライデントを投げる | Drowned throws Trident | subtitles.entity.drowned.shoot |
+| ドラウンドが歩く | Drowned steps | subtitles.entity.drowned.step |
+| ドラウンドが泳ぐ | Drowned swims | subtitles.entity.drowned.swim |
+| 卵が投げられる | Egg flies | subtitles.entity.egg.throw |
+| エルダーガーディアンがささやく | Elder Guardian moans | subtitles.entity.elder_guardian.ambient |
+| エルダーガーディアンが鳴く | Elder Guardian flaps | subtitles.entity.elder_guardian.ambient_land |
+| エルダーガーディアンが呪う | Elder Guardian curses | subtitles.entity.elder_guardian.curse |
+| エルダーガーディアンが死ぬ | Elder Guardian dies | subtitles.entity.elder_guardian.death |
+| エルダーガーディアンが跳ねる | Elder Guardian flops | subtitles.entity.elder_guardian.flop |
+| エルダーガーディアンがダメージを受ける | Elder Guardian hurts | subtitles.entity.elder_guardian.hurt |
+| ドラゴンが咆哮する | Dragon roars | subtitles.entity.ender_dragon.ambient |
+| ドラゴンが死ぬ | Dragon dies | subtitles.entity.ender_dragon.death |
+| ドラゴンが羽ばたく | Dragon flaps | subtitles.entity.ender_dragon.flap |
+| ドラゴンが唸る | Dragon growls | subtitles.entity.ender_dragon.growl |
+| ドラゴンがダメージを受ける | Dragon hurts | subtitles.entity.ender_dragon.hurt |
+| ドラゴンが発射する | Dragon shoots | subtitles.entity.ender_dragon.shoot |
+| エンダーアイが落ちる | Eye of Ender falls | subtitles.entity.ender_eye.death |
+| エンダーアイが投げられる | Eye of Ender shoots | subtitles.entity.ender_eye.launch |
+| エンダーパールが投げられる | Ender Pearl flies | subtitles.entity.ender_pearl.throw |
+| エンダーマンが鳴く | Enderman vwoops | subtitles.entity.enderman.ambient |
+| エンダーマンが死ぬ | Enderman dies | subtitles.entity.enderman.death |
+| エンダーマンがダメージを受ける | Enderman hurts | subtitles.entity.enderman.hurt |
+| エンダーマンが叫ぶ | Enderman screams | subtitles.entity.enderman.scream |
+| エンダーマンが叫ぶ | Enderman cries out | subtitles.entity.enderman.stare |
+| エンダーマンがテレポートする | Enderman teleports | subtitles.entity.enderman.teleport |
+| エンダーマイトが鳴く | Endermite scuttles | subtitles.entity.endermite.ambient |
+| エンダーマイトが死ぬ | Endermite dies | subtitles.entity.endermite.death |
+| エンダーマイトがダメージを受ける | Endermite hurts | subtitles.entity.endermite.hurt |
+| エヴォーカーがつぶやく | Evoker murmurs | subtitles.entity.evoker.ambient |
+| エヴォーカーが呪文を唱える | Evoker casts spell | subtitles.entity.evoker.cast_spell |
+| エヴォーカーが喜ぶ | Evoker cheers | subtitles.entity.evoker.celebrate |
+| エヴォーカーが死ぬ | Evoker dies | subtitles.entity.evoker.death |
+| エヴォーカーがダメージを受ける | Evoker hurts | subtitles.entity.evoker.hurt |
+| エヴォーカーが攻撃の準備をする | Evoker prepares attack | subtitles.entity.evoker.prepare_attack |
+| エヴォーカーが召喚の準備をする | Evoker prepares summoning | subtitles.entity.evoker.prepare_summon |
+| エヴォーカーが変色魔法の準備をする | Evoker prepares charming | subtitles.entity.evoker.prepare_wololo |
+| 牙が剥かれる | Fangs snap | subtitles.entity.evoker_fangs.attack |
+| 経験値が増す | Experience gained | subtitles.entity.experience_orb.pickup |
+| 花火が爆発する | Firework blasts | subtitles.entity.firework_rocket.blast |
+| 花火が打ち上がる | Firework launches | subtitles.entity.firework_rocket.launch |
+| 花火がきらめく | Firework twinkles | subtitles.entity.firework_rocket.twinkle |
+| 浮きが回収される | Bobber retrieved | subtitles.entity.fishing_bobber.retrieve |
+| 浮きが沈む | Fishing Bobber splashes | subtitles.entity.fishing_bobber.splash |
+| 浮きが投げられる | Bobber thrown | subtitles.entity.fishing_bobber.throw |
+| キツネが怒る | Fox angers | subtitles.entity.fox.aggro |
+| キツネが鳴く | Fox squeaks | subtitles.entity.fox.ambient |
+| キツネが噛みつく | Fox bites | subtitles.entity.fox.bite |
+| キツネが死ぬ | Fox dies | subtitles.entity.fox.death |
+| キツネが食べる | Fox eats | subtitles.entity.fox.eat |
+| キツネがダメージを受ける | Fox hurts | subtitles.entity.fox.hurt |
+| キツネが鳴く | Fox screeches | subtitles.entity.fox.screech |
+| キツネがいびきをかく | Fox snores | subtitles.entity.fox.sleep |
+| キツネが嗅ぐ | Fox sniffs | subtitles.entity.fox.sniff |
+| キツネがアイテムを吐く | Fox spits | subtitles.entity.fox.spit |
+| キツネがテレポートする | Fox teleports | subtitles.entity.fox.teleport |
+| カエルが鳴く | Frog croaks | subtitles.entity.frog.ambient |
+| カエルが死ぬ | Frog dies | subtitles.entity.frog.death |
+| カエルが捕食する | Frog eats | subtitles.entity.frog.eat |
+| カエルがダメージを受ける | Frog hurts | subtitles.entity.frog.hurt |
+| カエルが産卵する | Frog lays spawn | subtitles.entity.frog.lay_spawn |
+| カエルが跳ねる | Frog jumps | subtitles.entity.frog.long_jump |
+| 何かが落ちる | Something fell | subtitles.entity.generic.big_fall |
+| 燃える | Burning | subtitles.entity.generic.burn |
+| 死ぬ | Dying | subtitles.entity.generic.death |
+| 飲む | Sipping | subtitles.entity.generic.drink |
+| 食べる | Eating | subtitles.entity.generic.eat |
+| 爆発する | Explosion | subtitles.entity.generic.explode |
+| 炎が消える | Fire extinguishes | subtitles.entity.generic.extinguish_fire |
+| 何かがダメージを受ける | Something hurts | subtitles.entity.generic.hurt |
+| 何かがつまずく | Something trips | subtitles.entity.generic.small_fall |
+| 水しぶきが立つ | Splashing | subtitles.entity.generic.splash |
+| 泳ぐ | Swimming | subtitles.entity.generic.swim |
+| ウィンドチャージが炸裂する | Wind Charge bursts | subtitles.entity.generic.wind_burst |
+| ガストが泣く | Ghast cries | subtitles.entity.ghast.ambient |
+| ガストが死ぬ | Ghast dies | subtitles.entity.ghast.death |
+| ガストがダメージを受ける | Ghast hurts | subtitles.entity.ghast.hurt |
+| ガストが発射する | Ghast shoots | subtitles.entity.ghast.shoot |
+| 輝く額縁にアイテムが入れられる | Glow Item Frame fills | subtitles.entity.glow_item_frame.add_item |
+| 輝く額縁が破壊される | Glow Item Frame broken | subtitles.entity.glow_item_frame.break |
+| 輝く額縁が設置される | Glow Item Frame placed | subtitles.entity.glow_item_frame.place |
+| 輝く額縁からアイテムが取られる | Glow Item Frame empties | subtitles.entity.glow_item_frame.remove_item |
+| 輝く額縁の中のアイテムが回される | Glow Item Frame clicks | subtitles.entity.glow_item_frame.rotate_item |
+| ヒカリイカが泳ぐ | Glow Squid swims | subtitles.entity.glow_squid.ambient |
+| ヒカリイカが死ぬ | Glow Squid dies | subtitles.entity.glow_squid.death |
+| ヒカリイカがダメージを受ける | Glow Squid hurts | subtitles.entity.glow_squid.hurt |
+| ヒカリイカがスミを吐く | Glow Squid shoots ink | subtitles.entity.glow_squid.squirt |
+| ヤギが鳴く | Goat bleats | subtitles.entity.goat.ambient |
+| ヤギが死ぬ | Goat dies | subtitles.entity.goat.death |
+| ヤギが食べる | Goat eats | subtitles.entity.goat.eat |
+| ヤギの角が折れる | Goat Horn breaks off | subtitles.entity.goat.horn_break |
+| ヤギがダメージを受ける | Goat hurts | subtitles.entity.goat.hurt |
+| ヤギが跳ねる | Goat leaps | subtitles.entity.goat.long_jump |
+| ヤギが搾乳される | Goat gets milked | subtitles.entity.goat.milk |
+| ヤギが足を踏み鳴らす | Goat stomps | subtitles.entity.goat.prepare_ram |
+| ヤギがぶつかる | Goat rams | subtitles.entity.goat.ram_impact |
+| ヤギが叫ぶ | Goat bellows | subtitles.entity.goat.screaming.ambient |
+| ヤギが歩く | Goat steps | subtitles.entity.goat.step |
+| ガーディアンがささやく | Guardian moans | subtitles.entity.guardian.ambient |
+| ガーディアンが鳴く | Guardian flaps | subtitles.entity.guardian.ambient_land |
+| ガーディアンが発射する | Guardian shoots | subtitles.entity.guardian.attack |
+| ガーディアンが死ぬ | Guardian dies | subtitles.entity.guardian.death |
+| ガーディアンが跳ねる | Guardian flops | subtitles.entity.guardian.flop |
+| ガーディアンがダメージを受ける | Guardian hurts | subtitles.entity.guardian.hurt |
+| ホグリンが唸る | Hoglin growls | subtitles.entity.hoglin.ambient |
+| ホグリンが怒って唸る | Hoglin growls angrily | subtitles.entity.hoglin.angry |
+| ホグリンが攻撃をする | Hoglin attacks | subtitles.entity.hoglin.attack |
+| ホグリンがゾグリンに変わる | Hoglin converts to Zoglin | subtitles.entity.hoglin.converted_to_zombified |
+| ホグリンが死ぬ | Hoglin dies | subtitles.entity.hoglin.death |
+| ホグリンがダメージを受ける | Hoglin hurts | subtitles.entity.hoglin.hurt |
+| ホグリンが後退する | Hoglin retreats | subtitles.entity.hoglin.retreat |
+| ホグリンが歩く | Hoglin steps | subtitles.entity.hoglin.step |
+| ウマがいななく | Horse neighs | subtitles.entity.horse.ambient |
+| ウマがいななく | Horse neighs | subtitles.entity.horse.angry |
+| 馬鎧が装着される | Horse armor equips | subtitles.entity.horse.armor |
+| ウマが呼吸をする | Horse breathes | subtitles.entity.horse.breathe |
+| ウマが死ぬ | Horse dies | subtitles.entity.horse.death |
+| ウマが食べる | Horse eats | subtitles.entity.horse.eat |
+| ウマが走る | Horse gallops | subtitles.entity.horse.gallop |
+| ウマがダメージを受ける | Horse hurts | subtitles.entity.horse.hurt |
+| ウマが跳ぶ | Horse jumps | subtitles.entity.horse.jump |
+| 鞍が装着される | Saddle equips | subtitles.entity.horse.saddle |
+| ハスクがうめく | Husk groans | subtitles.entity.husk.ambient |
+| ハスクがゾンビに変わる | Husk converts to Zombie | subtitles.entity.husk.converted_to_zombie |
+| ハスクが死ぬ | Husk dies | subtitles.entity.husk.death |
+| ハスクがダメージを受ける | Husk hurts | subtitles.entity.husk.hurt |
+| イリュージョナーがつぶやく | Illusioner murmurs | subtitles.entity.illusioner.ambient |
+| イリュージョナーが呪文を唱える | Illusioner casts spell | subtitles.entity.illusioner.cast_spell |
+| イリュージョナーが死ぬ | Illusioner dies | subtitles.entity.illusioner.death |
+| イリュージョナーがダメージを受ける | Illusioner hurts | subtitles.entity.illusioner.hurt |
+| イリュージョナーが分身する | Illusioner displaces | subtitles.entity.illusioner.mirror_move |
+| イリュージョナーが盲目魔法の準備をする | Illusioner prepares blindness | subtitles.entity.illusioner.prepare_blindness |
+| イリュージョナーが分身魔法の準備をする | Illusioner prepares mirror image | subtitles.entity.illusioner.prepare_mirror |
+| アイアンゴーレムが攻撃をする | Iron Golem attacks | subtitles.entity.iron_golem.attack |
+| アイアンゴーレムが破壊される | Iron Golem breaks | subtitles.entity.iron_golem.damage |
+| アイアンゴーレムが死ぬ | Iron Golem dies | subtitles.entity.iron_golem.death |
+| アイアンゴーレムがダメージを受ける | Iron Golem hurts | subtitles.entity.iron_golem.hurt |
+| アイアンゴーレムが修復される | Iron Golem repaired | subtitles.entity.iron_golem.repair |
+| アイテムが破壊される | Item breaks | subtitles.entity.item.break |
+| アイテムが拾われる | Item plops | subtitles.entity.item.pickup |
+| 額縁にアイテムが入れられる | Item Frame fills | subtitles.entity.item_frame.add_item |
+| 額縁が破壊される | Item Frame broken | subtitles.entity.item_frame.break |
+| 額縁が設置される | Item Frame placed | subtitles.entity.item_frame.place |
+| 額縁からアイテムが取られる | Item Frame empties | subtitles.entity.item_frame.remove_item |
+| 額縁の中のアイテムが回される | Item Frame clicks | subtitles.entity.item_frame.rotate_item |
+| リードが解かれる | Leash Knot broken | subtitles.entity.leash_knot.break |
+| リードが結ばれる | Leash Knot tied | subtitles.entity.leash_knot.place |
+| 雷が落ちる | Lightning strikes | subtitles.entity.lightning_bolt.impact |
+| 雷が鳴る | Thunder roars | subtitles.entity.lightning_bolt.thunder |
+| ラマが鳴く | Llama bleats | subtitles.entity.llama.ambient |
+| ラマが怒って鳴く | Llama bleats angrily | subtitles.entity.llama.angry |
+| ラマにチェストが装着される | Llama Chest equips | subtitles.entity.llama.chest |
+| ラマが死ぬ | Llama dies | subtitles.entity.llama.death |
+| ラマが食べる | Llama eats | subtitles.entity.llama.eat |
+| ラマがダメージを受ける | Llama hurts | subtitles.entity.llama.hurt |
+| ラマが唾を吐く | Llama spits | subtitles.entity.llama.spit |
+| ラマが歩く | Llama steps | subtitles.entity.llama.step |
+| ラマが装飾される | Llama is decorated | subtitles.entity.llama.swag |
+| マグマキューブが死ぬ | Magma Cube dies | subtitles.entity.magma_cube.death |
+| マグマキューブがダメージを受ける | Magma Cube hurts | subtitles.entity.magma_cube.hurt |
+| マグマキューブが跳ねる | Magma Cube squishes | subtitles.entity.magma_cube.squish |
+| トロッコが走る | Minecart rolls | subtitles.entity.minecart.riding |
+| ムーシュルームが変化する | Mooshroom transforms | subtitles.entity.mooshroom.convert |
+| ムーシュルームが食べる | Mooshroom eats | subtitles.entity.mooshroom.eat |
+| ムーシュルームが搾乳される | Mooshroom gets milked | subtitles.entity.mooshroom.milk |
+| ムーシュルームが怪しげに搾乳される | Mooshroom gets milked suspiciously | subtitles.entity.mooshroom.suspicious_milk |
+| ラバが鳴く | Mule hee-haws | subtitles.entity.mule.ambient |
+| ラバがいななく | Mule neighs | subtitles.entity.mule.angry |
+| ラバにチェストが装着される | Mule Chest equips | subtitles.entity.mule.chest |
+| ラバが死ぬ | Mule dies | subtitles.entity.mule.death |
+| ラバが食べる | Mule eats | subtitles.entity.mule.eat |
+| ラバがダメージを受ける | Mule hurts | subtitles.entity.mule.hurt |
+| ラバが跳ぶ | Mule jumps | subtitles.entity.mule.jump |
+| 絵画が破壊される | Painting broken | subtitles.entity.painting.break |
+| 絵画が置かれる | Painting placed | subtitles.entity.painting.place |
+| パンダが怒る | Panda huffs | subtitles.entity.panda.aggressive_ambient |
+| パンダが息切れする | Panda pants | subtitles.entity.panda.ambient |
+| パンダが噛みつく | Panda bites | subtitles.entity.panda.bite |
+| パンダが鳴く | Panda bleats | subtitles.entity.panda.cant_breed |
+| パンダが死ぬ | Panda dies | subtitles.entity.panda.death |
+| パンダが食べる | Panda eats | subtitles.entity.panda.eat |
+| パンダがダメージを受ける | Panda hurts | subtitles.entity.panda.hurt |
+| パンダの鼻がムズムズする | Panda's nose tickles | subtitles.entity.panda.pre_sneeze |
+| パンダがくしゃみをする | Panda sneezes | subtitles.entity.panda.sneeze |
+| パンダが歩く | Panda steps | subtitles.entity.panda.step |
+| パンダがすすり泣く | Panda whimpers | subtitles.entity.panda.worried_ambient |
+| オウムが鳴く | Parrot talks | subtitles.entity.parrot.ambient |
+| オウムが死ぬ | Parrot dies | subtitles.entity.parrot.death |
+| オウムが食べる | Parrot eats | subtitles.entity.parrot.eats |
+| オウムが羽ばたく | Parrot flutters | subtitles.entity.parrot.fly |
+| オウムがダメージを受ける | Parrot hurts | subtitles.entity.parrot.hurts |
+| オウムがブレイズの呼吸する音を真似る | Parrot breathes | subtitles.entity.parrot.imitate.blaze |
+| オウムがボグドの骨を鳴らす音を真似る | Parrot rattles | subtitles.entity.parrot.imitate.bogged |
+| オウムがブリーズの風の音を真似る | Parrot whirs | subtitles.entity.parrot.imitate.breeze |
+| オウムがクリーパーの着火音を真似る | Parrot hisses | subtitles.entity.parrot.imitate.creeper |
+| オウムがドラウンドの音を真似る | Parrot gurgles | subtitles.entity.parrot.imitate.drowned |
+| オウムがガーディアンのささやき声をまねる | Parrot moans | subtitles.entity.parrot.imitate.elder_guardian |
+| オウムがドラゴンの咆哮を真似る | Parrot roars | subtitles.entity.parrot.imitate.ender_dragon |
+| オウムがエンダーマイトの鳴き声を真似る | Parrot scuttles | subtitles.entity.parrot.imitate.endermite |
+| オウムがエヴォーカーのつぶやく声を真似る | Parrot murmurs | subtitles.entity.parrot.imitate.evoker |
+| オウムがガストの泣く声を真似る | Parrot cries | subtitles.entity.parrot.imitate.ghast |
+| オウムがガーディアンのささやき声を真似る | Parrot moans | subtitles.entity.parrot.imitate.guardian |
+| オウムがホグリンの唸り声を真似る | Parrot growls | subtitles.entity.parrot.imitate.hoglin |
+| オウムがハスクのうめき声を真似る | Parrot groans | subtitles.entity.parrot.imitate.husk |
+| オウムがイリュージョナーのつぶやく声を真似る | Parrot murmurs | subtitles.entity.parrot.imitate.illusioner |
+| オウムがマグマキューブの跳ねる音を真似る | Parrot squishes | subtitles.entity.parrot.imitate.magma_cube |
+| オウムがファントムの鳴き声を真似る | Parrot screeches | subtitles.entity.parrot.imitate.phantom |
+| オウムがピグリンの鼻を鳴らす音を真似る | Parrot snorts | subtitles.entity.parrot.imitate.piglin |
+| オウムがピグリンブルートの鼻を鳴らす音を真似る | Parrot snorts | subtitles.entity.parrot.imitate.piglin_brute |
+| オウムがピリジャーのつぶやく声を真似る | Parrot murmurs | subtitles.entity.parrot.imitate.pillager |
+| オウムがゾンビピッグマンのうめき声を真似る | Parrot grunts | subtitles.entity.parrot.imitate.ravager |
+| オウムがシュルカーの鳴き声を真似る | Parrot lurks | subtitles.entity.parrot.imitate.shulker |
+| オウムがシルバーフィッシュの鳴く声を真似る | Parrot hisses | subtitles.entity.parrot.imitate.silverfish |
+| オウムがスケルトンの骨を鳴らす音を真似る | Parrot rattles | subtitles.entity.parrot.imitate.skeleton |
+| オウムがスライムの跳ねる音を真似る | Parrot squishes | subtitles.entity.parrot.imitate.slime |
+| オウムがクモの鳴き声を真似る | Parrot hisses | subtitles.entity.parrot.imitate.spider |
+| オウムがストレイの骨を鳴らす音を真似る | Parrot rattles | subtitles.entity.parrot.imitate.stray |
+| オウムがヴェックスの焦らす声を真似る | Parrot vexes | subtitles.entity.parrot.imitate.vex |
+| オウムがヴィンディケーターのつぶやく声を真似る | Parrot mutters | subtitles.entity.parrot.imitate.vindicator |
+| オウムがウォーデンの鼻息を真似る | Parrot whines | subtitles.entity.parrot.imitate.warden |
+| オウムがウィッチの笑う声を真似る | Parrot giggles | subtitles.entity.parrot.imitate.witch |
+| オウムがウィザーの怒る声を真似る | Parrot angers | subtitles.entity.parrot.imitate.wither |
+| オウムがウィザースケルトンの骨を鳴らす音を真似る | Parrot rattles | subtitles.entity.parrot.imitate.wither_skeleton |
+| オウムがゾグリンの唸り声を真似る | Parrot growls | subtitles.entity.parrot.imitate.zoglin |
+| オウムがゾンビのうめき声を真似る | Parrot groans | subtitles.entity.parrot.imitate.zombie |
+| オウムが村人ゾンビのうめき声を真似る | Parrot groans | subtitles.entity.parrot.imitate.zombie_villager |
+| ファントムが鳴く | Phantom screeches | subtitles.entity.phantom.ambient |
+| ファントムが噛みつく | Phantom bites | subtitles.entity.phantom.bite |
+| ファントムが死ぬ | Phantom dies | subtitles.entity.phantom.death |
+| ファントムが羽ばたく | Phantom flaps | subtitles.entity.phantom.flap |
+| ファントムがダメージを受ける | Phantom hurts | subtitles.entity.phantom.hurt |
+| ファントムが急降下する | Phantom swoops | subtitles.entity.phantom.swoop |
+| ブタが鳴く | Pig oinks | subtitles.entity.pig.ambient |
+| ブタが死ぬ | Pig dies | subtitles.entity.pig.death |
+| ブタがダメージを受ける | Pig hurts | subtitles.entity.pig.hurt |
+| 鞍が装着される | Saddle equips | subtitles.entity.pig.saddle |
+| ピグリンがアイテムに見とれる | Piglin admires item | subtitles.entity.piglin.admiring_item |
+| ピグリンが鼻を鳴らす | Piglin snorts | subtitles.entity.piglin.ambient |
+| ピグリンが怒って鼻を鳴らす | Piglin snorts angrily | subtitles.entity.piglin.angry |
+| ピグリンが歓声を上げる | Piglin celebrates | subtitles.entity.piglin.celebrate |
+| ピグリンがゾンビピグリンに変わる | Piglin converts to Zombified Piglin | subtitles.entity.piglin.converted_to_zombified |
+| ピグリンが死ぬ | Piglin dies | subtitles.entity.piglin.death |
+| ピグリンがダメージを受ける | Piglin hurts | subtitles.entity.piglin.hurt |
+| ピグリンが妬ましそうに鼻を鳴らす | Piglin snorts enviously | subtitles.entity.piglin.jealous |
+| ピグリンが後退する | Piglin retreats | subtitles.entity.piglin.retreat |
+| ピグリンが歩く | Piglin steps | subtitles.entity.piglin.step |
+| ピグリンブルートが鼻を鳴らす | Piglin Brute snorts | subtitles.entity.piglin_brute.ambient |
+| ピグリンブルートが怒って鼻を鳴らす | Piglin Brute snorts angrily | subtitles.entity.piglin_brute.angry |
+| ピグリンブルートがゾンビピグリンに変わる | Piglin Brute converts to Zombified Piglin | subtitles.entity.piglin_brute.converted_to_zombified |
+| ピグリンブルートが死ぬ | Piglin Brute dies | subtitles.entity.piglin_brute.death |
+| ピグリンブルートがダメージを受ける | Piglin Brute hurts | subtitles.entity.piglin_brute.hurt |
+| ピグリンブルートが歩く | Piglin Brute steps | subtitles.entity.piglin_brute.step |
+| ピリジャーがつぶやく | Pillager murmurs | subtitles.entity.pillager.ambient |
+| ピリジャーが喜ぶ | Pillager cheers | subtitles.entity.pillager.celebrate |
+| ピリジャーが死ぬ | Pillager dies | subtitles.entity.pillager.death |
+| ピリジャーがダメージを受ける | Pillager hurts | subtitles.entity.pillager.hurt |
+| クリティカル攻撃をくり出す | Critical attack | subtitles.entity.player.attack.crit |
+| ノックバック攻撃をくり出す | Knockback attack | subtitles.entity.player.attack.knockback |
+| 強い攻撃をくり出す | Strong attack | subtitles.entity.player.attack.strong |
+| なぎ払い攻撃をくり出す | Sweeping attack | subtitles.entity.player.attack.sweep |
+| 弱い攻撃をくり出す | Weak attack | subtitles.entity.player.attack.weak |
+| ゲップをする | Burp | subtitles.entity.player.burp |
+| プレイヤーが死ぬ | Player dies | subtitles.entity.player.death |
+| プレイヤーが凍る | Player freezes | subtitles.entity.player.freeze_hurt |
+| プレイヤーがダメージを受ける | Player hurts | subtitles.entity.player.hurt |
+| プレイヤーが溺れる | Player drowning | subtitles.entity.player.hurt_drown |
+| プレイヤーが燃える | Player burns | subtitles.entity.player.hurt_on_fire |
+| プレイヤーのレベルが上がる | Player dings | subtitles.entity.player.levelup |
+| プレイヤーがテレポートする | Player teleports | subtitles.entity.player.teleport |
+| シロクマがうめく | Polar Bear groans | subtitles.entity.polar_bear.ambient |
+| 子どものシロクマが鳴く | Baby Polar Bear hums | subtitles.entity.polar_bear.ambient_baby |
+| シロクマが死ぬ | Polar Bear dies | subtitles.entity.polar_bear.death |
+| シロクマがダメージを受ける | Polar Bear hurts | subtitles.entity.polar_bear.hurt |
+| シロクマが吠える | Polar Bear roars | subtitles.entity.polar_bear.warning |
+| 瓶が割れる | Bottle smashes | subtitles.entity.potion.splash |
+| 瓶が投げられる | Bottle thrown | subtitles.entity.potion.throw |
+| フグが萎む | Pufferfish deflates | subtitles.entity.puffer_fish.blow_out |
+| フグが膨らむ | Pufferfish inflates | subtitles.entity.puffer_fish.blow_up |
+| フグが死ぬ | Pufferfish dies | subtitles.entity.puffer_fish.death |
+| フグが跳ねる | Pufferfish flops | subtitles.entity.puffer_fish.flop |
+| フグがダメージを受ける | Pufferfish hurts | subtitles.entity.puffer_fish.hurt |
+| フグが毒を刺す | Pufferfish stings | subtitles.entity.puffer_fish.sting |
+| ウサギが鳴く | Rabbit squeaks | subtitles.entity.rabbit.ambient |
+| ウサギが攻撃をする | Rabbit attacks | subtitles.entity.rabbit.attack |
+| ウサギが死ぬ | Rabbit dies | subtitles.entity.rabbit.death |
+| ウサギがダメージを受ける | Rabbit hurts | subtitles.entity.rabbit.hurt |
+| ウサギが跳ねる | Rabbit hops | subtitles.entity.rabbit.jump |
+| ラヴェジャーがうめき声を上げる | Ravager grunts | subtitles.entity.ravager.ambient |
+| ラヴェジャーが噛みつく | Ravager bites | subtitles.entity.ravager.attack |
+| ラヴェジャーが喜ぶ | Ravager cheers | subtitles.entity.ravager.celebrate |
+| ラヴェジャーが死ぬ | Ravager dies | subtitles.entity.ravager.death |
+| ラヴェジャーがダメージを受ける | Ravager hurts | subtitles.entity.ravager.hurt |
+| ラヴェジャーが唸る | Ravager roars | subtitles.entity.ravager.roar |
+| ラヴェジャーが歩く | Ravager steps | subtitles.entity.ravager.step |
+| ラヴェジャーが怯む | Ravager stunned | subtitles.entity.ravager.stunned |
+| サケが死ぬ | Salmon dies | subtitles.entity.salmon.death |
+| サケが跳ねる | Salmon flops | subtitles.entity.salmon.flop |
+| サケがダメージを受ける | Salmon hurts | subtitles.entity.salmon.hurt |
+| ヒツジが鳴く | Sheep baahs | subtitles.entity.sheep.ambient |
+| ヒツジが死ぬ | Sheep dies | subtitles.entity.sheep.death |
+| ヒツジがダメージを受ける | Sheep hurts | subtitles.entity.sheep.hurt |
+| シュルカーが鳴く | Shulker lurks | subtitles.entity.shulker.ambient |
+| シュルカーが殻を閉じる | Shulker closes | subtitles.entity.shulker.close |
+| シュルカーが死ぬ | Shulker dies | subtitles.entity.shulker.death |
+| シュルカーがダメージを受ける | Shulker hurts | subtitles.entity.shulker.hurt |
+| シュルカーの殻が開く | Shulker opens | subtitles.entity.shulker.open |
+| シュルカーが発射する | Shulker shoots | subtitles.entity.shulker.shoot |
+| シュルカーがテレポートする | Shulker teleports | subtitles.entity.shulker.teleport |
+| シュルカーの弾が爆発する | Shulker Bullet explodes | subtitles.entity.shulker_bullet.hit |
+| シュルカーの弾が砕ける | Shulker Bullet breaks | subtitles.entity.shulker_bullet.hurt |
+| シルバーフィッシュが鳴く | Silverfish hisses | subtitles.entity.silverfish.ambient |
+| シルバーフィッシュが死ぬ | Silverfish dies | subtitles.entity.silverfish.death |
+| シルバーフィッシュがダメージを受ける | Silverfish hurts | subtitles.entity.silverfish.hurt |
+| スケルトンが骨を鳴らす | Skeleton rattles | subtitles.entity.skeleton.ambient |
+| スケルトンがストレイに変わる | Skeleton converts to Stray | subtitles.entity.skeleton.converted_to_stray |
+| スケルトンが死ぬ | Skeleton dies | subtitles.entity.skeleton.death |
+| スケルトンがダメージを受ける | Skeleton hurts | subtitles.entity.skeleton.hurt |
+| スケルトンが発射する | Skeleton shoots | subtitles.entity.skeleton.shoot |
+| スケルトンホースが鳴く | Skeleton Horse cries | subtitles.entity.skeleton_horse.ambient |
+| スケルトンホースが死ぬ | Skeleton Horse dies | subtitles.entity.skeleton_horse.death |
+| スケルトンホースがダメージを受ける | Skeleton Horse hurts | subtitles.entity.skeleton_horse.hurt |
+| スケルトンホースが泳ぐ | Skeleton Horse swims | subtitles.entity.skeleton_horse.swim |
+| スライムが攻撃をする | Slime attacks | subtitles.entity.slime.attack |
+| スライムが死ぬ | Slime dies | subtitles.entity.slime.death |
+| スライムがダメージを受ける | Slime hurts | subtitles.entity.slime.hurt |
+| スライムが跳ねる | Slime squishes | subtitles.entity.slime.squish |
+| スニッファーが死ぬ | Sniffer dies | subtitles.entity.sniffer.death |
+| スニッファーが地面を掘る | Sniffer digs | subtitles.entity.sniffer.digging |
+| スニッファーが立ち上がる | Sniffer stands up | subtitles.entity.sniffer.digging_stop |
+| スニッファーが種を落とす | Sniffer drops seed | subtitles.entity.sniffer.drop_seed |
+| スニッファーが食べる | Sniffer eats | subtitles.entity.sniffer.eat |
+| スニッファーの卵にひびが入る | Sniffer Egg cracks | subtitles.entity.sniffer.egg_crack |
+| スニッファーの卵が孵化する | Sniffer Egg hatches | subtitles.entity.sniffer.egg_hatch |
+| スニッファーが喜ぶ | Sniffer delights | subtitles.entity.sniffer.happy |
+| スニッファーがダメージを受ける | Sniffer hurts | subtitles.entity.sniffer.hurt |
+| スニッファーが唸る | Sniffer grunts | subtitles.entity.sniffer.idle |
+| スニッファーが匂いを嗅ぐ | Sniffer scents | subtitles.entity.sniffer.scenting |
+| スニッファーが探る | Sniffer searches | subtitles.entity.sniffer.searching |
+| スニッファーが鼻を鳴らす | Sniffer sniffs | subtitles.entity.sniffer.sniffing |
+| スニッファーが歩く | Sniffer steps | subtitles.entity.sniffer.step |
+| スノウゴーレムが死ぬ | Snow Golem dies | subtitles.entity.snow_golem.death |
+| スノウゴーレムがダメージを受ける | Snow Golem hurts | subtitles.entity.snow_golem.hurt |
+| 雪玉が投げられる | Snowball flies | subtitles.entity.snowball.throw |
+| クモが鳴く | Spider hisses | subtitles.entity.spider.ambient |
+| クモが死ぬ | Spider dies | subtitles.entity.spider.death |
+| クモがダメージを受ける | Spider hurts | subtitles.entity.spider.hurt |
+| イカが泳ぐ | Squid swims | subtitles.entity.squid.ambient |
+| イカが死ぬ | Squid dies | subtitles.entity.squid.death |
+| イカがダメージを受ける | Squid hurts | subtitles.entity.squid.hurt |
+| イカがスミを吐く | Squid shoots ink | subtitles.entity.squid.squirt |
+| ストレイが骨を鳴らす | Stray rattles | subtitles.entity.stray.ambient |
+| ストレイが死ぬ | Stray dies | subtitles.entity.stray.death |
+| ストレイがダメージを受ける | Stray hurts | subtitles.entity.stray.hurt |
+| ストライダーが死ぬ | Strider dies | subtitles.entity.strider.death |
+| ストライダーが食べる | Strider eats | subtitles.entity.strider.eat |
+| ストライダーが震え声をあげる | Strider warbles | subtitles.entity.strider.happy |
+| ストライダーがダメージを受ける | Strider hurts | subtitles.entity.strider.hurt |
+| ストライダーが鳴く | Strider chirps | subtitles.entity.strider.idle |
+| ストライダーが後退する | Strider retreats | subtitles.entity.strider.retreat |
+| オタマジャクシが死ぬ | Tadpole dies | subtitles.entity.tadpole.death |
+| オタマジャクシが跳ねる | Tadpole flops | subtitles.entity.tadpole.flop |
+| オタマジャクシが成長する | Tadpole grows up | subtitles.entity.tadpole.grow_up |
+| オタマジャクシがダメージを受ける | Tadpole hurts | subtitles.entity.tadpole.hurt |
+| TNTが着火される | TNT fizzes | subtitles.entity.tnt.primed |
+| 熱帯魚が死ぬ | Tropical Fish dies | subtitles.entity.tropical_fish.death |
+| 熱帯魚が跳ねる | Tropical Fish flops | subtitles.entity.tropical_fish.flop |
+| 熱帯魚がダメージを受ける | Tropical Fish hurts | subtitles.entity.tropical_fish.hurt |
+| カメが鳴く | Turtle chirps | subtitles.entity.turtle.ambient_land |
+| カメが死ぬ | Turtle dies | subtitles.entity.turtle.death |
+| 子ガメが死ぬ | Baby Turtle dies | subtitles.entity.turtle.death_baby |
+| カメの卵が割れる | Turtle Egg breaks | subtitles.entity.turtle.egg_break |
+| カメの卵にひびが入る | Turtle Egg cracks | subtitles.entity.turtle.egg_crack |
+| カメの卵が孵化する | Turtle Egg hatches | subtitles.entity.turtle.egg_hatch |
+| カメがダメージを受ける | Turtle hurts | subtitles.entity.turtle.hurt |
+| 子ガメがダメージを受ける | Baby Turtle hurts | subtitles.entity.turtle.hurt_baby |
+| カメが卵を産む | Turtle lays egg | subtitles.entity.turtle.lay_egg |
+| カメが這う | Turtle shambles | subtitles.entity.turtle.shamble |
+| 子ガメが這う | Baby Turtle shambles | subtitles.entity.turtle.shamble_baby |
+| カメが泳ぐ | Turtle swims | subtitles.entity.turtle.swim |
+| ヴェックスが焦らす | Vex vexes | subtitles.entity.vex.ambient |
+| ヴェックスが叫ぶ | Vex shrieks | subtitles.entity.vex.charge |
+| ヴェックスが死ぬ | Vex dies | subtitles.entity.vex.death |
+| ヴェックスがダメージを受ける | Vex hurts | subtitles.entity.vex.hurt |
+| 村人がつぶやく | Villager mumbles | subtitles.entity.villager.ambient |
+| 村人が喜ぶ | Villager cheers | subtitles.entity.villager.celebrate |
+| 村人が死ぬ | Villager dies | subtitles.entity.villager.death |
+| 村人がダメージを受ける | Villager hurts | subtitles.entity.villager.hurt |
+| 村人が取引を拒否する | Villager disagrees | subtitles.entity.villager.no |
+| 村人が取引をする | Villager trades | subtitles.entity.villager.trade |
+| 防具鍛冶が作業をする | Armorer works | subtitles.entity.villager.work_armorer |
+| 肉屋が作業をする | Butcher works | subtitles.entity.villager.work_butcher |
+| 製図家が作業をする | Cartographer works | subtitles.entity.villager.work_cartographer |
+| 聖職者が作業をする | Cleric works | subtitles.entity.villager.work_cleric |
+| 農民が作業をする | Farmer works | subtitles.entity.villager.work_farmer |
+| 釣り人が作業をする | Fisherman works | subtitles.entity.villager.work_fisherman |
+| 矢師が作業をする | Fletcher works | subtitles.entity.villager.work_fletcher |
+| 革職人が作業をする | Leatherworker works | subtitles.entity.villager.work_leatherworker |
+| 司書が作業をする | Librarian works | subtitles.entity.villager.work_librarian |
+| 石工が作業をする | Mason works | subtitles.entity.villager.work_mason |
+| 羊飼いが作業をする | Shepherd works | subtitles.entity.villager.work_shepherd |
+| 道具鍛冶が作業をする | Toolsmith works | subtitles.entity.villager.work_toolsmith |
+| 武器鍛冶が作業をする | Weaponsmith works | subtitles.entity.villager.work_weaponsmith |
+| 村人が取引を受諾する | Villager agrees | subtitles.entity.villager.yes |
+| ヴィンディケーターがつぶやく | Vindicator mutters | subtitles.entity.vindicator.ambient |
+| ヴィンディケーターが喜ぶ | Vindicator cheers | subtitles.entity.vindicator.celebrate |
+| ヴィンディケーターが死ぬ | Vindicator dies | subtitles.entity.vindicator.death |
+| ヴィンディケーターがダメージを受ける | Vindicator hurts | subtitles.entity.vindicator.hurt |
+| 行商人がつぶやく | Wandering Trader mumbles | subtitles.entity.wandering_trader.ambient |
+| 行商人が死ぬ | Wandering Trader dies | subtitles.entity.wandering_trader.death |
+| 行商人が姿を消す | Wandering Trader disappears | subtitles.entity.wandering_trader.disappeared |
+| 行商人がミルクを飲む | Wandering Trader drinks milk | subtitles.entity.wandering_trader.drink_milk |
+| 行商人がポーションを飲む | Wandering Trader drinks potion | subtitles.entity.wandering_trader.drink_potion |
+| 行商人がダメージを受ける | Wandering Trader hurts | subtitles.entity.wandering_trader.hurt |
+| 行商人が取引を拒否する | Wandering Trader disagrees | subtitles.entity.wandering_trader.no |
+| 行商人が現れる | Wandering Trader appears | subtitles.entity.wandering_trader.reappeared |
+| 行商人が取引をする | Wandering Trader trades | subtitles.entity.wandering_trader.trade |
+| 村人が取引を受諾する | Wandering Trader agrees | subtitles.entity.wandering_trader.yes |
+| ウォーデンが怒って唸る | Warden groans angrily | subtitles.entity.warden.agitated |
+| ウォーデンが鼻息を立てる | Warden whines | subtitles.entity.warden.ambient |
+| ウォーデンが激怒する | Warden rages | subtitles.entity.warden.angry |
+| ウォーデンが打撃を与える | Warden lands hit | subtitles.entity.warden.attack_impact |
+| ウォーデンが死ぬ | Warden dies | subtitles.entity.warden.death |
+| ウォーデンが地面を掘る | Warden digs | subtitles.entity.warden.dig |
+| ウォーデンが出現する | Warden emerges | subtitles.entity.warden.emerge |
+| ウォーデンの心臓が鼓動する | Warden's heart beats | subtitles.entity.warden.heartbeat |
+| ウォーデンがダメージを受ける | Warden hurts | subtitles.entity.warden.hurt |
+| ウォーデンが気付く | Warden takes notice | subtitles.entity.warden.listening |
+| ウォーデンが怒って気付く | Warden takes notice angrily | subtitles.entity.warden.listening_angry |
+| ウォーデンが近づく | Warden approaches | subtitles.entity.warden.nearby_close |
+| ウォーデンが前進する | Warden advances | subtitles.entity.warden.nearby_closer |
+| ウォーデンが近くに迫る | Warden draws close | subtitles.entity.warden.nearby_closest |
+| ウォーデンが咆哮を上げる | Warden roars | subtitles.entity.warden.roar |
+| ウォーデンが嗅ぐ | Warden sniffs | subtitles.entity.warden.sniff |
+| ウォーデンが衝撃波を放つ | Warden booms | subtitles.entity.warden.sonic_boom |
+| ウォーデンが攻撃を溜める | Warden charges | subtitles.entity.warden.sonic_charge |
+| ウォーデンが歩く | Warden steps | subtitles.entity.warden.step |
+| ウォーデンが触角を打ち鳴らす | Warden's tendrils click | subtitles.entity.warden.tendril_clicks |
+| ウィンドチャージが投げられる | Wind Charge flies | subtitles.entity.wind_charge.throw |
+| ウィンドチャージが炸裂する | Wind Charge bursts | subtitles.entity.wind_charge.wind_burst |
+| ウィッチが笑う | Witch giggles | subtitles.entity.witch.ambient |
+| ウィッチが喜ぶ | Witch cheers | subtitles.entity.witch.celebrate |
+| ウィッチが死ぬ | Witch dies | subtitles.entity.witch.death |
+| ウィッチが飲む | Witch drinks | subtitles.entity.witch.drink |
+| ウィッチがダメージを受ける | Witch hurts | subtitles.entity.witch.hurt |
+| ウィッチが投げる | Witch throws | subtitles.entity.witch.throw |
+| ウィザーが怒る | Wither angers | subtitles.entity.wither.ambient |
+| ウィザーが死ぬ | Wither dies | subtitles.entity.wither.death |
+| ウィザーがダメージを受ける | Wither hurts | subtitles.entity.wither.hurt |
+| ウィザーが攻撃をする | Wither attacks | subtitles.entity.wither.shoot |
+| ウィザーが攻撃を開始する | Wither released | subtitles.entity.wither.spawn |
+| ウィザースケルトンが骨を鳴らす | Wither Skeleton rattles | subtitles.entity.wither_skeleton.ambient |
+| ウィザースケルトンが死ぬ | Wither Skeleton dies | subtitles.entity.wither_skeleton.death |
+| ウィザースケルトンがダメージを受ける | Wither Skeleton hurts | subtitles.entity.wither_skeleton.hurt |
+| オオカミが息切れする | Wolf pants | subtitles.entity.wolf.ambient |
+| オオカミが死ぬ | Wolf dies | subtitles.entity.wolf.death |
+| オオカミが唸る | Wolf growls | subtitles.entity.wolf.growl |
+| オオカミがダメージを受ける | Wolf hurts | subtitles.entity.wolf.hurt |
+| オオカミが身震いをする | Wolf shakes | subtitles.entity.wolf.shake |
+| ゾグリンが唸る | Zoglin growls | subtitles.entity.zoglin.ambient |
+| ゾグリンが怒って唸る | Zoglin growls angrily | subtitles.entity.zoglin.angry |
+| ゾグリンが攻撃をする | Zoglin attacks | subtitles.entity.zoglin.attack |
+| ゾグリンが死ぬ | Zoglin dies | subtitles.entity.zoglin.death |
+| ゾグリンがダメージを受ける | Zoglin hurts | subtitles.entity.zoglin.hurt |
+| ゾグリンが歩く | Zoglin steps | subtitles.entity.zoglin.step |
+| ゾンビがうめく | Zombie groans | subtitles.entity.zombie.ambient |
+| ドアが叩かれる | Door shakes | subtitles.entity.zombie.attack_wooden_door |
+| ドアが破壊される | Door breaks | subtitles.entity.zombie.break_wooden_door |
+| ゾンビがドラウンドに変わる | Zombie converts to Drowned | subtitles.entity.zombie.converted_to_drowned |
+| ゾンビが死ぬ | Zombie dies | subtitles.entity.zombie.death |
+| カメの卵が踏み潰される | Turtle Egg stomped | subtitles.entity.zombie.destroy_egg |
+| ゾンビがダメージを受ける | Zombie hurts | subtitles.entity.zombie.hurt |
+| ゾンビが感染させる | Zombie infects | subtitles.entity.zombie.infect |
+| ゾンビホースが鳴く | Zombie Horse cries | subtitles.entity.zombie_horse.ambient |
+| ゾンビホースが死ぬ | Zombie Horse dies | subtitles.entity.zombie_horse.death |
+| ゾンビホースがダメージを受ける | Zombie Horse hurts | subtitles.entity.zombie_horse.hurt |
+| 村人ゾンビがうめく | Zombie Villager groans | subtitles.entity.zombie_villager.ambient |
+| 村人ゾンビが叫ぶ | Zombie Villager vociferates | subtitles.entity.zombie_villager.converted |
+| 村人ゾンビが治療される | Zombie Villager snuffles | subtitles.entity.zombie_villager.cure |
+| 村人ゾンビが死ぬ | Zombie Villager dies | subtitles.entity.zombie_villager.death |
+| 村人ゾンビがダメージを受ける | Zombie Villager hurts | subtitles.entity.zombie_villager.hurt |
+| ゾンビピグリンがうめく | Zombified Piglin grunts | subtitles.entity.zombified_piglin.ambient |
+| ゾンビピグリンが怒ってうめく | Zombified Piglin grunts angrily | subtitles.entity.zombified_piglin.angry |
+| ゾンビピグリンが死ぬ | Zombified Piglin dies | subtitles.entity.zombified_piglin.death |
+| ゾンビピグリンがダメージを受ける | Zombified Piglin hurts | subtitles.entity.zombified_piglin.hurt |
+| 不吉な予感に囚われる | Omen takes hold | subtitles.event.mob_effect.bad_omen |
+| 襲撃が差し迫る | Raid looms nearby | subtitles.event.mob_effect.raid_omen |
+| 不吉な試練が差し迫る | Ominous trial looms nearby | subtitles.event.mob_effect.trial_omen |
+| 不気味な角笛が鳴り響く | Ominous horn blares | subtitles.event.raid.horn |
+| アイテムが与えられる | Gear equips | subtitles.item.armor.equip |
+| チェーンの防具が装着される | Chain armor jingles | subtitles.item.armor.equip_chain |
+| ダイヤモンドの防具が装着される | Diamond armor clangs | subtitles.item.armor.equip_diamond |
+| エリトラが装着される | Elytra rustle | subtitles.item.armor.equip_elytra |
+| 金の防具が装着される | Gold armor clinks | subtitles.item.armor.equip_gold |
+| 鉄の防具が装着される | Iron armor clanks | subtitles.item.armor.equip_iron |
+| 革の防具が装着される | Leather armor rustles | subtitles.item.armor.equip_leather |
+| ネザライトの防具が装着される | Netherite armor clanks | subtitles.item.armor.equip_netherite |
+| カメの甲羅が装着される | Turtle Shell thunks | subtitles.item.armor.equip_turtle |
+| オオカミの鎧を着せる | Wolf Armor is fastened | subtitles.item.armor.equip_wolf |
+| オオカミの鎧を脱がす | Wolf Armor snips away | subtitles.item.armor.unequip_wolf |
+| 斧でこすり落とす | Axe scrapes | subtitles.item.axe.scrape |
+| 斧で剥がす | Axe strips | subtitles.item.axe.strip |
+| 蝋を落とす | Wax off | subtitles.item.axe.wax_off |
+| 骨粉が使用される | Bone Meal crinkles | subtitles.item.bone_meal.use |
+| ページがめくられる | Page rustles | subtitles.item.book.page_turn |
+| 本が置かれる | Book thumps | subtitles.item.book.put |
+| 瓶が空になる | Bottle empties | subtitles.item.bottle.empty |
+| 瓶が満たされる | Bottle fills | subtitles.item.bottle.fill |
+| ブラシで払う | Brushing | subtitles.item.brush.brushing.generic |
+| ブラシで砂利を払う | Brushing Gravel | subtitles.item.brush.brushing.gravel |
+| 砂利が完全に払われる | Brushing Gravel completed | subtitles.item.brush.brushing.gravel.complete |
+| ブラシで砂を払う | Brushing Sand | subtitles.item.brush.brushing.sand |
+| 砂が完全に払われる | Brushing Sand completed | subtitles.item.brush.brushing.sand.complete |
+| バケツが空になる | Bucket empties | subtitles.item.bucket.empty |
+| バケツが満たされる | Bucket fills | subtitles.item.bucket.fill |
+| ウーパールーパーがバケツですくわれる | Axolotl scooped | subtitles.item.bucket.fill_axolotl |
+| 魚が捕まる | Fish captured | subtitles.item.bucket.fill_fish |
+| オタマジャクシが捕まる | Tadpole captured | subtitles.item.bucket.fill_tadpole |
+| バンドルが空になる | Bundle empties | subtitles.item.bundle.drop_contents |
+| アイテムが収納される | Item packed | subtitles.item.bundle.insert |
+| アイテムを取り出す | Item unpacked | subtitles.item.bundle.remove_one |
+| プレイヤーがテレポートする | Player teleports | subtitles.item.chorus_fruit.teleport |
+| 作物が植えられる | Crop planted | subtitles.item.crop.plant |
+| クロスボウが引かれる | Crossbow charges up | subtitles.item.crossbow.charge |
+| 矢が当たる | Arrow hits | subtitles.item.crossbow.hit |
+| クロスボウが装填される | Crossbow loads | subtitles.item.crossbow.load |
+| クロスボウから発射される | Crossbow fires | subtitles.item.crossbow.shoot |
+| 染料で染色する | Dye stains | subtitles.item.dye.use |
+| 火の玉が発射される | Fireball whooshes | subtitles.item.firecharge.use |
+| 火打石と打ち金で着火する | Flint and Steel click | subtitles.item.flintandsteel.use |
+| 輝くイカスミで染める | Glow Ink Sac splotches | subtitles.item.glow_ink_sac.use |
+| ヤギの角笛が吹き鳴らされる | Goat Horn plays | subtitles.item.goat_horn.play |
+| クワで耕す | Hoe tills | subtitles.item.hoe.till |
+| 飲み干す | Gulping | subtitles.item.honey_bottle.drink |
+| 蝋を引く | Wax on | subtitles.item.honeycomb.wax_on |
+| イカスミで染める | Ink Sac splotches | subtitles.item.ink_sac.use |
+| ロードストーンコンパスがロードストーンに紐付く | Lodestone Compass locks onto Lodestone | subtitles.item.lodestone_compass.lock |
+| メイスが振り下ろされる | Mace smashes | subtitles.item.mace.smash_air |
+| メイスが振り下ろされる | Mace smashes | subtitles.item.mace.smash_ground |
+| 作物が植えられる | Crop planted | subtitles.item.nether_wart.plant |
+| 瓶が割れる | Bottle breaks | subtitles.item.ominous_bottle.dispose |
+| ハサミで刈る | Shears click | subtitles.item.shears.shear |
+| 盾で防御する | Shield blocks | subtitles.item.shield.block |
+| シャベルで均す | Shovel flattens | subtitles.item.shovel.flatten |
+| 望遠鏡をしまう | Spyglass retracts | subtitles.item.spyglass.stop_using |
+| 望遠鏡を覗く | Spyglass expands | subtitles.item.spyglass.use |
+| トーテムが発動する | Totem activates | subtitles.item.totem.use |
+| トライデントが突き刺さる | Trident stabs | subtitles.item.trident.hit |
+| トライデントがブロックに突き刺さる | Trident vibrates | subtitles.item.trident.hit_ground |
+| トライデントが戻ってくる | Trident returns | subtitles.item.trident.return |
+| トライデントで突進する | Trident zooms | subtitles.item.trident.riptide |
+| トライデントが投げられる | Trident clangs | subtitles.item.trident.throw |
+| トライデントの雷が轟く | Trident thunder cracks | subtitles.item.trident.thunder |
+| オオカミの鎧が破壊される | Wolf Armor breaks | subtitles.item.wolf_armor.break |
+| オオカミの鎧にひびが入る | Wolf Armor cracks | subtitles.item.wolf_armor.crack |
+| オオカミの鎧がダメージを受ける | Wolf Armor takes damage | subtitles.item.wolf_armor.damage |
+| オオカミの鎧が修復される | Wolf Armor is repaired | subtitles.item.wolf_armor.repair |
+| 魂が抜け出る | Soul escapes | subtitles.particle.soul_escape |
+| 地図が描かれる | Map drawn | subtitles.ui.cartography_table.take_result |
+| 機織り機が使用される | Loom used | subtitles.ui.loom.take_result |
+| 石切台が使用される | Stonecutter used | subtitles.ui.stonecutter.take_result |
+| 雨が降る | Rain falls | subtitles.weather.rain |
+| シンボリックリンクのあるフォルダからワールドを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は%sからご確認いただけます。 | Loading worlds from folders with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more. | symlink_warning.message |
+| シンボリックリンクのあるフォルダからパックを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は%sからご確認いただけます。 | Loading packs with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more. | symlink_warning.message.pack |
+| シンボリックリンクのあるフォルダからワールドを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は%sからご確認いただけます。 | Loading worlds from folders with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more. | symlink_warning.message.world |
+| 詳細な情報 | More Information | symlink_warning.more_info |
+| シンボリックリンクを含むワールドフォルダ | World folder contains symbolic links | symlink_warning.title |
+| 追加されたパックにシンボリックリンクが含まれています | Added pack(s) contain(s) symbolic links | symlink_warning.title.pack |
+| ワールドフォルダにシンボリックリンクが含まれています | The world folder contains symbolic links | symlink_warning.title.world |
+| 常に有効 | Always | team.collision.always |
+| 常に無効 | Never | team.collision.never |
+| 他チームに有効 | Push other teams | team.collision.pushOtherTeams |
+| 自チームに有効 | Push own team | team.collision.pushOwnTeam |
+| 「%s」は不明なチームです | Unknown team '%s' | team.notFound |
+| 常に表示 | Always | team.visibility.always |
+| 他チームに非表示 | Hide for other teams | team.visibility.hideForOtherTeams |
+| 自チームに非表示 | Hide for own team | team.visibility.hideForOwnTeam |
+| 常に非表示 | Never | team.visibility.never |
+| 進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。 | Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game. | telemetry.event.advancement_made.description |
+| 進捗の達成に関するデータ | Advancement Made | telemetry.event.advancement_made.title |
+| このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。 | This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases. | telemetry.event.game_load_times.description |
+| ゲームの読み込み時間 | Game Load Times | telemetry.event.game_load_times.title |
+| %s（任意） | %s (Optional) | telemetry.event.optional |
+| %s（任意） - 無効 | %s (Optional) - Disabled | telemetry.event.optional.disabled |
+| Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。\n新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。 | Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems. \nGame version is included to help us compare the performance profile for new versions of Minecraft. | telemetry.event.performance_metrics.description |
+| パフォーマンス測定 | Performance Metrics | telemetry.event.performance_metrics.title |
+| %s（必須） | %s (Required) | telemetry.event.required |
+| ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい機能の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。 | It’s important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times. | telemetry.event.world_load_times.description |
+| ワールド読み込み時間 | World Load Times | telemetry.event.world_load_times.title |
+| プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。\nワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。 | Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.\nThe World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted. | telemetry.event.world_loaded.description |
+| ワールドロード | World Loaded | telemetry.event.world_loaded.title |
+| このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。\n継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。 | This event is paired with the World Loaded event to calculate how long the world session has lasted.\nThe duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server). | telemetry.event.world_unloaded.description |
+| ワールドアンロード | World Unloaded | telemetry.event.world_unloaded.title |
+| ゲーム内時間（ティック） | Game Time (Ticks) | telemetry.property.advancement_game_time.title |
+| 進捗ID | Advancement ID | telemetry.property.advancement_id.title |
+| クライアントID | Client ID | telemetry.property.client_id.title |
+| Modが導入されたクライアント | Client Modded | telemetry.property.client_modded.title |
+| 専用メモリ（kB） | Dedicated Memory (kB) | telemetry.property.dedicated_memory_kb.title |
+| イベントの時刻（UTC） | Event Timestamp (UTC) | telemetry.property.event_timestamp_utc.title |
+| フレームレートのサンプル（FPS） | Frame Rate Samples (FPS) | telemetry.property.frame_rate_samples.title |
+| ゲームモード | Game Mode | telemetry.property.game_mode.title |
+| ゲームのバージョン | Game Version | telemetry.property.game_version.title |
+| ランチャー名 | Launcher Name | telemetry.property.launcher_name.title |
+| 起動所要時間（ミリ秒） | Bootstrap Time (Milliseconds) | telemetry.property.load_time_bootstrap_ms.title |
+| 読み込み画面の所要時間（ミリ秒） | Time in Loading Screen (Milliseconds) | telemetry.property.load_time_loading_overlay_ms.title |
+| ウィンドウが開くまでの時間（ミリ秒） | Time Before Window Opens (Milliseconds) | telemetry.property.load_time_pre_window_ms.title |
+| 総読み込み時間（ミリ秒） | Total Load Time (Milliseconds) | telemetry.property.load_time_total_time_ms.title |
+| MinecraftのセッションID | Minecraft Session ID | telemetry.property.minecraft_session_id.title |
+| 新規ワールド | New World | telemetry.property.new_world.title |
+| サンプリング数 | Sample Count | telemetry.property.number_of_samples.title |
+| オペレーティングシステム | Operating System | telemetry.property.operating_system.title |
+| オプトイン | Opt-In | telemetry.property.opt_in.title |
+| プラットフォーム | Platform | telemetry.property.platform.title |
+| Realmsのマップコンテンツ（ミニゲームの名前） | Realms Map Content (Minigame Name) | telemetry.property.realms_map_content.title |
+| 描画距離 | Render Distance | telemetry.property.render_distance.title |
+| 描画所要時間のサンプル | Render Time Samples | telemetry.property.render_time_samples.title |
+| 読み込みからの時間（秒） | Time Since Load (Seconds) | telemetry.property.seconds_since_load.title |
+| Modが導入されたサーバー | Server Modded | telemetry.property.server_modded.title |
+| サーバーの種類 | Server Type | telemetry.property.server_type.title |
+| 読み込みからの時間（ティック） | Time Since Load (Ticks) | telemetry.property.ticks_since_load.title |
+| 使用されたランダムアクセスメモリ | Used Random Access Memory | telemetry.property.used_memory_samples.title |
+| ユーザーID | User ID | telemetry.property.user_id.title |
+| ワールドの読み込み時間（ミリ秒） | World Load Time (Milliseconds) | telemetry.property.world_load_time_ms.title |
+| ワールドのセッションID | World Session ID | telemetry.property.world_session_id.title |
+| フィードバックを送信 | Give Feedback | telemetry_info.button.give_feedback |
+| プライバシーに関する声明 | Privacy Statement | telemetry_info.button.privacy_statement |
+| 自分のデータを確認する | View My Data | telemetry_info.button.show_data |
+| 任意の遠隔測定データを送信することに同意する | I consent to sending optional telemetry data | telemetry_info.opt_in.description |
+| 含まれるデータ | Included Data | telemetry_info.property_title |
+| これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。\nまた、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。 | Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.\nYou can also send in additional feedback to help us keep improving Minecraft. | telemetry_info.screen.description |
+| データの遠隔収集 | Telemetry Data Collection | telemetry_info.screen.title |
+| 32bitシステムが検出されました：将来的には64ビットシステムが必要になるため、ゲームがプレイできなくなる可能性があります。 | "32-bit system detected |  this may prevent you from playing in the future as a 64-bit system will be required!," | title.32bit.deprecation |
+| Minecraftはまもなく64bitシステムが必須となるため、このデバイスでRealmsのプレイや利用ができなくなります。そのため、ご自身でRealmsを解約する必要があります。 | Minecraft will soon require a 64-bit system, which will prevent you from playing or using Realms on this device. You will need to manually cancel any Realms subscription. | title.32bit.deprecation.realms |
+| この画面を再度表示しない | Do not show this screen again | title.32bit.deprecation.realms.check |
+| 32bitシステムが検出されました | 32-bit system detected | title.32bit.deprecation.realms.header |
+| Copyright Mojang AB. 配布禁止！ | Copyright Mojang AB. Do not distribute! | title.credits |
+| マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください。 | Multiplayer is disabled. Please check your Microsoft account settings. | title.multiplayer.disabled |
+| オンラインでプレイするには名前の変更が必要です | You must change your name before you can play online | title.multiplayer.disabled.banned.name |
+| このアカウントは永久にオンラインプレイを無効化されました | Your account is permanently suspended from online play | title.multiplayer.disabled.banned.permanent |
+| このアカウントは一時的にオンラインプレイを無効化されています | Your account is temporarily suspended from online play | title.multiplayer.disabled.banned.temporary |
+| マルチプレイ（LAN） | Multiplayer (LAN) | title.multiplayer.lan |
+| マルチプレイ（サードパーティーのサーバー） | Multiplayer (3rd-party Server) | title.multiplayer.other |
+| マルチプレイ（Realms） | Multiplayer (Realms) | title.multiplayer.realms |
+| シングルプレイ | Singleplayer | title.singleplayer |
+| %s %s | %s %s | translation.test.args |
+| Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again! | Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again! | translation.test.complex |
+| %%s %%%s %%%%s %%%%%s | %%s %%%s %%%%s %%%%%s | translation.test.escape |
+| hi % | hi % | translation.test.invalid |
+| hi %s | hi %  s | translation.test.invalid2 |
+| Hello, world! | Hello, world! | translation.test.none |
+| world | world | translation.test.world |
+| アメジスト素材 | Amethyst Material | trim_material.minecraft.amethyst |
+| 銅素材 | Copper Material | trim_material.minecraft.copper |
+| ダイヤモンド素材 | Diamond Material | trim_material.minecraft.diamond |
+| エメラルド素材 | Emerald Material | trim_material.minecraft.emerald |
+| 金素材 | Gold Material | trim_material.minecraft.gold |
+| 鉄素材 | Iron Material | trim_material.minecraft.iron |
+| ラピスラズリ素材 | Lapis Material | trim_material.minecraft.lapis |
+| ネザライト素材 | Netherite Material | trim_material.minecraft.netherite |
+| ネザークォーツ素材 | Quartz Material | trim_material.minecraft.quartz |
+| レッドストーン素材 | Redstone Material | trim_material.minecraft.redstone |
+| ネジ止め風の装飾 | Bolt Armor Trim | trim_pattern.minecraft.bolt |
+| 海洋風の装飾 | Coast Armor Trim | trim_pattern.minecraft.coast |
+| 砂丘風の装飾 | Dune Armor Trim | trim_pattern.minecraft.dune |
+| エンダーアイ風の装飾 | Eye Armor Trim | trim_pattern.minecraft.eye |
+| 旋風の装飾 | Flow Armor Trim | trim_pattern.minecraft.flow |
+| 主人風の装飾 | Host Armor Trim | trim_pattern.minecraft.host |
+| 牧者風の装飾 | Raiser Armor Trim | trim_pattern.minecraft.raiser |
+| あばら模様の装飾 | Rib Armor Trim | trim_pattern.minecraft.rib |
+| 略奪者風の装飾 | Sentry Armor Trim | trim_pattern.minecraft.sentry |
+| 職人風の装飾 | Shaper Armor Trim | trim_pattern.minecraft.shaper |
+| 静寂の装飾 | Silence Armor Trim | trim_pattern.minecraft.silence |
+| ブタの鼻風の装飾 | Snout Armor Trim | trim_pattern.minecraft.snout |
+| 尖塔風の装飾 | Spire Armor Trim | trim_pattern.minecraft.spire |
+| 潮流風の装飾 | Tide Armor Trim | trim_pattern.minecraft.tide |
+| ヴェックス風の装飾 | Vex Armor Trim | trim_pattern.minecraft.vex |
+| 監獄風の装飾 | Ward Armor Trim | trim_pattern.minecraft.ward |
+| 先駆者風の装飾 | Wayfinder Armor Trim | trim_pattern.minecraft.wayfinder |
+| 大自然風の装飾 | Wild Armor Trim | trim_pattern.minecraft.wild |
+| 右クリックでアイテムを収納します | Right Click to add items | tutorial.bundleInsert.description |
+| バンドルを使ってみましょう | Use a Bundle | tutorial.bundleInsert.title |
+| レシピ本が助けになります | The recipe book can help | tutorial.craft_planks.description |
+| 板材をクラフトしましょう | Craft wooden planks | tutorial.craft_planks.title |
+| パンチして木材を回収します | Punch it to collect wood | tutorial.find_tree.description |
+| 木を探しましょう | Find a tree | tutorial.find_tree.title |
+| マウスを使って視点移動します | Use your mouse to turn | tutorial.look.description |
+| 周りを見渡しましょう | Look around | tutorial.look.title |
+| %sでジャンプします | Jump with %s | tutorial.move.description |
+| %s、%s、%s、%sで移動します | Move with %s, %s, %s and %s | tutorial.move.title |
+| %sを押します | Press %s | tutorial.open_inventory.description |
+| インベントリを開きましょう | Open your inventory | tutorial.open_inventory.title |
+| %sを長押しします | Hold down %s | tutorial.punch_tree.description |
+| 木を倒しましょう | Destroy the tree | tutorial.punch_tree.title |
+| %sで開く | Press %s to open | tutorial.socialInteractions.description |
+| 社交設定 | Social Interactions | tutorial.socialInteractions.title |
+| ネザライト強化 | Netherite Upgrade | upgrade.minecraft.netherite_upgrade |
