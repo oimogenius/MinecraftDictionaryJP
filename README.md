@@ -1,3 +1,4 @@
+# 1.21.1
 | 日本語 | 英語 | キー |
 | :--- | :--- | :--- |
 | アクセシビリティ設定… | Accessibility Settings... | accessibility.onboarding.accessibility.button |
