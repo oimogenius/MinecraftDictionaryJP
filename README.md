@@ -1,6 +1,8 @@
 # 1.21.1
+※一部欠けていたり、正確にフォーマットできていない箇所があります。あくまで参考情報としてご覧ください。<br>
+
 | 日本語 | 英語 | キー |
-| :--- | :--- | :--- |
+| :------ | :------ | :--- |
 | アクセシビリティ設定… | Accessibility Settings... | accessibility.onboarding.accessibility.button |
 | Enterを押すと音声読み上げが有効になります | Press enter to enable the narrator | accessibility.onboarding.screen.narrator |
 | Minecraftへようこそ！\n\nここでは、音声読み上げの有効・無効の設定と、アクセシビリティ設定画面への移動ができます。 | Welcome to Minecraft!\n\nWould you like to enable the Narrator or visit the Accessibility Settings? | accessibility.onboarding.screen.title |
@@ -6879,4 +6881,4 @@
 | 木を倒しましょう | Destroy the tree | tutorial.punch_tree.title |
 | %sで開く | Press %s to open | tutorial.socialInteractions.description |
 | 社交設定 | Social Interactions | tutorial.socialInteractions.title |
-| ネザライト強化" | Netherite Upgrade | upgrade.minecraft.netherite_upgrade |
+| ネザライト強化 | Netherite Upgrade | upgrade.minecraft.netherite_upgrade |
